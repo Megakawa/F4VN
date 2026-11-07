@@ -1,0 +1,5 @@
+offset=1792
+last_batch_end_line=1792
+status=retrying_translation
+model=qwen3.5:9b
+batch_size=800

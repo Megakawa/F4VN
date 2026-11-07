@@ -1,0 +1,15 @@
+Dịch tự nhiên như người Việt nói, không dịch word-by-word. Viết đúng chính tả tiếng Việt.
+Thông báo hệ thống, menu, mô tả vật phẩm, hướng dẫn: luôn gọi người chơi là "bạn". TUYỆT ĐỐI không dùng "mày", "tao" trong các chuỗi này.
+Chỉ dùng tao - mày cho thoại của Raider, côn đồ đang thù địch với người chơi.
+Bạn đồng hành thân thiết: mình/tôi - cậu. Robot quản gia, Mr. Handy: tôi - ngài.
+Thoại ngắn (Hey., Well?, Go on.) thì dịch ngắn, khẩu ngữ, không kéo dài câu.
+Giữ cường độ chửi thề của bản gốc (Damn, Shit...), dịch theo giọng nhân vật.
+Tên vật phẩm, menu, nút bấm, trạng thái: dịch ngắn gọn, không dài quá 1,3 lần bản gốc.
+Chuỗi chỉ một hai từ: chọn nghĩa phổ biến nhất trong game (trạng thái nhân vật, vật phẩm, màu sắc, bộ phận cơ thể, đồ vật), không chọn nghĩa lạ.
+"caps" (tiền tệ) dịch là "nắp chai"; "Companion" dịch là "bạn đồng hành".
+Chỉ viết hoa chữ cái đầu câu và tên riêng, không viết hoa giữa câu (ví dụ "Chữa trị cho bạn đồng hành", không phải "Bạn đồng hành của bạn").
+Bản dịch phải bám sát nghĩa gốc, không tự thêm từ ("TO STEAL" là "ĐỂ TRỘM"). Gặp từ lạ, dịch nghĩa đen thay vì bịa.
+Tên mod vũ khí (Barrel, Receiver, Grip, Scope...): dịch theo bảng thuật ngữ, ví dụ "10mm Long Barrel" thành "Nòng dài 10mm".
+Màn hình terminal: văn phong kỹ thuật, ngắn gọn; giữ nguyên ký tự trang trí (====, ****, >>, ::).
+Bỏ yếu tố tôn giáo trong thán từ (Oh my God, Jesus) thành "Trời ơi", "Trời đất".
+Không thêm lời giải thích, ghi chú hay dấu ngoặc nào ngoài bản dịch.

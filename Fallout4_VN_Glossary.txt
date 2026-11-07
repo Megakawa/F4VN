@@ -1,0 +1,215 @@
+FALLOUT 4 - BẢNG THUẬT NGỮ VIỆT HÓA (GLOSSARY)
+==================================================
+Cách dùng: dán nguyên file này vào đầu mỗi lượt dịch (hoặc nạp làm system prompt).
+Quy ước dòng:  Tiếng Anh = Tiếng Việt      |  "= (giữ)" nghĩa là KHÔNG dịch, giữ nguyên tiếng Anh.
+Số liệu mẫu trích từ chính 3 file Fallout4_en.* của bạn (124k chuỗi). Dòng nào không hợp ý, chỉ cần sửa vế phải.
+
+
+##################################################
+A. TUYỆT ĐỐI KHÔNG DỊCH (chuỗi kỹ thuật)
+##################################################
+A1. Chuỗi ID / key của engine: một từ liền, không có dấu cách, dạng CamelCase hoặc có gạch dưới.
+    (khoảng 1.750 chuỗi trong .STRINGS, ví dụ:)
+    HC_DrinkWaterEffect = (giữ)
+    HC_DamageMultPerkEffect = (giữ)
+    AudioCategoryAMB = (giữ)
+    GreenTintDark = (giữ)
+    AvoidThreat = (giữ)
+    PlayerActivateDoorChainedSameSide = (giữ)
+A2. Chuỗi rỗng, chỉ có dấu cách " ", chỉ có số/ký hiệu ("-", "--", "...", "100") = (giữ nguyên, kể cả dấu cách)
+A3. Dòng chú thích dev: ***Do NOT include a Standard Sight*** , ***INCLUDE a NULL Muzzle*** = (giữ)
+A4. Tag, biến, phím (xem mục 1 trong file hướng dẫn):
+    <Alias=Player> <Alias.Pronoun=Player> <Alias=ActualLocation> <Global=...> <Token.Name=...>
+    <mag> <dur> <br> <p align="center"> </p> <font ...> </font> <i> </i>
+    [Click] [Accept] [Activate] [Cancel] [LeftStick] [XButton] [VATS] [PipBoy] [pagebreak] ...
+    %d  %s  %%  %AP  \n
+    <cough> <zot> <bzzzzt> <sob> <sigh> <Growl> <ERROR> <sinister laugh> = (giữ nguyên tag, dịch phần chữ xung quanh)
+
+
+##################################################
+B. TÊN RIÊNG - GIỮ NGUYÊN TIẾNG ANH
+##################################################
+--- Phe phái / tổ chức ---
+Institute = (giữ)               The Institute = (giữ)
+Commonwealth = (giữ)
+Brotherhood of Steel = (giữ)    Brotherhood = (giữ)
+Railroad = (giữ)
+Minutemen = (giữ)               Minuteman = (giữ)
+Gunners = (giữ)
+Raiders = (giữ)                 Raider = (giữ)
+Vault-Tec = (giữ)
+Children of Atom = (giữ)        Atom Cats = (giữ)
+Triggermen = (giữ)              Forged = (giữ)       Operators = (giữ)    Disciples = (giữ)
+Diamond City Security = (giữ)
+
+--- Địa danh ---
+Diamond City = (giữ)            Goodneighbor = (giữ)       Sanctuary Hills = (giữ)
+Concord = (giữ)                 Bunker Hill = (giữ)        The Castle = (giữ)
+Prydwen = (giữ)                 Boston = (giữ)             Cambridge = (giữ)
+Lexington = (giữ)               Malden = (giữ)             Quincy = (giữ)
+Glowing Sea = (giữ)             Fenway Park = (giữ)        Boston Common = (giữ)
+Far Harbor = (giữ)              Nuka-World = (giữ)         Libertalia = (giữ)
+Hangman's Alley = (giữ)         Red Rocket = (giữ)         Sunshine Tidings Co-op = (giữ)
+Vault 111 / Vault 81 / Vault 95 / Vault 114 ... = (giữ "Vault + số")
+Mọi địa danh riêng khác (nhà máy, trạm, bệnh viện, trường học có tên riêng) = (giữ)
+
+--- Nhân vật ---
+Codsworth, Dogmeat, Shaun, Nate, Nora, Preston Garvey, Piper, Nick Valentine, Hancock, Danse,
+Paladin Danse, Cait, Curie, Deacon, MacCready, Strong, X6-88, Elder Maxson, Proctor Ingram,
+Kellogg, Virgil, Father, Desdemona, Dr. Amari, Dr. Li, Sturges, Marowski, Vadim, Travis,
+Cooke, Edward, Lorenzo, Austin, Jack, Bobbi, Emogene, Glory, Tom, Paul, Silver Shroud ...
+  = (giữ tên). Danh hiệu đi kèm tên vẫn giữ: Mr. / Mrs. / Dr. / Proctor / Elder / Paladin / Knight
+    / Sentinel / Scribe / Initiate / Overseer / Courser = (giữ)
+
+--- Thuật ngữ game cốt lõi ---
+Pip-Boy = (giữ)                 VATS = (giữ)               S.P.E.C.I.A.L. = (giữ)
+Stimpak = (giữ)                 RadAway = (giữ)            Rad-X = (giữ)
+Fusion Core = (giữ)             Power Armor = (giữ)        Synth = (giữ)      Synths = (giữ)
+Lost Synth = (giữ)              Gen 1 / Gen 2 / Gen 3 Synth = (giữ)
+Mr. Handy = (giữ)               Mr. Gutsy = (giữ)          Protectron = (giữ)
+Assaultron = (giữ)              Sentry Bot = (giữ)         Robobrain = (giữ)   Liberty Prime = (giữ)
+Super Mutant = (giữ)            Ghoul = (giữ)              Feral Ghoul = (giữ)
+Deathclaw = (giữ)               Mirelurk = (giữ)           Radscorpion = (giữ)  Radroach = (giữ)
+Bloatfly = (giữ)                Brahmin = (giữ)            Yao Guai = (giữ)     Molerat = (giữ)
+Nuka-Cola = (giữ)               Bobblehead = (giữ)         Holotape = (giữ)     Holotag = (giữ)
+Jet, Psycho, Buffout, Mentats, Med-X = (giữ)  (tên chem)
+Workshop = (giữ)                Terminal = (giữ)           Perk = (giữ)         Legendary = Huyền thoại
+Tên vũ khí / giáp / vật phẩm có thương hiệu = (giữ):
+    Plasma Auto Rifle, 10mm Pistol, Laser Musket, Fat Man, Minigun, Gauss Rifle, Combat Rifle,
+    Pipe Pistol, Institute Rifle, Pipe Bolt-Action, T-60 Power Armor, Vault 111 Jumpsuit ...
+
+
+##################################################
+C. DỊCH THEO BẢNG (thuật ngữ chung, dịch NHẤT QUÁN)
+##################################################
+--- Chỉ số / cơ chế ---
+Strength = Sức mạnh              Perception = Tri giác           Endurance = Sức bền
+Charisma = Sức hút               Intelligence = Trí tuệ          Agility = Nhanh nhẹn
+Luck = May mắn
+Health = Sức khỏe                Hit Points / HP = HP            Action Points / AP = AP (Điểm hành động)
+Radiation = Phóng xạ             Rads = Rad                      Radiation Damage = Sát thương phóng xạ
+Damage = Sát thương              DMG = sát thương                Damage Resistance = Kháng sát thương
+Energy Resistance = Kháng năng lượng       Energy Damage = Sát thương năng lượng
+Carry Weight = Sức tải           Level = Cấp                     XP = XP
+Bottle Caps / Caps = nắp chai    (ví dụ "Cost: %d caps" -> "Giá: %d nắp chai")
+Reward = Phần thưởng             Relationship = Mối quan hệ      Status = Trạng thái
+Fortify = Tăng cường             Reduces = Giảm                  Improves = Tăng / Cải thiện
+Improves Damage = Tăng sát thương
+Training = Huấn luyện            (Strength Training = Huấn luyện Sức mạnh)
+Skill = Kỹ năng                  Repair = Sửa chữa               Barter = Mua bán
+Settlement = Khu định cư         Settler = Dân định cư           Neighbor = Hàng xóm
+
+--- Độ hiếm / phẩm chất ---
+Standard = Tiêu chuẩn            Default = Mặc định              Improved = Cải tiến
+Superior = Ưu việt               Exceptional = Xuất sắc          Inferior = Kém
+Poor = Tồi                       Advanced = Nâng cao             Hardened = Gia cố
+Powerful = Mạnh                  Simple = Đơn giản
+
+--- Bộ phận vũ khí / mod ---
+Barrel = Nòng                    Receiver = Thân súng            Grip = Báng cầm
+Stock = Báng súng                Scope = Ống ngắm                Sights = Điểm ngắm
+Reflex Sight = Kính ngắm phản xạ Recon Scope = Ống ngắm trinh sát
+Night Vision Scope = Ống ngắm nhìn đêm
+Muzzle = Đầu nòng                Muzzle Brake = Bộ hãm giật      Magazine = Băng đạn
+Suppressor = Giảm thanh          Bayonet = Lưỡi lê               Capacitor = Tụ điện
+Short = Ngắn                     Long = Dài                      Heavy = Nặng
+Light = Nhẹ                      Medium = Trung bình             Automatic = Tự động
+Armor Piercing = Xuyên giáp      Ported = Xả khí                 Hair Trigger = Cò nhạy
+Sharpshooter's = Xạ thủ          Comfort = Êm tay                Rapid = Tốc độ cao
+Calibrated = Hiệu chỉnh          Snubnose = Mũi cụt
+  Mẫu: "10mm Long Barrel" -> "Nòng dài 10mm"   |   ".44 Standard Grip" -> "Báng cầm tiêu chuẩn .44"
+  (Tên model/hãng như 10mm, .44, Plasma Gun, Alien Blaster giữ nguyên.)
+
+--- Loại vũ khí ---
+Pistol = Súng lục                Rifle = Súng trường             Shotgun = Shotgun
+Revolver = Súng lục ổ quay       Sniper Rifle = Súng bắn tỉa     Submachine Gun = Súng tiểu liên
+Grenade = Lựu đạn                Mine = Mìn                      Baton = Dùi cui
+Sledgehammer = Búa tạ            Knife = Dao
+Laser = Laser (giữ)              Plasma = Plasma (giữ)
+
+--- Giáp / trang phục ---
+Armor = Giáp                     Helmet = Mũ giáp                Torso = Thân
+Head = Đầu                       Left Arm = Tay trái             Right Arm = Tay phải
+Left Leg = Chân trái             Right Leg = Chân phải           (Left Legs/Right Legs = Chân trái/Chân phải)
+Jumpsuit = Áo liền quần          Utility Jumpsuit = Áo liền quần công nhân
+Lab Coat = Áo choàng phòng thí nghiệm      Coat = Áo khoác
+Radiation Cloak = Áo choàng chống phóng xạ  (giữ nếu là tên mod "Radiation Cloak")
+
+--- Vật thể / môi trường ---
+Door = Cửa                       Sign = Biển hiệu                Locker = Tủ khóa
+Chair = Ghế                      Bed = Giường                    Table = Bàn
+Truck = Xe tải                   Car = Xe hơi                    Painting = Tranh
+File Cabinet = Tủ hồ sơ          Cabinet = Tủ                    Fence = Hàng rào
+Plywood = Ván ép                 Scrap Metal = Phế liệu kim loại Radio = Radio
+Armor Workbench = Bàn chế tạo giáp         Power Armor Station = Trạm Power Armor
+Security = An ninh               Alarm = Báo động                Key = Chìa khóa     Key Card = Thẻ khóa
+
+--- Lựa chọn thoại / hành động (chuỗi ngắn trong menu hội thoại) ---
+Yes = Có                         No = Không                      Maybe = Có thể
+Sure = Chắc chắn                 Okay / All right = Được thôi     Thanks = Cảm ơn
+Not Interested = Không quan tâm  Not now = Để sau                Not yet = Chưa
+Never mind = Thôi bỏ đi          Unsure = Không chắc             Agree = Đồng ý
+Sarcastic = Mỉa mai              Annoyed = Bực bội               Threaten = Đe dọa
+Persuade = Thuyết phục           Intimidate = Hăm dọa            Dismiss = Bỏ qua
+Leave = Rời đi                   Enter = Vào                     Take = Lấy
+Examine = Xem xét                Harvest = Thu hoạch             Disarm = Vô hiệu hóa
+Trade = Giao dịch                Talk = Nói chuyện               Cancel = Hủy
+Anything else? = Còn gì nữa không?
+
+--- Terminal / hệ thống ---
+Loading Log... = Đang tải nhật ký...          Loading Mail... = Đang tải thư...
+Accessing = Đang truy cập                     Access Denied = Truy cập bị từ chối
+Login = Đăng nhập                             Password = Mật khẩu
+WARNING = CẢNH BÁO                            ALERT = BÁO ĐỘNG
+ERROR = LỖI                                   (nhưng tag <ERROR> trong thoại = giữ nguyên)
+DANGER = NGUY HIỂM                            Main Menu = Menu chính
+Log = Nhật ký                                 Report = Báo cáo
+Ký tự trang trí ( ==== , ****, >>, ::, ----, ASCII art ) = (giữ nguyên từng ký tự)
+
+
+--- Chế độ Survival / trạng thái nhân vật (mỗi mức một từ KHÁC nhau, không dịch trùng) ---
+Peckish = Hơi đói               Hungry = Đói                    Famished = Rất đói
+Ravenous = Đói cồn cào          Starving = Kiệt sức vì đói
+Dehydrated = Mất nước           Severely Dehydrated = Mất nước nghiêm trọng
+Parched = Khát khô              Hydrated = Đủ nước
+Rested = Đã nghỉ ngơi           Well Rested = Nghỉ ngơi đầy đủ   Tired = Hơi mệt
+Weary = Mệt mỏi                 Fatigue = Kiệt sức              Exhausted = Cạn sức
+Insomnia = Mất ngủ              Lethargy = Uể oải               Adrenaline = Adrenaline
+Infection = Nhiễm trùng         Parasites = Ký sinh trùng       Weakness = Suy yếu
+Incapacitated = Mất khả năng hoạt động      Over Encumbered = Quá tải
+Companion = bạn đồng hành       Tanned = Rám nắng               Spring = Lò xo
+Totem = Vật tổ                  Meat Bag = Túi thịt             Illness / Sickness = Bệnh
+Novice = Tập sự                 Apprentice = Học việc           Adept = Thành thạo
+Expert = Chuyên gia             Master = Bậc thầy               (cấp độ kỹ năng)
+Scrolls = Cuộn giấy             Smithing = Rèn                  Weapon Smithing = Rèn vũ khí
+Amber = Hổ phách                Biohazard = Nguy hiểm sinh học  Dark Craving = Cơn thèm khát đen tối
+Lover's Embrace = Cái ôm của tình nhân     Survival Difficulty = Độ khó Sinh tồn
+Take +X% DMG = Nhận thêm +X% sát thương (Take đi với %/sát thương là "nhận", không phải "lấy")
+
+##################################################
+D. CHỬI THỀ / THÁN TỪ (giữ cường độ, theo giọng nhân vật)
+##################################################
+Damn = Chết tiệt / Khốn thật          Hell = Quái quỷ / Địa ngục (tùy ngữ cảnh)
+Shit = Chết tiệt / Mẹ kiếp (nặng hơn)  Son of a bitch = Thằng khốn / Đồ khốn
+Oh my God / Jesus / God = Trời ơi / Trời đất (bỏ yếu tố tôn giáo theo yêu cầu bản địa hóa)
+Hey / Hello = Này / Chào     Huh? = Hả?     Hmm = Ừm     Ugh = Ư / Hừ     Heh = Hề     Ha = Ha
+*grunt* = *gầm gừ*  (giữ dấu * nếu có)
+
+
+##################################################
+E. XƯNG HÔ ĐỀ XUẤT (người chơi nam/nữ dùng chung một text -> dùng ngôi trung tính)
+##################################################
+Mặc định NPC thân thiện <-> người chơi ......... tôi - bạn
+Bạn đồng hành / thân thiết ..................... mình/tôi - cậu
+Kẻ thù, Raider, Gunner, côn đồ ................. tao - mày
+Quân đội, Brotherhood (trang trọng) ........... tôi - cậu  (giữ chức danh: Knight, Paladin, Elder)
+Institute, Courser, Father (lạnh lùng) ........ tôi - anh/cô -> ưu tiên "bạn" cho trung tính
+Robot quản gia, Mr. Handy, Codsworth .......... tôi - ngài   (Sir -> "thưa ngài", Ma'am/Madam -> "thưa bà")
+Strong (Super Mutant, nói cộc, ngôi thứ ba) ... Strong - ngươi   (ví dụ: "Strong không thích điều đó.")
+Shaun / Father với người chơi ................. con - cha/mẹ  (đối thoại gia đình)
+Curie (lịch sự, ngây thơ, hay tò mò) .......... tôi - bạn, giữ cảm thán tiếng Pháp (Mon Dieu, Oui, Non)
+Hancock (Ghoul, thoải mái, tục) ............... tôi - cậu, văn nói, chửi thề nhẹ
+Cait (Ireland, thô) ........................... tao - mày khi cáu, còn lại tôi - cậu
+Deacon (đùa, kịch tính) ....................... tôi - cậu, hay cường điệu
+Nick Valentine (thám tử noir) ................. tôi - bạn, giọng khô, mỉa nhẹ
+Piper (nhà báo, nhanh mồm) .................... mình - cậu

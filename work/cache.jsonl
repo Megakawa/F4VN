@@ -1,0 +1,2127 @@
+{"en": "Interrupted", "vi": "Bị gián đoạn"}
+{"en": "Cures Illness", "vi": "Chữa khỏi bệnh"}
+{"en": "Sleep Interrupted", "vi": "Giấc ngủ bị gián đoạn"}
+{"en": "Meat Bag", "vi": "Túi thịt"}
+{"en": "Reduce Action Point Rate Mult", "vi": "Giảm hệ số điểm hành động"}
+{"en": "Can't run", "vi": "Không thể chạy"}
+{"en": "Survival Difficulty", "vi": "Khó độ sinh tồn"}
+{"en": "Weakness", "vi": "Yếu đuối"}
+{"en": "Require more sleep", "vi": "Cần ngủ nhiều hơn"}
+{"en": "Exhausted", "vi": "Kiệt sức"}
+{"en": "ADR", "vi": "Tốc độ hồi phục điểm hành động"}
+{"en": "Survival", "vi": "Sinh tồn"}
+{"en": "Cures sickness", "vi": "Chữa khỏi bệnh tật"}
+{"en": "Incapacitated", "vi": "[Tê liệt]"}
+{"en": "Hydrated", "vi": "Đã được cấp nước"}
+{"en": "Lover's Embrace", "vi": "Vòng tay người yêu"}
+{"en": "Totem", "vi": "Totem"}
+{"en": "Ravenous", "vi": "Khát ăn dữ dội"}
+{"en": "Lethargy", "vi": "Chán chường"}
+{"en": "Door", "vi": "Cửa"}
+{"en": "Painting", "vi": "Tranh vẽ"}
+{"en": "Hungry", "vi": "Đói bụng"}
+{"en": "Parasites", "vi": "Ký sinh trùng"}
+{"en": "Sign", "vi": "Biển báo"}
+{"en": "Trouble sleeping.", "vi": "Khó ngủ."}
+{"en": "Dehydrated", "vi": "Mất nước"}
+{"en": "Well Rested", "vi": "Nghỉ ngơi tốt"}
+{"en": "Parched", "vi": "Khát nước"}
+{"en": "Can't Sprint", "vi": "Không thể chạy nước rút"}
+{"en": "Require frequent sleep", "vi": "Cần ngủ thường xuyên"}
+{"en": "%AP Refresh", "vi": "%AP Tái tạo"}
+{"en": "Can't sprint", "vi": "Không thể chạy nước rút"}
+{"en": "bounty removed from", "vi": "bounty đã bị xóa từ"}
+{"en": "Severely Dehydrated", "vi": "Mất nước nghiêm trọng"}
+{"en": "Damage Left Leg", "vi": "Gây thương cho chân trái"}
+{"en": "Take +20% DMG", "vi": "Chịu thêm 20% sát thương"}
+{"en": "Rested", "vi": "Nghỉ ngơi"}
+{"en": "Fatigue", "vi": "Mệt mỏi"}
+{"en": "Peckish", "vi": "Khát ăn"}
+{"en": "Infection", "vi": "Nhiễm trùng"}
+{"en": "Over Encumbered", "vi": "Quá tải"}
+{"en": "Adrenaline", "vi": "Adrenaline"}
+{"en": "Famished", "vi": "Famished (Chưa được ăn)"}
+{"en": "Weary", "vi": "Uể oải"}
+{"en": "Tired", "vi": "Mệt mỏi"}
+{"en": "Heal your Companion", "vi": "Chữa trị cho bạn đồng hành"}
+{"en": "Food no longer satisfies", "vi": "Thức ăn không còn làm bạn no nữa"}
+{"en": "Dark Craving", "vi": "Nỗi thèm khát đen tối"}
+{"en": "Play Time", "vi": "Thời gian vui chơi"}
+{"en": "Signs", "vi": "Dấu hiệu"}
+{"en": "Mouth", "vi": "Miệng"}
+{"en": "Spiked Pole", "vi": "Cột nhọn"}
+{"en": "Biohazard Sign", "vi": "Biển báo sinh học nguy hiểm"}
+{"en": "Spring", "vi": "Lò xo"}
+{"en": "Repair", "vi": "Sửa chữa"}
+{"en": "DANGER", "vi": "NGUY HIỂM"}
+{"en": "Light Brown", "vi": "Nâu nhạt"}
+{"en": "Silver", "vi": "Bạc"}
+{"en": "Red", "vi": "Đỏ"}
+{"en": "Advanced", "vi": "Nâng cao"}
+{"en": "Red Tint Dark", "vi": "Đỏ đậm tối"}
+{"en": "Red Tint Light", "vi": "Đỏ nhạt sáng"}
+{"en": "Tanned", "vi": "Da ngăm"}
+{"en": "Burned", "vi": "Bị cháy"}
+{"en": "Copper", "vi": "Đồng"}
+{"en": "Amber", "vi": "Ngà vàng"}
+{"en": "Red 1", "vi": "Đỏ 1"}
+{"en": "Red 3", "vi": "Đỏ 3"}
+{"en": "Blue 1", "vi": "Xanh dương 1"}
+{"en": "Blue 2", "vi": "Xanh dương 2"}
+{"en": "Green 2", "vi": "Xanh lá 2"}
+{"en": "Green 3", "vi": "Xanh lá 3"}
+{"en": "Orange 2", "vi": "Cam 2"}
+{"en": "Yellow 1", "vi": "Vàng 1"}
+{"en": "You cannot cast ranged spells underwater.", "vi": "Bạn không thể niệm phép thuật tầm xa khi ở dưới nước."}
+{"en": "Do you want to steal this horse?", "vi": "Bạn có muốn trộm con ngựa này không?"}
+{"en": "Age", "vi": "Tuổi"}
+{"en": "Powers can only be used once a day.", "vi": "Các quyền lực chỉ có thể sử dụng một lần mỗi ngày."}
+{"en": "New Player", "vi": "Người chơi mới"}
+{"en": "Yes", "vi": "Có"}
+{"en": "Unable to remove the worn item.", "vi": "Không thể tháo bỏ vật phẩm đang trang bị."}
+{"en": "Chin Length", "vi": "Chiều dài cằm"}
+{"en": "Weapon Smithing", "vi": "Chế tạo vũ khí"}
+{"en": "Cost: %d caps", "vi": "Chi phí: %d nắp chai"}
+{"en": "%d%s REPAIR SKILL NEEDED", "vi": "Cần kỹ năng Sửa chữa cấp độ %d%s"}
+{"en": "Are you sure you want to destroy this item and learn its effects?", "vi": "Bạn có chắc chắn muốn phá hủy vật phẩm này và học được tác dụng của nó không?"}
+{"en": "Chin Forward", "vi": "Cằm nhô ra"}
+{"en": "SCROLLS", "vi": "Cuộn giấy"}
+{"en": "Presets", "vi": "Cài đặt sẵn"}
+{"en": "Eye", "vi": "Mắt"}
+{"en": "You have contracted", "vi": "Bạn đã mắc phải"}
+{"en": "The storage device you selected is no longer available.  You will need to select a new device the next time you save.  Until then, Autosave is disabled.", "vi": "Thiết bị lưu trữ bạn đã chọn không còn khả dụng nữa. Bạn sẽ cần chọn một thiết bị mới vào lần tiếp theo khi lưu game. Trong thời gian này, Tự động lưu đã bị vô hiệu hóa."}
+{"en": "Master", "vi": "Thợ thủ công bậc thầy"}
+{"en": "TO STEAL", "vi": "ĐỂ TRỘM"}
+{"en": "Hair", "vi": "Tóc"}
+{"en": "Summer", "vi": "Mùa hè"}
+{"en": "midnight", "vi": "nửa đêm"}
+{"en": "Do you want to serve your time in jail?", "vi": "Bạn có muốn chấp nhận án tù không?"}
+{"en": "Attack", "vi": "Tấn công"}
+{"en": "Voice Power", "vi": "Âm thanh"}
+{"en": "New Life Festival", "vi": "Lễ hội Sự sống mới"}
+{"en": "You learned the %s enchantment from destroying this item.", "vi": "Bạn đã học được phép thuật %s từ việc phá hủy vật phẩm này."}
+{"en": "Lesser", "vi": "Nhỏ hơn"}
+{"en": "Repair Services", "vi": "Dịch vụ sửa chữa"}
+{"en": "Autoloading...", "vi": "Tự nạp đạn..."}
+{"en": "You cannot repair items while in combat.", "vi": "Bạn không thể sửa chữa vật phẩm khi đang giao tranh."}
+{"en": "ON", "vi": "Bật"}
+{"en": "Do you want to poison your next shot with the ", "vi": "Bạn có muốn độc hóa phát bắn tiếp theo bằng"}
+{"en": "NO USABLE SPARE PARTS", "vi": "KHÔNG CÓ PHỤ KIỆN DÙNG ĐƯỢC"}
+{"en": "Save failed.", "vi": "Lưu thất bại."}
+{"en": "Low", "vi": "Thấp"}
+{"en": "You cannot fast travel when enemies are nearby.", "vi": "Bạn không thể di chuyển nhanh khi có kẻ thù ở gần."}
+{"en": "Pickpocket", "vi": "Trộm cắp"}
+{"en": "Quicksave", "vi": "Lưu nhanh"}
+{"en": "Legendary", "vi": "Huyền thoại"}
+{"en": "Clear Selections", "vi": "Xóa lựa chọn"}
+{"en": "Aiming", "vi": "Đang ngắm"}
+{"en": "Combine ingredients to make potions", "vi": "Kết hợp nguyên liệu để chế tạo thuốc"}
+{"en": "New Save", "vi": "Lưu mới"}
+{"en": "What would you like to do?", "vi": "Bạn muốn làm gì?"}
+{"en": "You cannot fast travel during combat!", "vi": "Bạn không thể di chuyển nhanh khi đang chiến đấu!"}
+{"en": "Wilderness", "vi": "Hoang dã"}
+{"en": "You cannot shout while casting a spell.", "vi": "Bạn không thể hét lên khi đang niệm pháp."}
+{"en": "You cannot read a book while in combat.", "vi": "Bạn không thể đọc sách khi đang chiến đấu."}
+{"en": "Superior", "vi": "Ưu việt"}
+{"en": "Return", "vi": "Quay lại"}
+{"en": "Yes to all", "vi": "Đồng ý tất cả"}
+{"en": "Citizen", "vi": "Công dân"}
+{"en": "HP", "vi": "HP (Điểm sinh mạng)"}
+{"en": "him", "vi": "anh ấy"}
+{"en": "sunset", "vi": "hoàng hôn"}
+{"en": "Saturday", "vi": "Thứ Bảy"}
+{"en": "Learning Enchantments", "vi": "Học phép thuật"}
+{"en": "Current action must complete before item can be dropped.", "vi": "Hành động hiện tại phải hoàn thành trước khi có thể bỏ vật phẩm."}
+{"en": "You cannot equip this item.", "vi": "Bạn không thể trang bị vật phẩm này."}
+{"en": "Removed.", "vi": "Đã xóa."}
+{"en": "Looking for content.  Please wait.", "vi": "Đang tìm nội dung. Vui lòng đợi."}
+{"en": "Flawless", "vi": "Hoàn hảo"}
+{"en": "Second Planting", "vi": "Trồng lần thứ hai"}
+{"en": "You're carrying too much and can't run!", "vi": "Bạn đang mang quá nhiều đồ nên không thể chạy được!"}
+{"en": "DESTRUCTION", "vi": "PHÁ HỦY"}
+{"en": "Lip Color", "vi": "Màu môi"}
+{"en": "You don't have enough ammo.", "vi": "Bạn không đủ đạn."}
+{"en": "male", "vi": "Nam"}
+{"en": "The save game is no longer available.  Returning to game.", "vi": "Trò chơi đã lưu không còn khả dụng nữa. Đang quay trở lại trò chơi."}
+{"en": "No.", "vi": "Không."}
+{"en": "New content has been added.  You will need to restart to use this content.  All unsaved progress will be lost.", "vi": "Đã thêm nội dung mới. Bạn cần khởi động lại để sử dụng nội dung này. Mọi tiến độ chưa lưu sẽ bị mất."}
+{"en": "BOOKS", "vi": "SÁCH"}
+{"en": "War Paint", "vi": "Sơn chiến tranh"}
+{"en": "Continue", "vi": "Tiếp tục"}
+{"en": "got away with stealing.", "vi": "đã thoát khỏi việc trộm cắp."}
+{"en": "Cancel", "vi": "Hủy"}
+{"en": "Bronzed", "vi": "Đồng"}
+{"en": "Yes, restart the game.", "vi": "Có, khởi động lại trò chơi."}
+{"en": "Select", "vi": "Chọn"}
+{"en": "May", "vi": "May"}
+{"en": "Remove", "vi": "Bỏ"}
+{"en": "Read", "vi": "Đọc"}
+{"en": "Create", "vi": "Tạo"}
+{"en": "You must have a weapon drawn.", "vi": "Bạn phải rút vũ khí ra."}
+{"en": "Rosy", "vi": "Hồng hào"}
+{"en": "Quickloading...", "vi": "Đang tải nhanh..."}
+{"en": "You cannot wait in this location.", "vi": "Bạn không thể chờ ở vị trí này."}
+{"en": "You cannot cast a spell while shouting.", "vi": "Bạn không thể niệm phép khi đang hét lên."}
+{"en": "Broken items cannot be equipped until they have been repaired.", "vi": "Các vật phẩm bị hỏng không thể trang bị cho đến khi được sửa chữa."}
+{"en": "Cheek Color Lower", "vi": "Màu má giảm xuống"}
+{"en": "Loading extra content. Please wait.", "vi": "Đang tải nội dung bổ sung. Vui lòng chờ."}
+{"en": " is fleeing for their life.", "vi": "đang bỏ chạy để bảo toàn tính mạng."}
+{"en": "%s signal found.", "vi": "Tín hiệu của %s đã được tìm thấy."}
+{"en": "Current Location", "vi": "Vị trí hiện tại"}
+{"en": "Next", "vi": "Tiếp theo"}
+{"en": "Some of your downloaded content is corrupt and could not be loaded.", "vi": "Một số nội dung bạn tải xuống bị hỏng và không thể nạp vào được."}
+{"en": "You cannot sit on owned furniture.", "vi": "Bạn không thể ngồi lên đồ nội thất thuộc quyền sở hữu của mình."}
+{"en": "Loading area...", "vi": "Đang tải khu vực..."}
+{"en": " is now your ", "vi": "giờ đây là của bạn"}
+{"en": "White", "vi": "Trắng"}
+{"en": "CHOOSE ITEM TO REPAIR WITH", "vi": "CHỌN VẬT PHẨM ĐỂ SỬA LẠI"}
+{"en": "You cannot sleep in the air.", "vi": "Bạn không thể ngủ giữa trời."}
+{"en": "No valid save game found.", "vi": "Không tìm thấy bản lưu hợp lệ nào."}
+{"en": "July", "vi": "Tháng Bảy"}
+{"en": "Emperor's Birthday", "vi": "Sinh nhật của Hoàng đế"}
+{"en": "WEAPONS", "vi": "VŨ KHÍ"}
+{"en": "afternoon", "vi": "chiều"}
+{"en": "Enter Item Name.", "vi": "Nhập tên vật phẩm."}
+{"en": "Tales and Tallows", "vi": "Truyện và Nhựa thông"}
+{"en": "Your heavy armor prevents you from jumping.", "vi": "Áo giáp nặng của bạn khiến bạn không thể nhảy được."}
+{"en": "Change Item Selection", "vi": "Thay đổi lựa chọn vật phẩm"}
+{"en": "Choose an item to create.", "vi": "Chọn một vật phẩm để chế tạo."}
+{"en": "secs", "vi": "giây"}
+{"en": "%s signal lost.", "vi": "Tín hiệu của %s đã mất liên lạc."}
+{"en": "Restore", "vi": "Khôi phục"}
+{"en": "Children cannot use that.", "vi": "Trẻ em không thể sử dụng thứ đó."}
+{"en": "Discovered", "vi": "Đã khám phá"}
+{"en": "Magnitude", "vi": "Độ lớn"}
+{"en": "Exquisite", "vi": "Tinh xảo"}
+{"en": "Quest completed", "vi": "Nhiệm vụ hoàn thành"}
+{"en": "Added Effects", "vi": "Tác dụng đã thêm"}
+{"en": "You cannot wait while trespassing.", "vi": "Bạn không thể chờ đợi trong khi đang xâm phạm lãnh thổ."}
+{"en": "Requirements", "vi": "Yêu cầu"}
+{"en": "Eyeliner Color", "vi": "Eyeliner Color (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "APPAREL", "vi": "APPAREL"}
+{"en": "Spray", "vi": "Spray (Phun)"}
+{"en": "You cannot sleep in this location.", "vi": "Bạn không thể ngủ ở vị trí này."}
+{"en": "Complexion", "vi": "Complexion (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Chestnut", "vi": "Chestnut => Chestnut"}
+{"en": "No, keep playing.", "vi": "Không, hãy tiếp tục chơi."}
+{"en": "WEAPON ENCHANTMENTS", "vi": "PHÚC GIỚI VŨ KHÍ"}
+{"en": "Wednesday", "vi": "Thứ Ba"}
+{"en": "ILLUSION", "vi": "ILLUSION"}
+{"en": "Fire and Forget", "vi": "Bắn đi và quên ngay"}
+{"en": "Constant Effect", "vi": "Hiệu ứng liên tục"}
+{"en": "ARMOR ENCHANTMENTS", "vi": "PHÚT CHUYỆN CHO THIÊN THỜI"}
+{"en": "You cannot sleep while taking health damage.", "vi": "Bạn không thể ngủ khi đang bị thương."}
+{"en": "Goodbye", "vi": "Tạm biệt"}
+{"en": "Choose", "vi": "Chọn"}
+{"en": "Effect has already been added.  Edit the effect instead.", "vi": "Hiệu ứng đã được thêm vào rồi. Hãy chỉnh sửa hiệu ứng đó thay vì thêm mới."}
+{"en": "Disable Help", "vi": "Vô hiệu hóa trợ giúp"}
+{"en": "Ranks", "vi": "Cấp bậc"}
+{"en": "Damage", "vi": "Tổn thương"}
+{"en": "You cannot use this at this time.", "vi": "Bạn không thể sử dụng vật phẩm này lúc này."}
+{"en": "Sex", "vi": "Giới tính"}
+{"en": "Requires Key", "vi": "Cần chìa khóa"}
+{"en": "POTIONS", "vi": "THUỐC HỒI MÁU"}
+{"en": "%s is too powerful for %s.", "vi": "%s quá mạnh cho %s."}
+{"en": "This object is activated from somewhere else.", "vi": "Vật thể này được kích hoạt từ đâu đó khác."}
+{"en": "Brow Height", "vi": "Độ cao lông mày"}
+{"en": "Assault", "vi": "Công kích"}
+{"en": "Requires: ", "vi": "Cần:"}
+{"en": "her", "vi": "cô ấy"}
+{"en": "Enable Help", "vi": "Bật trợ giúp"}
+{"en": "Friday", "vi": "Thứ Sáu"}
+{"en": "Map updated.", "vi": "Bản đồ đã được cập nhật."}
+{"en": "he", "vi": "anh ấy"}
+{"en": "HIDDEN", "vi": "HIDDEN"}
+{"en": "Brow Type", "vi": "Kiểu dáng lông mày"}
+{"en": "SOUL GEMS", "vi": "Đá linh hồn"}
+{"en": "You cannot sleep while guards are pursuing you.", "vi": "Bạn không thể ngủ khi có lính tuần tra đang truy đuổi."}
+{"en": "Search", "vi": "Tìm kiếm"}
+{"en": "Concentration", "vi": "Tập trung"}
+{"en": "ALTERATION", "vi": "Biến đổi"}
+{"en": "Head", "vi": "Đầu"}
+{"en": "The lock has been broken.", "vi": "Khóa đã bị phá vỡ."}
+{"en": "First Planting", "vi": "Trồng lần đầu"}
+{"en": "Sort", "vi": "Sắp xếp"}
+{"en": "Added.", "vi": "Đã thêm."}
+{"en": "Level", "vi": "Cấp độ"}
+{"en": "Previous", "vi": "Trước đó"}
+{"en": "You have become addicted to %s.", "vi": "Bạn đã nghiện %s."}
+{"en": "is being drained.", "vi": "đang bị rút cạn."}
+{"en": "This object is already in use by someone else.", "vi": "Vật thể này đã được người khác sử dụng."}
+{"en": "Note Added: %s.", "vi": "Ghi chú đã thêm: %s."}
+{"en": "Eye Shape", "vi": "Hình dáng mắt"}
+{"en": "Spell", "vi": "Phép thuật"}
+{"en": "KEYS", "vi": "CHÌA KHÓA"}
+{"en": "Eyes", "vi": "Mắt"}
+{"en": "Alchemy", "vi": "Hóa học"}
+{"en": "Improvement", "vi": "Cải thiện"}
+{"en": "Monday", "vi": "Thứ Hai"}
+{"en": "FAVORITES", "vi": "FAVORITES"}
+{"en": "Medium", "vi": "Medium"}
+{"en": "Jaw Height", "vi": "Chiều cao hàm"}
+{"en": "<Missing Name>", "vi": "<Tên thiếu>"}
+{"en": "Jaw Forward", "vi": "Jaw Forward (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Enter character name.", "vi": "Nhập tên nhân vật."}
+{"en": "Orange 1", "vi": "Orange 1"}
+{"en": "You must first equip a weapon to poison it.", "vi": "Bạn phải trang bị vũ khí trước khi gây độc cho nó."}
+{"en": "You have been disarmed!", "vi": "Bạn đã bị tước vũ khí!"}
+{"en": "%s Increased to %i", "vi": "%s tăng lên %i"}
+{"en": "Continue Running Executable?", "vi": "Tiếp tục chạy chương trình không?"}
+{"en": "September", "vi": "9 tháng 9"}
+{"en": "Ingredient", "vi": "Nguyên liệu"}
+{"en": "Sun-Kissed", "vi": "Được nắng chiếu"}
+{"en": "Enchanting", "vi": "Phong ấn"}
+{"en": "Harvest", "vi": "Thu hoạch"}
+{"en": "Destruction", "vi": "Phá hủy"}
+{"en": "for", "vi": "cho"}
+{"en": "Taunt", "vi": "Mỉa mai"}
+{"en": "To", "vi": "Đến"}
+{"en": "Area", "vi": "Khu vực"}
+{"en": "Quest FAILED", "vi": "Nhiệm vụ thất bại"}
+{"en": "CANNOT REPAIR PAST %.0f%s", "vi": "Không thể sửa chữa quá %.0f%s"}
+{"en": "Fog", "vi": "Sương mù"}
+{"en": "Power", "vi": "Năng lượng"}
+{"en": "Optional", "vi": "Tùy chọn"}
+{"en": "CONJURATION", "vi": "Gọi hồn"}
+{"en": "Not Enough AP", "vi": "Thiếu điểm hành động"}
+{"en": "Value", "vi": "Giá trị"}
+{"en": "Lesser Power", "vi": "Sức mạnh yếu hơn"}
+{"en": "QUICK", "vi": "Nhanh"}
+{"en": "You have signed out of your profile and will now be returned to the main menu.", "vi": "Bạn đã đăng xuất khỏi hồ sơ và sẽ quay trở lại màn hình chính."}
+{"en": "Neck Color", "vi": "Màu cổ"}
+{"en": "Facial Hair Color", "vi": "Màu râu mặt"}
+{"en": "Hello", "vi": "Xin chào"}
+{"en": "Your", "vi": "Của bạn"}
+{"en": "Self", "vi": "Bản thân"}
+{"en": "North Wind's Prayer", "vi": "Nguyện cầu của gió Bắc"}
+{"en": "December", "vi": "Tháng Mười Hai"}
+{"en": "POWERS", "vi": "KỸ NĂNG"}
+{"en": "You cannot sleep while trespassing.", "vi": "Bạn không thể ngủ khi đang xâm phạm lãnh thổ."}
+{"en": "Ability", "vi": "Khả năng"}
+{"en": "can't carry any more.", "vi": "Không thể mang thêm được nữa."}
+{"en": "up to level", "vi": "Lên đến cấp"}
+{"en": "ft", "vi": "ft (foot)"}
+{"en": "Level Progress", "vi": "Tiến trình lên cấp"}
+{"en": "Chin Width", "vi": "Chiều rộng cằm"}
+{"en": "The item is too heavy to carry.", "vi": "Vật phẩm này quá nặng để bạn mang được."}
+{"en": "herself", "vi": "chính cô ấy"}
+{"en": "The creature is calmed and cannot respond.", "vi": "Sinh vật đã bình tĩnh và không thể phản ứng lại."}
+{"en": "You cannot wait while guards are pursuing you.", "vi": "Bạn không thể chờ đợi khi các vệ sĩ đang truy đuổi bạn."}
+{"en": "is calmed and cannot respond.", "vi": "Đã bình tĩnh và không thể phản ứng lại."}
+{"en": "Lock", "vi": "Khóa"}
+{"en": "Torso", "vi": "Thân trên"}
+{"en": "Mouth Forward", "vi": "Mồm nhô ra"}
+{"en": "Sneak Attack on", "vi": "Phá hoại lén lút vào"}
+{"en": "Junk", "vi": "Vụn vặt"}
+{"en": "Day", "vi": "Ngày"}
+{"en": "Average", "vi": "Bình thường"}
+{"en": "Easy", "vi": "Dễ dàng"}
+{"en": "Levelled Spell", "vi": "Phù thủy cấp độ"}
+{"en": "Target Actor", "vi": "Target Actor (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Quicksaving...", "vi": "Đang lưu nhanh..."}
+{"en": "Old Life Festival", "vi": "Lễ hội Đời cũ"}
+{"en": "Epic", "vi": "Kinh dị"}
+{"en": "gold", "vi": "vàng"}
+{"en": "Facial Hair", "vi": "Râu mặt"}
+{"en": "Scroll", "vi": "Cuộn giấy"}
+{"en": "Mouth Height", "vi": "Chiều cao của miệng"}
+{"en": "An active mine has already been placed on this enemy.", "vi": "Một mìn hoạt động đã được đặt lên kẻ thù này rồi."}
+{"en": "Golden Blond", "vi": "Vàng hoe"}
+{"en": "Your heavy armor is causing you to sink.", "vi": "Bộ giáp nặng của bạn khiến bạn chìm xuống."}
+{"en": "Locked", "vi": "Khóa"}
+{"en": "Restoration", "vi": "Khôi nguyên"}
+{"en": "Weapon", "vi": "Vũ khí"}
+{"en": "Close", "vi": "Đóng lại"}
+{"en": "Wortcraft", "vi": "Thủ công (Góp ý: Có thể là \"Thủ công\" hoặc giữ nguyên nếu ngữ cảnh cụ thể, nhưng \"Thủ công\" phổ biến hơn cho Crafting)"}
+{"en": "Very Easy", "vi": "Rất dễ"}
+{"en": "Block", "vi": "Chặn"}
+{"en": "Flee", "vi": "Chạy trốn"}
+{"en": "Scars", "vi": "Thương tích"}
+{"en": "Small", "vi": "Nhỏ"}
+{"en": "SHOUTS", "vi": "Gào thét"}
+{"en": "Chin Color", "vi": "Màu cằm (Góp ý: Có thể là lỗi chính tả của \"Skin Color\" hoặc một tính năng đặc biệt, nhưng dịch theo nghĩa đen)"}
+{"en": "has been damaged.", "vi": "đã bị hư hỏng."}
+{"en": "You must level up to train more.", "vi": "Bạn phải nâng cấp cấp độ để huấn luyện thêm."}
+{"en": "Soul Gem", "vi": "Đá linh hồn"}
+{"en": "Saving content. Please don't turn off your console.", "vi": "Đang lưu nội dung. Vui lòng không tắt máy tính của bạn."}
+{"en": "Apparel", "vi": "Apparel 👉 Trang phục"}
+{"en": "X damage!", "vi": "Tổn thương X!"}
+{"en": "sunrise", "vi": "bình minh"}
+{"en": "Sunday", "vi": "Chủ nhật"}
+{"en": "%s discovered from %s.", "vi": "%s được phát hiện từ %s."}
+{"en": "Training", "vi": "Huấn luyện"}
+{"en": "himself", "vi": "chính mình"}
+{"en": "pts", "vi": "điểm"}
+{"en": "Fortify", "vi": "Tăng cường"}
+{"en": "Target Level", "vi": "Cấp độ mục tiêu"}
+{"en": "Yield", "vi": "Sản lượng"}
+{"en": "Accept", "vi": "Chấp nhận"}
+{"en": "Poison", "vi": "Độc"}
+{"en": "Magic", "vi": "Phù thủy"}
+{"en": "Witches' Festival", "vi": "Lễ hội phù thủy"}
+{"en": "Add", "vi": "Thêm"}
+{"en": "Rename Item", "vi": "Đổi tên vật phẩm"}
+{"en": "Take All", "vi": "Lấy hết"}
+{"en": " has already caught you.", "vi": "đã bắt được bạn rồi."}
+{"en": "pt", "vi": "điểm"}
+{"en": "Open", "vi": "Mở"}
+{"en": "OK", "vi": "Đồng ý"}
+{"en": "None of the master files used in this save game are loaded.  Returning to game.", "vi": "Không có file chủ nào được sử dụng trong bản lưu này đang được tải. Đang quay lại trò chơi."}
+{"en": "Brow Width", "vi": "Độ rộng lông mày"}
+{"en": "Ginger", "vi": "Đỏ hoe"}
+{"en": "(Unknown Effect)", "vi": "(Tác dụng chưa rõ)"}
+{"en": "Cheek Color", "vi": "Màu má"}
+{"en": "Your weapon has broken.", "vi": "Vũ khí của bạn đã bị hỏng."}
+{"en": "August", "vi": "Tháng Tám"}
+{"en": "Bolt", "vi": "Nòng"}
+{"en": "Unlock", "vi": "Mở khóa"}
+{"en": "Enchantment", "vi": "Phù chú"}
+{"en": "The save game is corrupt and cannot be loaded.", "vi": "Bản lưu bị lỗi và không thể tải về được."}
+{"en": "Mouth Shape", "vi": "Hình dáng miệng"}
+{"en": "Back", "vi": "Quay lại"}
+{"en": "Duration", "vi": "Thời gian"}
+{"en": "Choose an item to improve.", "vi": "Chọn một vật phẩm để nâng cấp."}
+{"en": "Fly Grab", "vi": "Bắt ruồi"}
+{"en": "Aimed", "vi": "Đã ngắm"}
+{"en": "February", "vi": "Tháng Hai"}
+{"en": "Staff", "vi": "Gậy"}
+{"en": "Expert", "vi": "Chuyên gia"}
+{"en": "Skin Tone", "vi": "Sắc da"}
+{"en": "Steal", "vi": "Trộm"}
+{"en": "[INACCESSIBLE]", "vi": "[KHÔNG THỂ TIẾP CẬN]"}
+{"en": "You cannot cast this spell while casting another.", "vi": "Bạn không thể niệm chú này khi đang niệm một chú khác."}
+{"en": "Grand", "vi": "Lớn"}
+{"en": "New Spell Learned.", "vi": "Đã học được chú thuật mới."}
+{"en": "No soul gem large enough.", "vi": "Không có viên ngọc linh hồn nào đủ lớn."}
+{"en": "Main Menu", "vi": "Menu chính"}
+{"en": "on", "vi": "Bật"}
+{"en": "Transaction value: %d gold.", "vi": "Giá trị giao dịch: %d nắp chai."}
+{"en": "Vendor only has %d gold.", "vi": "Nhà bán hàng chỉ còn %d nắp chai."}
+{"en": "Custom Destination", "vi": "Điểm đến tùy chỉnh"}
+{"en": "[Locked - Broken]", "vi": "[Đã khóa - Hỏng hóc]"}
+{"en": "No", "vi": "Không"}
+{"en": "This door leads nowhere.", "vi": "Cánh cửa này dẫn đi đâu cũng không được."}
+{"en": "Quest Items cannot be removed from your Inventory.", "vi": "Các vật phẩm nhiệm vụ không thể bị loại khỏi túi đồ của bạn."}
+{"en": "Power armor training is required to equip this item.", "vi": "Bạn cần đào tạo bộ giáp năng lượng để trang bị vật phẩm này."}
+{"en": "Quantity", "vi": "Số lượng"}
+{"en": "You can not drop objects while in the air.", "vi": "Bạn không thể thả rơi vật thể khi đang ở trên không trung."}
+{"en": "Autosaving...", "vi": "Đang tự động lưu..."}
+{"en": "Armor Smithing", "vi": "smith_armor"}
+{"en": "You are out of bobby pins.", "vi": "Bạn đã hết ghim bấm tóc."}
+{"en": "Save location full. Disabling Autosave.", "vi": "Vị trí lưu đầy. Tắt tự động lưu."}
+{"en": "MISC", "vi": "THƯNG"}
+{"en": "You already know", "vi": "Bạn đã biết rồi"}
+{"en": "Do you want to poison the ", "vi": "Bạn có muốn gây độc cho"}
+{"en": "Recharge", "vi": "Nạp lại"}
+{"en": "Please connect a controller to continue.", "vi": "Vui lòng kết nối bộ điều khiển để tiếp tục."}
+{"en": "Cheekbone Width", "vi": "Chiều rộng xương má"}
+{"en": "You are suffering from %s withdrawal.", "vi": "Bạn đang bị hội chứng cai %s."}
+{"en": "DEFAULT MESSAGE TEXT", "vi": "THÔNG ĐIỆU MẪU"}
+{"en": "RESTORATION", "vi": "KHUYẾT HOÀN"}
+{"en": "Save game deleted.", "vi": "File lưu đã bị xóa."}
+{"en": "January", "vi": "Tháng Một"}
+{"en": "Addiction", "vi": "Nghiện"}
+{"en": "The save game is corrupt.  Returning to game.", "vi": "File lưu bị hỏng. Quay lại trò chơi."}
+{"en": "INGREDIENTS", "vi": "NGUYÊN LIỆU"}
+{"en": "Alteration", "vi": "Biến đổi"}
+{"en": "in", "vi": "trong"}
+{"en": "Eye Height", "vi": "Chiều cao mắt"}
+{"en": "Exit", "vi": "Thoát"}
+{"en": "Opened the container with a key.", "vi": "Đã mở hộp chứa bằng chìa khóa."}
+{"en": "Default", "vi": "Mặc định"}
+{"en": "is badly wounded.", "vi": "bị thương nặng."}
+{"en": "his", "vi": "của anh ấy"}
+{"en": "VDSG MANUAL", "vi": "SÁCH HƯỚNG DẪN VDSG"}
+{"en": "None", "vi": "Không có"}
+{"en": "Coffee", "vi": "Cà phê"}
+{"en": "High", "vi": "Cao"}
+{"en": "Staff Enchantment", "vi": "Phép thuật cho nhân viên"}
+{"en": "ARMOR", "vi": "BẢO HỘ"}
+{"en": "Ingredient had no effect.", "vi": "Nguyên liệu không có tác dụng."}
+{"en": "You're already holding something.", "vi": "Bạn đang cầm thứ gì đó rồi."}
+{"en": "Race", "vi": "Giống nòi"}
+{"en": "You can't pick a lock while being pursued by guards.", "vi": "Bạn không thể bẻ khóa khi đang bị lính tuần tra truy đuổi."}
+{"en": "Nose Length", "vi": "Chiều dài mũi"}
+{"en": "CAUTION", "vi": "CẢNH BÁO"}
+{"en": "Jump", "vi": "Nhảy"}
+{"en": "Eye Width", "vi": "Độ rộng mắt"}
+{"en": "Green 1", "vi": "Xanh lá 1"}
+{"en": "Weight", "vi": "Trọng lượng"}
+{"en": "Known Effects", "vi": "Tác dụng đã biết"}
+{"en": "was unequipped", "vi": "Đã được tháo ra"}
+{"en": "Are you sure you want to load this game?", "vi": "Bạn có chắc chắn muốn tải game này vào không?"}
+{"en": "You cannot repair items when enemies are nearby.", "vi": "Bạn không thể sửa chữa vật phẩm khi có kẻ thù ở gần."}
+{"en": "REPAIR", "vi": "SỬA CHỮA"}
+{"en": "Craft", "vi": "Chế tạo"}
+{"en": "Idle", "vi": "Ngồi yên"}
+{"en": "Petty", "vi": "Nhỏ nhen"}
+{"en": "Sun's Rest", "vi": "Nơi nghỉ của Mặt trời"}
+{"en": "Eye Shadow", "vi": "Mày mắt"}
+{"en": "The controller has been disconnected. Click OK to use the Keyboard/Mouse, or reconnect the controller and press the A Button.", "vi": "Bộ điều khiển đã bị ngắt kết nối. Nhấn OK để sử dụng Bàn phím/Chuột, hoặc kết nối lại bộ điều khiển và nhấn nút A."}
+{"en": "Sleep", "vi": "Ngủ"}
+{"en": "In order to use the downloaded content associated with this profile, you will need to restart.", "vi": "Để sử dụng nội dung đã tải xuống liên quan đến hồ sơ này, bạn cần khởi động lại."}
+{"en": "Dirt", "vi": "Bùn đất"}
+{"en": "Quest updated", "vi": "Nhiệm vụ đã được cập nhật"}
+{"en": "You cannot go that way.", "vi": "Bạn không thể đi theo hướng đó."}
+{"en": "Do you just want to serve your time?", "vi": "Bạn chỉ muốn chấp nhận án tù của mình sao?"}
+{"en": " is no longer your ", "vi": "1 không còn thuộc về bạn nữa"}
+{"en": "Quit enchanting?", "vi": "Bạn có muốn dừng chế biến đồ vật phẩm?"}
+{"en": "ALL", "vi": "ALL"}
+{"en": "Heard any rumors lately?", "vi": "Gần đây có nghe tin đồn gì mới không?"}
+{"en": "Disease", "vi": "Disease (Lưu ý: lần trước dịch không đạt vì: rỗng hoặc không đọc được. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Are you sure you want to load this game?  All unsaved progress will be lost.", "vi": "Bạn có chắc chắn muốn tải trò chơi này lên không? Tất cả tiến trình chưa lưu sẽ bị mất."}
+{"en": "AUTO", "vi": "AUTO"}
+{"en": "Quest added", "vi": "Nhiệm vụ đã thêm"}
+{"en": "The game must restart now because downloaded content has been removed.", "vi": "Bạn phải khởi động lại trò chơi ngay bây giờ vì nội dung đã tải xuống đã bị xóa."}
+{"en": "Miscellaneous", "vi": "Miscellaneous => Miscellaneous (Đồ lặt vặt)"}
+{"en": "You cannot fast travel while guards are pursuing you.", "vi": "Bạn không thể di chuyển tức thời khi có lính canh đang truy đuổi bạn."}
+{"en": "You cannot place items in a container while pickpocketing.", "vi": "Bạn không thể đặt vật phẩm vào thùng chứa khi đang móc túi."}
+{"en": "Range", "vi": "Khoảng cách"}
+{"en": "Word of Power Learned.", "vi": "Từ ngữ quyền năng đã học được."}
+{"en": "Yellow 2", "vi": "Yellow 2"}
+{"en": "Activate", "vi": "Activate"}
+{"en": "Target Location", "vi": "Vị trí mục tiêu"}
+{"en": "No items to repair.", "vi": "Không có vật phẩm nào cần sửa chữa."}
+{"en": "You can't Quicksave while the game is paused.", "vi": "Bạn không thể Lưu nhanh khi trò chơi đang tạm dừng."}
+{"en": "Repair All (%d)", "vi": "Sửa tất cả (%d)"}
+{"en": "Merchant's Festival", "vi": "Lễ hội Thương nhân"}
+{"en": "Illusion", "vi": "Ảo ảnh"}
+{"en": "You cannot unequip this item.", "vi": "Bạn không thể cởi vật phẩm này ra."}
+{"en": "No saved games.", "vi": "Không có bản lưu nào."}
+{"en": "Laugh Lines", "vi": "Nụ cười"}
+{"en": "You are already at full health.", "vi": "Bạn đã ở trạng thái sức khỏe đầy đủ rồi."}
+{"en": "Winter", "vi": "Mùa đông"}
+{"en": "IMPERIAL", "vi": "THỊNH VƯỢNG"}
+{"en": "You've been caught pickpocketing.", "vi": "Bạn đã bị bắt quả tang trộm cắp."}
+{"en": "November", "vi": "Tháng 11"}
+{"en": "You lack the required perk to pick this lock.", "vi": "Bạn chưa có kỹ năng cần thiết để mở ổ khóa này."}
+{"en": "Pale", "vi": "Mờ nhạt"}
+{"en": "VDSG Plate", "vi": "Tấm giáp VDSG"}
+{"en": "Reloading the most recent save game.", "vi": "Đang tải lại bản lưu gần nhất."}
+{"en": " is unconscious.", "vi": "đang bất tỉnh."}
+{"en": "Trespass", "vi": "Trốn vào lãnh địa"}
+{"en": "CURRENT OBJECTIVE", "vi": "MỤC TIÊU HIỆN TẠI"}
+{"en": "Item", "vi": "Vật phẩm"}
+{"en": "Reload", "vi": "Nạp lại"}
+{"en": "Target", "vi": "Mục tiêu"}
+{"en": "Critical Strike on", "vi": "Tia sét chí mạng trên"}
+{"en": "You cannot wait in the air.", "vi": "Bạn không thể đứng lơ lửng trong không trung được."}
+{"en": "was equipped.", "vi": "đã được trang bị."}
+{"en": "Cheekbone Height", "vi": "Chiều cao gò má"}
+{"en": "Jaw Width", "vi": "Độ rộng hàm"}
+{"en": "You cannot sleep in an owned bed.", "vi": "Bạn không thể ngủ trên chiếc giường thuộc quyền sở hữu của người khác."}
+{"en": "Previous Selection", "vi": "Lựa chọn trước đó"}
+{"en": "Mid Year Celebration", "vi": "Lễ hội giữa năm"}
+{"en": "Are you sure you want to delete this save game?", "vi": "Bạn có chắc chắn muốn xóa bản lưu này không?"}
+{"en": "Human", "vi": "Con người"}
+{"en": "Hard", "vi": "Khó"}
+{"en": "Absorb", "vi": "Hấp thụ"}
+{"en": "Armor Rating", "vi": "Chỉ số giáp"}
+{"en": "Take", "vi": "Lấy đi"}
+{"en": "You cannot equip this item right now.", "vi": "Bạn không thể trang bị vật phẩm này ngay lúc này."}
+{"en": "Save", "vi": "Lưu"}
+{"en": "Enchant item?", "vi": "Phép thuật hóa vật phẩm?"}
+{"en": "SAVE OBSOLETE", "vi": "SAVE OBSOLETE (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "March", "vi": "Tháng Ba"}
+{"en": "June", "vi": "Tháng Sáu"}
+{"en": "Face", "vi": "Mặt"}
+{"en": "Cleared.", "vi": "Đã hoàn thành."}
+{"en": "You cannot sleep when enemies are nearby.", "vi": "Bạn không thể ngủ khi có kẻ thù ở gần."}
+{"en": "You have not discovered this location yet.", "vi": "Bạn chưa khám phá địa điểm này."}
+{"en": "Unlocked with %s.", "vi": "Mở khóa bằng %s."}
+{"en": "she", "vi": "cô ấy"}
+{"en": "Conjuration", "vi": "Phù thủy"}
+{"en": "You can not eat quest items.", "vi": "Bạn không thể ăn vật phẩm nhiệm vụ."}
+{"en": "Repair Skill", "vi": "Kỹ năng sửa chữa"}
+{"en": "You don't have enough Magicka.", "vi": "Bạn không đủ sức mạnh phép thuật."}
+{"en": "Sit", "vi": "Ngồi"}
+{"en": "Nose Height", "vi": "Chiều cao mũi"}
+{"en": "Unknown Location", "vi": "Vị trí chưa xác định"}
+{"en": "Common", "vi": "Thường gặp"}
+{"en": "Body Part", "vi": "Bộ phận cơ thể"}
+{"en": "SAVE CORRUPT", "vi": "SAVE HƯ HỎNG"}
+{"en": "Potion of ", "vi": "Thuốc của"}
+{"en": "You can't continue fighting.", "vi": "Bạn không thể tiếp tục chiến đấu nữa."}
+{"en": "Saving...", "vi": "Đang lưu..."}
+{"en": "Node1,Node2,Node3", "vi": "Node1, Node2, Node3"}
+{"en": "Soul captured!", "vi": "Hồn đã bị bắt giữ!"}
+{"en": "Nose Color", "vi": "Nose Color (Lưu ý: lần trước dịch không đạt vì: sai định dạng. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "You cannot change weapons while attacking.", "vi": "Bạn không thể thay đổi vũ khí khi đang tấn công."}
+{"en": "Last witness killed.", "vi": "Người chứng kiến cuối cùng đã bị giết."}
+{"en": "Poison of ", "vi": "Độc của (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Abort", "vi": "Hủy bỏ"}
+{"en": "Nose Type", "vi": "Nose Type → Kiểu mũi"}
+{"en": "Done", "vi": "Done"}
+{"en": "Bash", "vi": "Bash"}
+{"en": "Start game as %s?", "vi": "Bắt đầu trò chơi với vai %s?"}
+{"en": " equipped.", "vi": " equipped."}
+{"en": "File does not exist", "vi": "File không tồn tại"}
+{"en": "Your item has insufficient charge.", "vi": "Đồ vật của bạn đã hết pin."}
+{"en": "Greater", "vi": "Lớn hơn"}
+{"en": "Very Hard", "vi": "Rất khó"}
+{"en": "You cannot change armor while attacking.", "vi": "Bạn không thể thay đổi giáp khi đang tấn công."}
+{"en": "This save relies on content that is no longer present. Some objects may no longer be available. Continue Loading?", "vi": "Bản lưu này dựa trên nội dung đã không còn tồn tại. Một số vật phẩm có thể đã không còn sẵn sàng sử dụng. Tiếp tục tải?"}
+{"en": "You do not have enough room to drop this object.", "vi": "Bạn không đủ chỗ để thả vật phẩm này xuống."}
+{"en": "Menus", "vi": "Menu"}
+{"en": "Retry", "vi": "Thử lại"}
+{"en": "South Wind's Prayer", "vi": "Lời cầu nguyện của South Wind"}
+{"en": "PM", "vi": "CH"}
+{"en": "October", "vi": "Tháng Mười"}
+{"en": "ACTIVE EFFECTS", "vi": "HIỆU ỨNG ĐANG HOẠT ĐỘNG"}
+{"en": "Hours", "vi": "Giờ"}
+{"en": "Your attack has no effect.", "vi": "Cuộc tấn công của bạn không có tác dụng."}
+{"en": "Turn off Controller in the Controls section of the Settings menu to switch back to Keyboard/Mouse.", "vi": "Tắt bộ điều khiển trong phần Điều khiển của menu Cài đặt để chuyển lại về Bàn phím/Chuột."}
+{"en": "Hair Color", "vi": "Màu tóc"}
+{"en": "%s has worn off.", "vi": "%s đã hết tác dụng."}
+{"en": "Warrior's Festival", "vi": "Lễ hội Chiến binh"}
+{"en": "You cannot wait while taking health damage.", "vi": "Bạn không thể chờ đợi khi đang bị giảm chỉ số sức khỏe."}
+{"en": "Learn", "vi": "Học hỏi"}
+{"en": "OFF", "vi": "TẮT"}
+{"en": "Save successful.", "vi": "Lưu thành công."}
+{"en": "Loading...", "vi": "Đang tải..."}
+{"en": "You cannot fast travel from this location.", "vi": "Bạn không thể di chuyển nhanh từ vị trí này."}
+{"en": "Eye Color", "vi": "Màu mắt"}
+{"en": "Talk", "vi": "Nói chuyện"}
+{"en": "hers", "vi": "Của cô ấy"}
+{"en": "You can't Quickload while the game is paused.", "vi": "Bạn không thể tải nhanh khi trò chơi đang tạm dừng."}
+{"en": "Autosave", "vi": "Tự động lưu"}
+{"en": "night", "vi": "đêm"}
+{"en": "You have insufficient gold to train.", "vi": "Bạn chưa đủ tiền để huấn luyện."}
+{"en": "AM", "vi": "sáng"}
+{"en": "Experience Points Earned.", "vi": "Điểm kinh nghiệm đã kiếm được."}
+{"en": "morning", "vi": "buổi sáng"}
+{"en": "You cannot save right now.", "vi": "Bạn không thể lưu ngay lúc này."}
+{"en": "black", "vi": "đen"}
+{"en": "This lock cannot be picked. It requires a key to open.", "vi": "Không thể bẻ khóa ổ khóa này. Cần chìa khóa để mở."}
+{"en": "Jester's Day", "vi": "Ngày hề"}
+{"en": "Created.", "vi": "Đã tạo."}
+{"en": "Eye Depth", "vi": "Độ sâu mắt"}
+{"en": "Sneak attack for ", "vi": "Tấn công lén cho"}
+{"en": "Fine", "vi": "Tốt"}
+{"en": "You have too many followers.", "vi": "Bạn có quá nhiều người theo dõi."}
+{"en": "The current weapon is already poisoned.", "vi": "Vũ khí hiện tại đã bị nhiễm độc rồi."}
+{"en": "You're carrying too much and can't fast travel!", "vi": "Bạn đang mang quá nhiều đồ nên không thể di chuyển nhanh được!"}
+{"en": "Eye Tint", "vi": "Eye Tint (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Harvest's End", "vi": "Harvest's End (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Potion creation failed.", "vi": "Tạo thuốc chưa thành công."}
+{"en": "Fall", "vi": "Fall"}
+{"en": "TO PLACE", "vi": "ĐỂ ĐẶT"}
+{"en": "Ride", "vi": "Chở"}
+{"en": "DETECTED", "vi": "DETECTED"}
+{"en": "Are you sure you want to overwrite this save game?", "vi": "Bạn có chắc chắn muốn ghi đè lên bản lưu này không?"}
+{"en": "Your current weapon is already enchanted.", "vi": "Vũ khí hiện tại của bạn đã được phong ấn."}
+{"en": "Brow", "vi": "Brow => Brow"}
+{"en": "Tuesday", "vi": "Tuesday"}
+{"en": "Red 2", "vi": "Red 2"}
+{"en": "Body", "vi": "Thân thể"}
+{"en": "You cannot wait when enemies are nearby.", "vi": "Bạn không thể chờ đợi khi có kẻ thù ở gần."}
+{"en": "You have zero chance to hit.", "vi": "Bạn hoàn toàn không có cơ hội trúng đòn."}
+{"en": "Large", "vi": "Lớn"}
+{"en": "Wait There", "vi": "Chờ tại đây"}
+{"en": "Minutes", "vi": "Phút"}
+{"en": "evening", "vi": "buổi tối"}
+{"en": "bounty added to", "vi": "thưởng được cộng vào"}
+{"en": "Ignore", "vi": "Bỏ qua"}
+{"en": "Drain", "vi": "Hút cạn"}
+{"en": "You cannot fast travel while jumping or falling.", "vi": "Bạn không thể di chuyển nhanh khi đang nhảy hoặc rơi."}
+{"en": "Choose an item to destroy and learn its Enchantment, or combine an Item, Enchantment, and Soul Gem to create magic items.", "vi": "Chọn một vật phẩm để phá hủy và học được phép thuật của nó, hoặc kết hợp một vật phẩm, phép thuật và viên ngọc linh hồn để tạo ra vật phẩm ma pháp."}
+{"en": "You can't fast travel while taking health damage.", "vi": "Bạn không thể di chuyển nhanh khi đang bị giảm chỉ số sức khỏe."}
+{"en": "Steal From", "vi": "Trộm từ"}
+{"en": "Increase %s?", "vi": "Tăng %s?"}
+{"en": "You've leveled up! Pick a new perk in the Pip-Boy.", "vi": "Bạn đã lên cấp! Chọn một lợi ích mới trong Pip-Boy."}
+{"en": "You lack the required components to create this item.", "vi": "Bạn thiếu các thành phần cần thiết để chế tạo vật phẩm này."}
+{"en": "Fast travel is currently unavailable from this location.", "vi": "Hiện tại không thể di chuyển nhanh từ vị trí này."}
+{"en": "You lack the required components to improve this item.", "vi": "Bạn thiếu các thành phần cần thiết để nâng cấp vật phẩm này."}
+{"en": "This NPC cannot help you train any higher.", "vi": "Nhân vật này không thể giúp bạn luyện tập nâng cao hơn nữa."}
+{"en": "Finish and name your character?", "vi": "Hoàn thành và đặt tên cho nhân vật của bạn?"}
+{"en": "mins", "vi": "phút"}
+{"en": "Escape Jail", "vi": "Thoát khỏi nhà tù"}
+{"en": "You cannot sleep while being asked to leave.", "vi": "Bạn không thể ngủ khi đang bị yêu cầu rời đi."}
+{"en": "You cannot wait while being asked to leave.", "vi": "Bạn không thể chờ đợi khi bị yêu cầu rời đi."}
+{"en": "hours", "vi": "1 giờ"}
+{"en": "Dungeon Cleared!", "vi": "Hang động đã được dọn sạch!"}
+{"en": "min", "vi": "min"}
+{"en": "hour", "vi": "1 giờ"}
+{"en": "%s resisted %s.", "vi": "%s đã chống cự lại %s."}
+{"en": "You cannot drop keys.", "vi": "Bạn không thể bỏ rơi chìa khóa."}
+{"en": "Change preset and lose your changes?", "vi": "Thay đổi cài đặt và mất những thay đổi của bạn?"}
+{"en": "Disenchant", "vi": "Bỏ ma thuật"}
+{"en": "Choose an item, enchantment, and soul gem.", "vi": "Chọn một vật phẩm, phép phù thủy và viên đá linh hồn."}
+{"en": "The enchantment on this item is already known.", "vi": "Bạn đã biết phép thuật trên vật phẩm này rồi."}
+{"en": "Insufficient charge for enchantment.", "vi": "Không đủ năng lượng để thực hiện phép thuật."}
+{"en": "LEATHER", "vi": "LEATHER"}
+{"en": "This individual is busy.", "vi": "Người này đang bận."}
+{"en": "IRON", "vi": "SẮT"}
+{"en": "JEWELRY", "vi": "TRANG TRÍ"}
+{"en": "DWARVEN", "vi": "LỬA NỔ"}
+{"en": "Your teammate already owns that armor.", "vi": "Bạn đồng hành của bạn đã sở hữu bộ giáp đó rồi."}
+{"en": "War Paint Color", "vi": "Màu sơn chiến tranh"}
+{"en": "Prisoner", "vi": "TÙ NHÂN"}
+{"en": "You lack the required perks to improve this item", "vi": "Bạn chưa có kỹ năng cần thiết để nâng cấp vật phẩm này."}
+{"en": "GLASS", "vi": "KÍNH"}
+{"en": "You don't have enough gold.", "vi": "Bạn không đủ tiền vàng."}
+{"en": "You cannot fast travel at this time.", "vi": "Bạn không thể di chuyển nhanh vào thời điểm này."}
+{"en": "Dirt Color", "vi": "Màu đất"}
+{"en": "You cannot wait at this time.", "vi": "Bạn không thể chờ đợi vào thời điểm này."}
+{"en": "HIDE", "vi": "DA"}
+{"en": "ORCISH", "vi": "ORC"}
+{"en": "Choose an item to destroy and learn its effects.", "vi": "Chọn một vật phẩm để phá hủy và học các hiệu ứng của nó."}
+{"en": "DAEDRIC", "vi": "DAEDRIC"}
+{"en": "You cannot sleep at this time.", "vi": "Bạn không thể ngủ vào thời điểm này."}
+{"en": "You lack the required skill to improve this item.", "vi": "Bạn chưa có kỹ năng cần thiết để nâng cấp vật phẩm này."}
+{"en": "DRAGON", "vi": "RỒNG"}
+{"en": "Complexion Color", "vi": "Màu da"}
+{"en": "You cannot use this while in combat.", "vi": "Bạn không thể sử dụng điều này khi đang chiến đấu."}
+{"en": "DRAUGR", "vi": "DRAUGR"}
+{"en": "STEEL", "vi": "Thép"}
+{"en": "WOOD", "vi": "Gỗ"}
+{"en": "STUDDED", "vi": "Có đinh tán"}
+{"en": "FALMER", "vi": "Falmer"}
+{"en": "ELVEN", "vi": "ELVEN"}
+{"en": "You can't take your teammate's starting armor.", "vi": "Bạn không thể lấy bộ giáp khởi điểm của bạn đồng hành."}
+{"en": "Your hands are bound.", "vi": "Tay bạn bị trói."}
+{"en": "Do you want to improve this item?", "vi": "Bạn có muốn nâng cấp vật phẩm này không?"}
+{"en": "Do you want to create this item?", "vi": "Bạn có muốn chế tạo vật phẩm này không?"}
+{"en": "Current weapon cannot be poisoned.", "vi": "Vũ khí hiện tại không thể bị nhiễm độc."}
+{"en": "You have been poisoned.", "vi": "Bạn đã bị nhiễm độc."}
+{"en": "You lack the perk to improve magical items.", "vi": "Bạn chưa có kỹ năng để nâng cấp vật phẩm ma thuật."}
+{"en": "Dismount Horse before going through door.", "vi": "Hãy xuống ngựa trước khi đi qua cửa."}
+{"en": "Quit alchemy?", "vi": "Bỏ chế tạo hóa học?"}
+{"en": "Chosen enchantment cannot be applied to this item.", "vi": "Phép thuật đã chọn không thể áp dụng cho vật phẩm này."}
+{"en": "No direct path seen.", "vi": "Không tìm thấy lối đi trực tiếp."}
+{"en": "No active quest.", "vi": "Không có nhiệm vụ nào đang hoạt động."}
+{"en": "DAMAGE", "vi": "HẠI THƯƠNG"}
+{"en": "ARMOR RATING", "vi": "ĐỘ BẢO VỆ"}
+{"en": "Failed", "vi": "Thất bại"}
+{"en": "Started", "vi": "Đã bắt đầu"}
+{"en": "or", "vi": "hoặc"}
+{"en": "Completed", "vi": "Hoàn thành"}
+{"en": "NPC Footsteps", "vi": "Tiếng bước chân của NPC"}
+{"en": "Locker", "vi": "Locker → Tủ quần áo"}
+{"en": "Charge Card?", "vi": "Thanh toán bằng thẻ?"}
+{"en": "Fixer", "vi": "Fixer"}
+{"en": "Power Core", "vi": "Lõi năng lượng"}
+{"en": "Annoyed", "vi": "Chỉnh sửa"}
+{"en": "Shack Roof", "vi": "Shack Roof"}
+{"en": "Journal Entry: 1/15/78", "vi": "Nhật ký: Ngày 1/15/78"}
+{"en": "Where's Shaun?", "vi": "Shaun ở đâu vậy?"}
+{"en": "A way out", "vi": "Một lối thoát"}
+{"en": "Do You Know Where", "vi": "Bạn có biết ở đâu"}
+{"en": "   -= Property of Cambridge Polymer Labs =-", "vi": "-= Sở hữu của Phòng thí nghiệm Polyme Cambridge =-"}
+{"en": "ERROR - Should never see this screen!", "vi": "LỖI - Bạn sẽ chẳng bao giờ thấy màn hình này đâu!"}
+{"en": "Understood", "vi": "Hiểu rồi"}
+{"en": "Bureau Door", "vi": "Bureau Door (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Gunner Mercenary", "vi": "lính đánh thuê Gunner"}
+{"en": "Manny", "vi": "Manny"}
+{"en": "I Was Too Late", "vi": "Tôi đã quá muộn"}
+{"en": "Serrated Blade Machete Mod", "vi": "Lưỡi dao cưa răng cưa | Machete Mod"}
+{"en": "Fusion Cell", "vi": "Fusion Cell"}
+{"en": "Signal Interceptor", "vi": "Signal Interceptor"}
+{"en": "No Good Answer", "vi": "Không có câu trả lời hay"}
+{"en": "Bioscience Security", "vi": "Bảo vệ Bioscience"}
+{"en": "Shadowed Combat Armor Leg Mod", "vi": "Chỉnh sửa chân cho bộ giáp chiến đấu Shadowed"}
+{"en": "Do this later?", "vi": "Làm việc này sau nhé?"}
+{"en": "Gavil sent me", "vi": "Gavil đã gửi tin nhắn cho tôi"}
+{"en": "Let's hear it", "vi": "Hãy nghe đi"}
+{"en": "(Optional) Save Kent Connolly", "vi": "(Tùy chọn) Lưu Kent Connolly"}
+{"en": "Alpha Rabid Mongrel", "vi": "Alpha sói điên"}
+{"en": "Was a good fight", "vi": "Đó là một trận đấu hay"}
+{"en": "Rose earlier than expected to the sounds of construction work. It seems they've begun work on a rock quarry up the road since coming here last year. No matter, just a bump in the road. I can work through it. I'm sure Steinbeck and Hemingway didn't work in total silence. Surely I can work this into the narrative somehow, give the main character an edge. Yeah, that's the ticket.", "vi": "Rose sớm hơn dự định giữa tiếng ồn của công trường xây dựng. Có vẻ như họ đã bắt đầu khai thác mỏ đá ở con đường phía trên từ khi đến đây vào năm ngoái. Không sao, chỉ là một chướng ngại nhỏ trên lộ trình. Tôi có thể vượt qua được. Tôi chắc rằng Steinbeck và Hemingway cũng không làm việc trong sự tĩnh lặng hoàn toàn. Chắc chắn tôi có thể lồng ghép điều này vào cốt truyện theo cách nào đó, tạo lợi thế cho nhân vật chính. Đúng rồi, đó là mấu chốt."}
+{"en": "Don't Answer", "vi": "Đừng trả lời"}
+{"en": "Better be it", "vi": "Tốt hơn là vậy"}
+{"en": "Ceramic Bowl", "vi": "Bát gốm"}
+{"en": "Terminal", "vi": "Terminal"}
+{"en": "Sanctuary Hills", "vi": "Sanctuary Hills"}
+{"en": "--Dunwich Borers Secure Communications--", "vi": "--Giao tiếp bảo mật của Dunwich Borers--"}
+{"en": "Waste of Time", "vi": "Thôi phí thời gian"}
+{"en": "Where are they?", "vi": "Họ ở đâu vậy?"}
+{"en": "That's Incredible", "vi": "Thật là kinh ngạc"}
+{"en": "Beryllium Agitator?", "vi": "Bộ khuấy Beryllium?"}
+{"en": "Suppressor", "vi": "Bộ giảm thanh"}
+{"en": "2273 Dec", "vi": "Tháng 12 năm 2273"}
+{"en": "Pay up", "vi": "Trả tiền đi"}
+{"en": "Nothing to report", "vi": "Không có gì để báo cáo"}
+{"en": "Cedric", "vi": "Cedric"}
+{"en": "Barter", "vi": "Giao dịch"}
+{"en": "Electrified", "vi": "Đã được điện hóa"}
+{"en": "Machine Pistol", "vi": "Lôi súng máy"}
+{"en": "Thank you", "vi": "Cảm ơn bạn"}
+{"en": "Radiation", "vi": "Bức xạ"}
+{"en": "DC Guard Helm", "vi": "DC Guard mũ bảo hiểm"}
+{"en": "Gum Drops", "vi": "Kẹo cao su"}
+{"en": "Face Consequences", "vi": "Đối mặt với hậu quả"}
+{"en": ".44 Bull Barrel", "vi": "Nòng .44 Bull"}
+{"en": "Override Door Controls", "vi": "Bypass hệ thống điều khiển cửa"}
+{"en": "Meet up with the Courser", "vi": "Gặp gỡ với Courier"}
+{"en": "Why not do it yourself?", "vi": "Sao không tự làm lấy nhỉ?"}
+{"en": "Maybe", "vi": "Có thể."}
+{"en": "Need Your Help", "vi": "Cần sự giúp đỡ của bạn"}
+{"en": "All figured out", "vi": "Tất cả đã rõ"}
+{"en": "Right Legs", "vi": "Right Legs"}
+{"en": "Refractor", "vi": "Refractor"}
+{"en": "Smiling Kate", "vi": "Smiling Kate"}
+{"en": "Lie about test", "vi": "Lừa dối trong thử nghiệm"}
+{"en": "Shack Floor", "vi": "Shack Floor"}
+{"en": "Trailer Door", "vi": "Cánh cửa xe tải"}
+{"en": "Safety First", "vi": "Ưu tiên an toàn"}
+{"en": "Laser Musket Standard Sights", "vi": "Laser Musket Tiêu chuẩn ngắm"}
+{"en": "Ask for money", "vi": "Yêu cầu tiền"}
+{"en": "Standard Stock", "vi": "Standard Stock (Vòng stock tiêu chuẩn)"}
+{"en": "Runaway Girl", "vi": "Cô gái bỏ chạy"}
+{"en": ".50 Caliber", "vi": "Lựu pháo .50"}
+{"en": "Courser Chip?", "vi": "Vi mạch Courser?"}
+{"en": "Agree", "vi": "Đồng ý"}
+{"en": "How Much?", "vi": "Bao nhiêu?"}
+{"en": "What if I get caught?", "vi": "Nếu bị bắt thì sao?"}
+{"en": "Police Precinct 8", "vi": "Số|Khu vực Cảnh sát Quận 8"}
+{"en": "Sniper", "vi": "Thủ lĩnh bắn tỉa"}
+{"en": "Lawrence", "vi": "Lawrence"}
+{"en": "I believe you", "vi": "Tôi tin bạn"}
+{"en": "X-01 Mk.III Torso Lining", "vi": "Lớp lót thân X-01 Mk.III"}
+{"en": "Gunner's Note", "vi": "Ghi chú của xạ thủ"}
+{"en": "Why?", "vi": "Tại sao?"}
+{"en": ">Turret Control", "vi": ">Điều khiển tháp pháo"}
+{"en": "Refrigerator", "vi": "Tủ lạnh"}
+{"en": "That's the risk", "vi": "Đó là rủi ro"}
+{"en": "Avoid the question", "vi": "Tránh trả lời câu hỏi"}
+{"en": "Security System Status: DISABLED", "vi": "Trạng thái hệ thống bảo mật: TẮT"}
+{"en": "What's the Institute done?", "vi": "Viện đã làm gì?"}
+{"en": "Not Interested", "vi": "Không quan tâm"}
+{"en": "What about afterwards?", "vi": "Còn chuyện sau này thì sao?"}
+{"en": "Kessler", "vi": "Kessler"}
+{"en": "Not here to chat", "vi": "Không phải để trò chuyện đâu"}
+{"en": "Make You Bleed", "vi": "Làm cho bạn chảy máu"}
+{"en": "Looking around", "vi": "Đang nhìn quanh"}
+{"en": "Max AP", "vi": "Lượng AP tối đa"}
+{"en": "Put calling card on Wayne's body", "vi": "Đặt thẻ gọi điện lên xác của Wayne"}
+{"en": "Welcome back", "vi": "Chào mừng trở lại"}
+{"en": "Blown to hell?", "vi": "Bị thổi bay xuống địa ngục à?"}
+{"en": "That's interesting", "vi": "Thú vị thật đấy"}
+{"en": "[DN049 - General Atomics Galleria]", "vi": "[DN049 - Tổng hợp Galleria của General Atomics]"}
+{"en": "Wildwood Cemetery", "vi": "Wildwood Nghĩa địa"}
+{"en": "Binet Quarters Terminal", "vi": "Binet Căn cứ Terminal"}
+{"en": "Never happen again", "vi": "Đừng bao giờ để điều này xảy ra nữa"}
+{"en": "Ask for it all", "vi": "Yêu cầu tất cả"}
+{"en": "Hawthorne Residence", "vi": "Nhà nghỉ dưỡng Hawthorne"}
+{"en": "Pipe Gun Large Magazine", "vi": "Pipe Gun: Hộp đạn lớn"}
+{"en": "Missing supplies", "vi": "Thiếu hàng hóa"}
+{"en": "X-01 Mk.III Leg Armor", "vi": "X-01 Mk.IIII bộ giáp chân"}
+{"en": "Agility Training", "vi": "Huấn luyện linh hoạt"}
+{"en": "Speak to Paladin Danse", "vi": "Nói chuyện với Đấng Trừng Phạt Danse"}
+{"en": "Captain Widmark", "vi": "Đại úy Widmark"}
+{"en": "Galleria DMS Override Password", "vi": "Galleria DMS Mật khẩu vượt qua (Override)"}
+{"en": "You want to go?", "vi": "Bạn muốn đi à?"}
+{"en": "What's Up?", "vi": "Có chuyện gì vậy?"}
+{"en": "Shadeless Table Lamp", "vi": "Shadeless Table Lamp"}
+{"en": "Happy to Help", "vi": "Rất vui được giúp bạn"}
+{"en": "Warning", "vi": "Cảnh báo"}
+{"en": "Picket Fence", "vi": "Hàng rào gỗ"}
+{"en": "Syringer Medium Scope", "vi": "Kính ngắm trung bình cho Syringer"}
+{"en": "Reward?", "vi": "Thưởng gì?"}
+{"en": "Milk Vending Machine", "vi": "Máy bán sữa"}
+{"en": "Sorry I'll Leave", "vi": "Xin lỗi, tôi sẽ rời đi"}
+{"en": "Reduce Agility", "vi": "Giảm chỉ số linh hoạt"}
+{"en": "Dead Drop", "vi": "Dead Drop (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Money isn't everything", "vi": "Tiền bạc chẳng phải là tất cả"}
+{"en": "POSEIDON ENERGY", "vi": "NĂNG LƯỢNG POSEIDON"}
+{"en": "Report your success to settlers at <Alias=ActualLocation>", "vi": "Báo cáo thành công của bạn với dân cư tại <Alias=ActualLocation>"}
+{"en": "Under \"Combat Proto Systems Initiative\" code: 5763D9, this sequence must only be initiated under specific emergency conditions. Current user must reimburse <REDACTED> for the total cost of destroyed property, including any collateral damage sustained.", "vi": "Dưới mã \"Khởi động hệ thống nguyên mẫu chiến đấu\": 5763D9, trình tự này chỉ được kích hoạt trong các tình huống khẩn cấp cụ thể. Người dùng hiện tại phải bồi thường cho <REDACTED> toàn bộ chi phí của tài sản bị phá hủy, bao gồm cả thiệt hại phụ sinh."}
+{"en": "Are you sure you want to continue?", "vi": "Bạn có chắc chắn muốn tiếp tục không?"}
+{"en": "Shack Upper Floor", "vi": "Tầng trên của Shack"}
+{"en": "Wicked Shipping Terminal", "vi": "Cổng bến tàu Wicked"}
+{"en": "Senior Scribe Neriah", "vi": "Thư ký cao cấp Neriah"}
+{"en": "Wanted to Talk", "vi": "Muốn trò chuyện"}
+{"en": "Why didn't you handle it?", "vi": "Sao bạn không xử lý nó đi?"}
+{"en": "Can he rejoin?", "vi": "Anh ấy có thể tái nhập ngũ được không?"}
+{"en": "Connecting to racers...", "vi": "Đang kết nối với các tay đua..."}
+{"en": "...accessing targeting subsystem...", "vi": "...đang truy cập hệ thống nhắm mục tiêu..."}
+{"en": "...distributing administative override... done.", "vi": "...phân phối lệnh phủ hành chính... xong."}
+{"en": "Targeting overridden, $Administrator.", "vi": "Mục tiêu bị thay thế, $Administrator."}
+{"en": "Get to the point", "vi": "Đi thẳng vào vấn đề đi"}
+{"en": "Power Armor", "vi": "Power Armor"}
+{"en": "Stop tour", "vi": "Dừng tham quan"}
+{"en": "Ice Cold Gwinnett Lager", "vi": "Bọt lạnh Gwinnett Lager"}
+{"en": "Winlock", "vi": "Winlock"}
+{"en": "(Optional) Talk with Honest Dan", "vi": "(Tùy chọn) Nói chuyện với Honest Dan"}
+{"en": "Wonderglue", "vi": "Kẹo dính"}
+{"en": "Bomb", "vi": "Bong"}
+{"en": "Not A Chance", "vi": "Không có cơ hội nào"}
+{"en": "..// SPO7L1GH7 0VERL0RD v4.2 \\\\..", "vi": "..// QUÁ CHỦ TỐI VỌNG v4.2 \\\\.."}
+{"en": "- load holotape (must have hardline spotlight\\s)", "vi": "- load holotape (phải có đèn tập trung cứng\\s)"}
+{"en": "- OVERRIDE will make your lights detect anyone hostile to you.", "vi": "OVERRIDE sẽ khiến đèn của bạn phát hiện bất kỳ ai thù địch với bạn."}
+{"en": "- CLEAR will make your lights not detect anyone. Pretty Lights.", "vi": "- CLEAR sẽ khiến đèn của bạn không phát hiện ra bất kỳ ai nữa. Rất tuyệt."}
+{"en": "- SABOTAGE will cause self-destruct. Lights go boom.", "vi": "- SABOTAGE sẽ kích hoạt tự hủy. Đèn sẽ nổ tung."}
+{"en": "- let there be light!! Or not.", "vi": "- hãy có ánh sáng!! Hoặc cũng chẳng sao."}
+{"en": "|P|h|a|e|d|r|O|S|", "vi": "|P|h|a|e|d|rO|S"}
+{"en": "I'm looking for you", "vi": "Tôi đang tìm bạn"}
+{"en": "Evasive", "vi": "Lánh tránh"}
+{"en": "Eddie Winter Holotape 0", "vi": "Băng ghi âm Eddie Winter 0"}
+{"en": "Deacon", "vi": "Deacon"}
+{"en": "Safe Storage", "vi": "Safe Storage => Kho chứa an toàn"}
+{"en": "allies of B, enemies of A", "vi": "đồng minh của B, kẻ thù của A"}
+{"en": "Warning - Test Subject may be unpredictable, please take proper safety percautions.", "vi": "Cảnh báo: Đối tượng thử nghiệm có thể hành động khó lường, vui lòng tuân thủ các biện pháp an toàn cần thiết."}
+{"en": "Establishing Connection to Test Subject 946...", "vi": "Thiết lập kết nối với đối tượng thử nghiệm 946..."}
+{"en": "Connection Established...", "vi": "Đã thiết lập kết nối..."}
+{"en": "Verifying Connection...", "vi": "Đang xác nhận kết nối..."}
+{"en": "Inititating Activation Sequence...", "vi": "Khởi động trình tự kích hoạt..."}
+{"en": "Always this suspicious?", "vi": "Luôn luôn nghi ngờ như vậy sao?"}
+{"en": "DC Guard Left Arm Armor", "vi": "DC Guard Bọc tay trái"}
+{"en": "Robot abilities", "vi": "Khả năng của robot"}
+{"en": "Just leave", "vi": "Chỉ cần rời đi"}
+{"en": "Date: 05 Sep 2077", "vi": "Ngày: 05 tháng 9 năm 2077"}
+{"en": "Subject: Jones, Philip and Sarah (wife)", "vi": "Chủ đề: Jones, Philip và Sarah (vợ)"}
+{"en": "Status: Cleared without Incident", "vi": "Trạng thái: Đã giải quyết mà không xảy ra bất kỳ sự cố nào"}
+{"en": "Notes: Subject ex-military, US Marine. Cooperation noted. Search yielded nothing of note, personal luggage and one musical instrument; trombone. Contents of vehicle matched the subjects story.", "vi": "Notes: Chủ thể từng là quân nhân, cựu thủy binh Hoa Kỳ. Đã ghi nhận sự hợp tác. Việc tìm kiếm không thu được gì đáng chú ý; chỉ có hành lý cá nhân và một nhạc cụ: kèn trombone. Nội thất phương tiện phù hợp với câu chuyện của chủ thể."}
+{"en": "Turret Laser Gun", "vi": "Turret Laser Gun (Laser Gun Nòng Xoay)"}
+{"en": "Surgical Mask", "vi": "Surgical Mask (Lưu ý: lần trước dịch không đạt vì: rỗng hoặc không đọc được. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Vault-Tec Scientist", "vi": "Vault-Tec Nhà khoa học"}
+{"en": "Greater Mass Blood Clinic", "vi": "Bệnh viện Greater Mass lấy máu"}
+{"en": "Routine Blood Test Protocol", "vi": "Quy trình xét nghiệm máu thường quy"}
+{"en": "Last Updated: 5-5-77", "vi": "Cập nhật lần cuối: 5/5/77"}
+{"en": "1. Reassure patient of confidentiality.", "vi": "1. Khẳng định với bệnh nhân về tính bảo mật thông tin."}
+{"en": "2. Draw blood per test order.", "vi": "2. Chọc lấy máu theo đơn xét nghiệm."}
+{"en": "3. Dismiss patient.", "vi": "3. Kết thúc khám bệnh."}
+{"en": "4. Forward blood to the Analysis lab on the second floor. If no aides are available, clearly mark incoming samples and deposit them in one of the lab refrigerators (Password: KJT540).", "vi": "Chuyển máu đến Phòng thí nghiệm Phân tích ở tầng hai. Nếu không có trợ lý nào sẵn sàng, hãy đánh dấu rõ ràng các mẫu nhập và đặt chúng vào một trong những tủ lạnh phòng thí nghiệm (Mật khẩu: KJT540)."}
+{"en": "What do you need?", "vi": "Bạn cần gì vậy?"}
+{"en": "Sarcastic", "vi": "Sarcastic (Hãy thử dịch \"Sarcastic\" theo nghĩa tự nhiên trong ngữ cảnh game, ví dụ: \"Chơi ác ý\", \"Đùa cợt\", \"Vô lý\".)"}
+{"en": "Quick Test Cell", "vi": "Quick Test Cell"}
+{"en": "Astoundingly Awesome Tales", "vi": "Những câu chuyện kinh ngạc và tuyệt vời"}
+{"en": "Research Terminal", "vi": "Nghiên cứu terminal"}
+{"en": "Tell me", "vi": "Nói với tôi"}
+{"en": "Gunslinger", "vi": "Gunslinger"}
+{"en": "Sealed Boston Bugle", "vi": "Sealed Boston Bugle"}
+{"en": "Deep Dish", "vi": "Deep Dish"}
+{"en": "Vault Assisted Navigation System", "vi": "Hệ thống định vị trợ giúp từ Vault"}
+{"en": "X-01 Mk.III Helmet", "vi": "X-01 Mk.IIII mũ bảo hiểm"}
+{"en": "Come along now?", "vi": "Đi nhanh lên đi?"}
+{"en": "Experiment Log J-32, Day 6", "vi": "Nhật ký thí nghiệm J-32, Ngày 6"}
+{"en": "Brahmin Horns", "vi": "Sừng bò Brahmin"}
+{"en": "More safehouses in trouble?", "vi": "Nhiều căn nhà an toàn nữa đang gặp rắc rối?"}
+{"en": "Where Is Shaun?", "vi": "Bạn ở đâu, Shaun?"}
+{"en": "Acid Spray", "vi": "Acid Spray"}
+{"en": "Gas Canister", "vi": "Gas Canister => Bình chứa khí"}
+{"en": "Paula Marshall - Executive Secretary, Operations", "vi": "Paula Marshall - Thư ký điều hành bộ phận hoạt động"}
+{"en": "Go ahead", "vi": "Đi tiếp"}
+{"en": "Gun Brace", "vi": "Gun Brace (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Duff", "vi": "Duff"}
+{"en": "What's the job?", "vi": "Công việc là gì?"}
+{"en": "Not now", "vi": "Bây giờ không phải lúc"}
+{"en": "Defend Ourselves", "vi": "Bảo vệ chính mình"}
+{"en": "===General Atomics Galleria - System Status===", "vi": "===Tổng quan Galleria General Atomics - Trạng thái hệ thống==="}
+{"en": "- The Galleria is currently <Token.Title=DN049GalleriaState>.", "vi": "- Khu vực Galleria hiện đang ở trạng thái <Token.Title=DN049GalleriaState>."}
+{"en": "- The Director Management System is <Token.Title=DN049DirectorState>.", "vi": "- Hệ thống quản lý giám đốc là <Token.Title=DN049DirectorState>."}
+{"en": "- The Facility Supervisor is <Token.Title=DN049SupervisorState>.", "vi": "- Giám đốc cơ sở là <Token.Title=DN049SupervisorState>."}
+{"en": "- <Global=DN049_StoresReportingErrorsCount> store(s) are reporting errors.", "vi": "<Global=DN049_StoresReportingErrorsCount> cửa hàng (cửa) đang báo lỗi."}
+{"en": "WARNING:", "vi": "WARNING:"}
+{"en": "This terminal is intended as an emergency manual override for the Supervisor in the unlikely event that the Director Management System (DMS) malfunctions or is otherwise rendered inoperative.", "vi": "Thiết bị cuối này được thiết kế để thực hiện lệnh khẩn cấp thay thế cho Giám sát viên trong trường hợp hệ thống quản lý giám đốc (DMS) gặp sự cố hoặc hoạt động bất thường."}
+{"en": "The Director Management System is operating normally. Emergency controls have been disabled.", "vi": "Hệ thống quản lý giám đốc đang hoạt động bình thường. Các bộ điều khiển khẩn cấp đã bị vô hiệu hóa."}
+{"en": "Apologize", "vi": "Xin lỗi"}
+{"en": "p-AttachGunner", "vi": "p-AttachGunner"}
+{"en": "Let's go", "vi": "Chúng ta đi thôi"}
+{"en": "Gauss Rifle Short Scope", "vi": "Gauss Rifle Kính ngắm ngắn"}
+{"en": "More Recipes?", "vi": "Thêm công thức mới?"}
+{"en": "OVERRIDE: Open Doors", "vi": "OVERRIDE: Mở cửa"}
+{"en": "Explain yourself, Doc", "vi": "Giải thích đi, bác sĩ"}
+{"en": "Fiber Optics", "vi": "Cáp quang"}
+{"en": "Discarded Drink", "vi": "Đồ uống bị vứt bỏ"}
+{"en": "Might take a look", "vi": "Có thể sẽ xem qua một chút"}
+{"en": "Mark Summerset", "vi": "Đánh dấu Summerset"}
+{"en": "Pay Ransom (<Global=MinRecruit02Ransom> Caps)", "vi": "Trả tiền chuộc (<Global=MinRecruit02Ransom> nắp chai)"}
+{"en": "Open the Door", "vi": "Mở cửa"}
+{"en": "Principal Tanner's Desk", "vi": "Bàn làm việc của Hiệu trưởng Tanner"}
+{"en": "Lead", "vi": "Chì"}
+{"en": "The Nahant Oceanological Society", "vi": "Hội Hải dương học Nahant"}
+{"en": "Pipe Revolver Recoil Compensating Stock", "vi": "Nòng súng ống dẫn bù giật cho súng lục"}
+{"en": "Shack Stairs", "vi": "Cầu thang nhà kho"}
+{"en": "Don't tell me...", "vi": "Đừng bảo tôi là..."}
+{"en": "...Communication Link Established", "vi": "...Liên kết liên lạc đã thiết lập"}
+{"en": "...Security Doors Opened", "vi": "...Cửa an ninh đã mở"}
+{"en": "...Synth behavioral protocols restored", "vi": "...Giao thức hành vi của Synth đã được khôi phục"}
+{"en": "...Defense turrets resuming standby mode", "vi": "...Các tháp canh phòng thủ đang trở lại chế độ chờ"}
+{"en": "Get Started", "vi": "Bắt đầu"}
+{"en": "Fishing Tournament Ad", "vi": "Quảng cáo giải đấu câu cá"}
+{"en": "Alcohol", "vi": "Rượu"}
+{"en": "Bribes?", "vi": "Mối hối lộ?"}
+{"en": "Bakery Ticket", "vi": "Vé bánh mì"}
+{"en": "Mercer Safehouse", "vi": "Nhà kho bí mật của Mercer"}
+{"en": "Can't Pay Ransom (<Global=MinRecruit02Ransom> Caps)", "vi": "Không thể trả tiền chuộc (<Global=MinRecruit02Ransom> nắp chai)"}
+{"en": "Agent", "vi": "Agent"}
+{"en": "It's Suicide", "vi": "Đây là cái chết chắc chắn."}
+{"en": "Let's Go", "vi": "Đi thôi!"}
+{"en": "Assault Rifle Advanced Receiver", "vi": "Assault Rifle Nòng nâng cao"}
+{"en": "Nelson Latimer?", "vi": "Nelson Latimer?"}
+{"en": "Combat Rifle Full Stock", "vi": "Súng trường chiến đấu có stock đầy đủ"}
+{"en": "HalluciGen Fear", "vi": "HalluciGen Kinh hoàng"}
+{"en": "CASE 008-Va: Krupp Vandalism Logs", "vi": "CASE 008-Va: Nhật ký phá hoại Krupp"}
+{"en": "Enter", "vi": "Enter"}
+{"en": "Teleportation", "vi": "Di chuyển tức thời"}
+{"en": "Unsure", "vi": "Unsure (Bạn vẫn chưa chắc chắn?)"}
+{"en": "I Don't Take Orders", "vi": "Tôi không nghe lệnh"}
+{"en": "Shack Wall", "vi": "Shack Tường"}
+{"en": "Home Plate", "vi": "Bệ nhà"}
+{"en": "Virgil", "vi": "Virgil"}
+{"en": "Recoil Compensating Stock", "vi": "Cò giảm giật"}
+{"en": "Open Blast Door", "vi": "Mở cửa phụt"}
+{"en": "Behemoth Slam Explosion", "vi": "Va chạm Behemoth nổ tung"}
+{"en": "Never Mind", "vi": "Không cần nói thêm"}
+{"en": "Calendar: Arlen Glass", "vi": "Lịch: Kính Arlen"}
+{"en": "Week of 10/17-10/23/77", "vi": "Tuần từ 10/17 đến 10/23/77"}
+{"en": "10/18 09:00 - Brainstorming w/ Marc [Cancelled]", "vi": "10/18 09:00 - Não bão với Marc [Đã hủy]"}
+{"en": "10/18 10:30 - Material vendor meeting [Cancelled]", "vi": "10/18 10:30 - Họp nhà cung cấp vật liệu [Đã hủy]"}
+{"en": "10/18 19:30 - October Parent Focus Group", "vi": "10/18 19:30 - Nhóm tập trung phụ huynh tháng Mười"}
+{"en": "10/19 11:00 - Sales & marketing review [Cancelled]", "vi": "10/19 11:00 - Đánh giá bán hàng và tiếp thị [Đã hủy]"}
+{"en": "10/19 13:00 - Product development research", "vi": "10/19 13:00 - Nghiên cứu phát triển sản phẩm"}
+{"en": "10/20 12:00 - Lunch w/ Marc, Nate [Cancelled]", "vi": "10/20 12:00 - Ăn trưa với Marc, Nate [Đã hủy]"}
+{"en": "10/20 13:00 - Product development research", "vi": "10/20 13:00 - Nghiên cứu phát triển sản phẩm"}
+{"en": "10/21 09:00 - Prep presentation for Board", "vi": "10/21 09:00 - Chuẩn bị bài thuyết trình cho Hội đồng"}
+{"en": "10/21 13:00 - Product development research", "vi": "10/21 13:00 - Nghiên cứu phát triển sản phẩm"}
+{"en": "10/21 15:30 - Reminder: Marlene coming to office", "vi": "10/21 15:30 - Nhắc nhở: Marlene sẽ đến văn phòng"}
+{"en": "10/22 14:00 - Board Meeting (Pending Invite)", "vi": "10/22 14:00 - Họp Hội đồng (Chờ lời mời)"}
+{"en": "Science! Center", "vi": "Trung tâm Khoa học!"}
+{"en": "Left Arm Bones", "vi": "Xương tay trái"}
+{"en": "My son is missing.", "vi": "Con trai tôi mất tích rồi."}
+{"en": "Report", "vi": "Báo cáo"}
+{"en": "Flux Sensor", "vi": "Cảm biến dòng điện"}
+{"en": "Unarmed Vicious Dog", "vi": "Không vũ khí Chó hung hãn"}
+{"en": "Evening Out", "vi": "Evening Out (Lưu ý: lần trước dịch không đạt vì: rỗng hoặc không đọc được. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Randolph Station Update #3", "vi": "Randolph Station Cập nhật số 3"}
+{"en": "Mk.VI", "vi": "Mk VI"}
+{"en": "Vaults?", "vi": "Kho chứa?"}
+{"en": "I'm here, right?", "vi": "Tôi ở đây rồi chứ?"}
+{"en": "Perception Bobblehead", "vi": "Nhận thức - Đầu bù"}
+{"en": "Won't Betray Them", "vi": "Không phản bội họ"}
+{"en": "Diamond City Surplus Key", "vi": "Chìa khóa kho dự trữ thành phố Diamond"}
+{"en": "Pile of junk", "vi": "Đống rác vụn"}
+{"en": "Get on with it", "vi": "Nhanh lên đi!"}
+{"en": "You're Nuts", "vi": "Bạn thật điên rồ"}
+{"en": "Faded Trench Coat", "vi": "Faded Trench Coat"}
+{"en": "T-60 Sensor Array", "vi": "T-60 Mảng cảm biến"}
+{"en": "Log Entries", "vi": "Ghi chép nhật ký"}
+{"en": "From: Aaron Babowski", "vi": "Từ: Aaron Babowski"}
+{"en": "To: Vivian O'Dell", "vi": "Gửi: Vivian O'Dell"}
+{"en": "Subject: RE: Mistress of Mystery Casting", "vi": "Tiêu đề: TV: Trả lời: Tuyển vai cho Mistress of Mystery"}
+{"en": "Vivi, relax. If it's that important to you, maybe we can put Claire in a wig. But the contract is signed, so this is happening. What is it with you guys and Mrs. Rivers, anyway? Maybe 20 years ago. But now, she's got a face made for radio. Am I right? Claire's got star power and that's what we need. I talked with Petey-boy and he's agreed to a couple new scenes. We need romance. And Claire's got the goods.", "vi": "Vivi, bình tĩnh đi. Nếu việc đó quan trọng với bạn đến mức ấy, có lẽ chúng ta có thể để Claire đội một chiếc tóc giả. Nhưng hợp đồng đã ký rồi, nên chuyện này sẽ xảy ra. Mà sao giữa bạn và bà Rivers lại có vấn đề như vậy? Có lẽ là 20 năm trước. Nhưng giờ thì bà ấy có khuôn mặt phù hợp cho radio. Phải không? Claire có sức hút của ngôi sao và đó chính là thứ chúng ta cần. Tôi đã nói chuyện với Petey-boy và anh ấy đồng ý quay thêm vài cảnh mới. Chúng ta cần tình yêu. Và Claire có đủ điều kiện."}
+{"en": "If Tina can't roll with this then I can fly in one of my boys from Hollywood. He's a class act.", "vi": "Nếu Tina không thể chấp nhận được thì tôi sẽ gọi một trong những người bạn từ Hollywood bay đến. Anh ấy là một tay chuyên nghiệp."}
+{"en": "I got a full schedule today, dress rehearsals until 8. This can't wait until you're back from the Bahamas. So if we have to meet, 8's my only window.", "vi": "Hôm nay tôi đã kín lịch rồi, tập chung trang phục cho đến lúc 8 giờ. Không thể đợi cho đến khi bạn trở về từ Bahamas đâu. Vậy nếu chúng ta phải gặp nhau thì 8 giờ là khung giờ duy nhất của tôi."}
+{"en": "Combat Rifle Muzzle Brake", "vi": "Bộ giảm chấn nòng súng trường chiến đấu"}
+{"en": "My pleasure", "vi": "Rất vui được giúp bạn"}
+{"en": "Try to help", "vi": "Cố gắng giúp đỡ"}
+{"en": "I'll be on my way then", "vi": "Tôi sẽ lên đường ngay"}
+{"en": "Reginald's Suit", "vi": "Bộ đồ của Reginald"}
+{"en": "Virgil's Still Alive", "vi": "Virgil vẫn còn sống"}
+{"en": "Giving up", "vi": "Từ bỏ"}
+{"en": "Marty Bullfinch's Case File", "vi": "Thuyết trình của Marty Bullfinch"}
+{"en": "Tales of a Junktown Jerky Vendor", "vi": "Những câu chuyện về người bán thịt khô ở Junktown"}
+{"en": "Coffee Cup", "vi": "Cốc cà phê"}
+{"en": "Lake Quannapowitt Monitoring Station", "vi": "Trạm giám sát hồ Quannapowitt"}
+{"en": "Fortify Intelligence", "vi": "Tăng chỉ số trí tuệ"}
+{"en": "The Marowski Heist", "vi": "Vụ cướp của Marowski"}
+{"en": "Preston was scared", "vi": "Preston đã sợ hãi"}
+{"en": "Good Riddance", "vi": "Xong rồi, đi cho khuất mắt tôi"}
+{"en": "Brotherhood Squire", "vi": "Huân biện của Hội đồng"}
+{"en": "Hard Road", "vi": "Đường đầy chông gai"}
+{"en": "What Are You?", "vi": "Bạn là ai vậy?"}
+{"en": "Short Barrel", "vi": "Short Barrel (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "File Cabinet", "vi": "Tủ hồ sơ | Tủ hồ sơ"}
+{"en": "More money", "vi": "More money ➔ Thêm tiền mặt"}
+{"en": "Network link established.", "vi": "Đã thiết lập liên kết mạng."}
+{"en": "Downloading...", "vi": "Đang tải xuống..."}
+{"en": "Scan complete.", "vi": "Quét hoàn tất."}
+{"en": "Chair", "vi": "Chair → Ghế"}
+{"en": "T-60 Helm", "vi": "T-60 Lưỡi Helm"}
+{"en": "Rude", "vi": "Xấu tính"}
+{"en": "Helena's Instructions", "vi": "Hướng dẫn từ Helena"}
+{"en": "Silver Shroud Costume", "vi": "Bộ trang phục Bạc che mặt"}
+{"en": "Live & Love", "vi": "Sống và yêu thương"}
+{"en": "Why Would I?", "vi": "Sao tôi lại làm vậy?"}
+{"en": "Make It Happen", "vi": "Hãy biến điều đó thành hiện thực"}
+{"en": "That Depends", "vi": "Tùy thuộc vào hoàn cảnh"}
+{"en": "Combat Shotgun Full Stock", "vi": "Súng trường chiến đấu có thân stock đầy đủ"}
+{"en": "Med-Tek Research", "vi": "Med-Tek Nghiên cứu"}
+{"en": "Settler", "vi": "Người định cư"}
+{"en": "The battle?", "vi": "Trận chiến?"}
+{"en": "Magazine", "vi": "Magazine (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Sounds Useful", "vi": "Nghe có vẻ hữu ích"}
+{"en": "What About Them?", "vi": "Họ thì sao?"}
+{"en": "FROM THE DESK OF PRINCIPAL RONALD TANNER", "vi": "TỪ BÀN CỦA HIỆU TRƯỞNG RONALD TANNER"}
+{"en": "MEMO TO FACULTY AND STAFF", "vi": "THÔNG BÁO GỬI CÁC GIÁO VIÊN VÀ NHÂN VIÊN"}
+{"en": "Hello. As you all probably know, our school has seen quite the jump in average standardized test scores as of late, and congratulations are obviously in order. Since leadership starts at the top, and I will be accepting Administrative Officer of the Year award at next month's School District Meeting. They have asked I keep my speech short, so I have obviously kept my thanks to those closest to the project in order to focus more time on my thoughts and plans for the comming years. Know that each of you has done your part, and I thank you for even the smallest contribution.", "vi": "Xin chào. Như mọi người có lẽ đã biết, trường chúng ta vừa đạt được một bước nhảy vọt về điểm số trung bình trong các kỳ thi chuẩn hóa gần đây, và lời chúc mừng là điều hiển nhiên cần thiết. Vì lãnh đạo bắt đầu từ trên xuống, nên tôi sẽ nhận giải thưởng Cán bộ Hành chính của năm tại cuộc họp khu vực giáo dục vào tháng tới. Họ yêu cầu tôi giữ bài phát biểu ngắn gọn, vì vậy tôi đã dành lời cảm ơn đến những người gần gũi nhất với dự án để tập trung nhiều thời gian hơn cho những suy nghĩ và kế hoạch của mình trong những năm tới. Hãy biết rằng mỗi người trong các bạn đều đã làm tròn bổn phận, và tôi xin chân thành cảm ơn cả những đóng góp nhỏ nhất của các bạn."}
+{"en": "Because of these events, you may hear rumors of budget increases to our school. While some of these rumors may be true, the increase will probably be minimal and will be allocated to equipment and faciility upgrades. However, I have earmarked a portion of the budget for a faculty/staff mixer this next weekend, from the hours of 6:00 to 6:45, as a token of my appreciation.", "vi": "Do những sự kiện này, bạn có thể nghe đến tin đồn về việc tăng ngân sách cho trường chúng ta. Mặc dù một số tin đồn này có thể là đúng, nhưng mức tăng sẽ có lẽ rất nhỏ và sẽ được phân bổ để nâng cấp thiết bị cũng như cơ sở vật chất. Tuy nhiên, tôi đã dành một phần ngân sách cho buổi tiệc gặp mặt giữa giáo viên và nhân viên vào cuối tuần tới, từ 6:00 đến 6:45, như một lời tri ân của tôi."}
+{"en": "Good work, and Go Cougars!", "vi": "Làm tốt lắm, và hãy cổ vũ cho đội Chó sói!"}
+{"en": "Principal Tanner", "vi": "Principal Tanner"}
+{"en": "Without my consent", "vi": "Không có sự đồng ý của tôi"}
+{"en": "Stays with me", "vi": "Ở cùng tôi"}
+{"en": "If that's all", "vi": "Nếu đó là tất cả"}
+{"en": "Caretaker", "vi": "Người trông nom"}
+{"en": "Puncturing Boxing Glove Mod", "vi": "Bộ phận găng tay đấm bốc bị thủng"}
+{"en": "Here to help", "vi": "Đến đây để giúp bạn"}
+{"en": "The Lost Patrol", "vi": "Đội tuần tra thất lạc"}
+{"en": "Spotlight", "vi": "Spotlight"}
+{"en": "Vault 81 Security Armor", "vi": "Vault 81 Bộ giáp bảo vệ"}
+{"en": "Forgive her", "vi": "Xin tha thứ cho cô ấy"}
+{"en": "Forget It", "vi": "Bỏ đi"}
+{"en": "A lot of unknowns...", "vi": "Rất nhiều điều chưa biết..."}
+{"en": "Troops?", "vi": "Bộ binh?"}
+{"en": "Billy", "vi": "Billy"}
+{"en": "Back Off", "vi": "Núp lại cho đã"}
+{"en": "Sounds greedy", "vi": "Nghe thật tham lam"}
+{"en": "I Said No", "vi": "Tôi đã nói không"}
+{"en": "I don't know", "vi": "Tôi không biết"}
+{"en": "I'm on it", "vi": "Tôi đã xử lý rồi."}
+{"en": "Minutemen?", "vi": "Đội Phút?"}
+{"en": "Alpha Glowing Mongrel", "vi": "Alpha Glowing Mộng tưởng"}
+{"en": "Player Commenting on things in the House", "vi": "Người chơi bình luận về những thứ trong nhà"}
+{"en": "10/17 - Test Results: Suppressor", "vi": "10/17 - Kết quả thử nghiệm: Bộ giảm thanh"}
+{"en": "Going to be impossible", "vi": "Sẽ trở nên bất khả thi"}
+{"en": "Examine", "vi": "Thăm dò"}
+{"en": "Sure", "vi": "Vâng ạ"}
+{"en": "Important", "vi": "Quan trọng"}
+{"en": "Scene05 - dead animal", "vi": "Cảnh 05 - con vật chết"}
+{"en": "Development Lab Terminal", "vi": "Termнал phòng thí nghiệm phát triển"}
+{"en": "Railroad Heavy", "vi": "Railroad Heavy"}
+{"en": "I'll Do It", "vi": "Tôi sẽ làm"}
+{"en": "You first", "vi": "Bạn đi trước"}
+{"en": "Coming back", "vi": "Quay trở lại"}
+{"en": "Some other way", "vi": "Một cách khác"}
+{"en": "Never mind", "vi": "Đừng bận tâm"}
+{"en": "Pinky (73-77)", "vi": "Pinky (73-77)"}
+{"en": "Need Yellow Paint", "vi": "Cần sơn màu vàng"}
+{"en": "Fragile Wall", "vi": "Fragile Wall"}
+{"en": "Message Machine Holotape", "vi": "Message Machine băng ghi âm"}
+{"en": "Field Gen Radiation 1", "vi": "Field Gen Radiation 1"}
+{"en": "Talk with Kent", "vi": "Nói chuyện với Kent"}
+{"en": "Bobby De Luca", "vi": "Bobby De Luca"}
+{"en": "Doesn't Matter", "vi": "Không quan trọng"}
+{"en": "Proud To Help", "vi": "Tự hào được giúp đỡ"}
+{"en": "Raider", "vi": "Kẻ cướp"}
+{"en": "Mass FusionOS v4.86", "vi": "Hệ điều hành Mass FusionOS phiên bản 4.86"}
+{"en": "Parisian Bob", "vi": "Parisian Bob => Parisian Bob"}
+{"en": "Go seperate ways", "vi": "Đi riêng rẽ"}
+{"en": "Atom Cats Garage", "vi": "Gara Atom Cats"}
+{"en": "Rex's Suit", "vi": "Bộ đồ của Rex"}
+{"en": "Gorski Cabin", "vi": "Nhà gỗ Gorski"}
+{"en": "Valve", "vi": "Van-lơ"}
+{"en": "Laser Rifle", "vi": "Súng tia laze"}
+{"en": "Cannonball", "vi": "Quả pháo"}
+{"en": "Had no idea", "vi": "Không hề biết"}
+{"en": "X-Rays", "vi": "Tia X"}
+{"en": "Talk to the settlers at <Alias=ActualLocation>", "vi": "Nói chuyện với những người định cư tại <Alias=ActualLocation>"}
+{"en": "Hunting Rifle Hardened Receiver", "vi": "Súng săn, bộ phận tiếp nhận được gia cố"}
+{"en": "Lunatic", "vi": "Người điên"}
+{"en": "[DN123 - Skylanes Change Location]", "vi": "[DN123 - Skylanes Thay đổi vị trí]"}
+{"en": "Not gonna happen", "vi": "Không thể xảy ra"}
+{"en": "I'll help you", "vi": "Tôi sẽ giúp bạn"}
+{"en": "Bed", "vi": "Giường ngủ"}
+{"en": "Sister Verena", "vi": "Chị Verena"}
+{"en": "Nahant Sheriff Internal Network", "vi": "Mạng nội bộ của Cảnh sát trưởng Nahant"}
+{"en": "A House Divided", "vi": "Nhà phân ly"}
+{"en": "Exploring the Charles River since 2042.", "vi": "Khám phá sông Charles từ năm 2042."}
+{"en": "Do it yourself", "vi": "Tự làm lấy"}
+{"en": "Under my protection", "vi": "Dưới sự bảo vệ của tôi"}
+{"en": "Message From \"John Hatfield, Station 2\"", "vi": "Thông điệp từ \"John Hatfield, Trạm 2\""}
+{"en": "Message To \"Management\" - Received", "vi": "Thông điệp gửi đến \"Ban quản lý\" - Đã nhận"}
+{"en": "Thank you for the upgrade to our new boring machine for Station 2. Output increased 5% in the past week.", "vi": "Cảm ơn bạn đã nâng cấp máy khoan mới cho Trạm 2. Sản lượng tăng 5% trong tuần qua."}
+{"en": "John", "vi": "John"}
+{"en": "Station 2 Project Manager", "vi": "Quản lý dự án Trạm 2"}
+{"en": "Pembroke Residence", "vi": "Nhà ở Pembroke"}
+{"en": "Fight about?", "vi": "Cãi nhau về điều gì?"}
+{"en": "Everything alright?", "vi": "Mọi thứ ổn chứ?"}
+{"en": "Take less?", "vi": "Nhận ít hơn?"}
+{"en": "Entrance Question 2", "vi": "Câu hỏi tại lối vào số 2"}
+{"en": "Trust me?", "vi": "Tin tôi đi?"}
+{"en": "Follow the radio distress signal", "vi": "Theo dõi tín hiệu khẩn cấp trên radio"}
+{"en": "Do nothing", "vi": "Không làm gì cả"}
+{"en": "Annika's Locket", "vi": "Vòng cổ của Annika"}
+{"en": "Use Mr. Sandman to slay?", "vi": "Dùng ông Giấc ngủ để giết?"}
+{"en": "Glad to help", "vi": "Rất vui được giúp đỡ"}
+{"en": "U.S.S. Constitution", "vi": "Tàu chiến Constitution"}
+{"en": "Assault Rifle", "vi": "Súng trường tấn công"}
+{"en": "Radio", "vi": "Radio"}
+{"en": "Cannibal", "vi": "Cannibal (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "None of your business", "vi": "Không phải việc của bạn"}
+{"en": "Fair enough", "vi": "Đủ lý do rồi"}
+{"en": "Whatever", "vi": "Bờm bẻm."}
+{"en": "Have a drink on me", "vi": "Uống một ly cho tôi nhé"}
+{"en": "Hooded Cleanroom Suit", "vi": "Áo phòng sạch có mũ"}
+{"en": "I'm ready", "vi": "Tôi đã sẵn sàng"}
+{"en": "Vault 111, constructed by Vault-Tec, was built to serve the residents of Sanctuary Hills and Concord in the event of an atomic war.", "vi": "Kho 111, do công ty Vault-Tec xây dựng, được tạo ra để phục vụ cư dân của Sanctuary Hills và Concord trong trường hợp xảy ra chiến tranh hạt nhân."}
+{"en": "> View Upgrade Logs", "vi": "> Xem nhật ký nâng cấp"}
+{"en": "Not interested", "vi": "Không quan tâm"}
+{"en": "Flamer Long Barrel", "vi": "Flamer Nòng dài"}
+{"en": "That's it", "vi": "Đó là hết"}
+{"en": "Front Sight Ring", "vi": "Vòng ngắm điểm trước"}
+{"en": "Protect Roger", "vi": "Bảo vệ Roger"}
+{"en": "Touch", "vi": "Nhấn vào"}
+{"en": "Not fair", "vi": "Không công bằng"}
+{"en": "Blood Spray", "vi": "Vết máu phun ra"}
+{"en": "Power Transfer Switch", "vi": "Power Transfer Switch"}
+{"en": "What do you mean?", "vi": "Bạn định nói gì vậy?"}
+{"en": "All for me", "vi": "Tất cả cho tôi"}
+{"en": "Dutchman's Instructions", "vi": "Hướng dẫn của Dutchman"}
+{"en": "Repairs", "vi": "Repairs (Lưu ý: lần trước dịch không đạt vì: rỗng hoặc không đọc được. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "A boy", "vi": "Cậu bé"}
+{"en": "Chestnut Hillock Reservoir", "vi": "Chestnut Hillock Reservoir"}
+{"en": "Diamond City", "vi": "Diamond City"}
+{"en": "MS04 - post-quest - further adventures of Manta Man", "vi": "MS04 - sau khi hoàn thành nhiệm vụ - những phiêu lưu tiếp theo của người đàn ông cánh buồm"}
+{"en": "Agreed", "vi": "Đồng ý"}
+{"en": "This is Crazy", "vi": "Đây là chuyện điên rồ!"}
+{"en": "Retrieve Abraham Finch's sword from Saugus Ironworks.", "vi": "Thu thập thanh kiếm của Abraham Finch tại xưởng sắt Saugus."}
+{"en": "I'll Act Quickly", "vi": "Tôi sẽ hành động nhanh chóng"}
+{"en": "You hate everyone", "vi": "Bạn ghét tất cả mọi người"}
+{"en": "Hubris Comics", "vi": "Hubris Comics"}
+{"en": "War effort?", "vi": "Nỗ lực chiến tranh?"}
+{"en": "Believe in yourself", "vi": "Hãy tin vào chính mình"}
+{"en": "Drifter", "vi": "Người lang thang"}
+{"en": "Attack Him", "vi": "Tấn công hắn"}
+{"en": "Warn about Bunker Hill", "vi": "Cảnh báo về Bunker Hill"}
+{"en": "You Can Tell Me", "vi": "Bạn có thể kể cho tôi nghe"}
+{"en": "Vault Computer", "vi": "Máy tính Vault"}
+{"en": "Sonic Attack", "vi": "Công kích bằng âm thanh"}
+{"en": "Necessary sacrifice", "vi": "Sự hy sinh cần thiết"}
+{"en": "Executive Terminal", "vi": "Terminal điều hành"}
+{"en": "Direct Solution", "vi": "Giải pháp trực tiếp"}
+{"en": "Not that simple", "vi": "Không đơn giản như vậy đâu"}
+{"en": "Railroad", "vi": "Đường sắt"}
+{"en": "Julia", "vi": "Julia"}
+{"en": "Learning my way around", "vi": "Đang học cách di chuyển nơi đây"}
+{"en": "X4-18", "vi": "X4-18"}
+{"en": "Generator - Small", "vi": "Bộ phát điện - Nhỏ"}
+{"en": "Easy now", "vi": "Bình tĩnh nào"}
+{"en": "Keep the Secret", "vi": "Giữ bí mật"}
+{"en": "Dad", "vi": "Bố"}
+{"en": "Lobster Spray", "vi": "Nước xịt tôm hùm"}
+{"en": "Test Baby", "vi": "Em bé thử nghiệm"}
+{"en": "No time for this", "vi": "Không có thời gian cho việc này"}
+{"en": "Dependency", "vi": "Sự phụ thuộc"}
+{"en": "Faneuil Hall", "vi": "Faneuil Hall"}
+{"en": "I'm concerned", "vi": "Tôi lo lắng"}
+{"en": "Experiment Log J-32, Day 1", "vi": "Nhật ký thí nghiệm J-32, Ngày 1"}
+{"en": ";       Corvega Multipurpose           ;", "vi": "; Xe đa năng Corvega ;"}
+{"en": ";      Utility Vehicle subsystem       ;", "vi": "; Hệ thống xe tiện ích ;"}
+{"en": "Awaiting Override Proceedure...", "vi": "Đang chờ lệnh vượt qua thủ tục..."}
+{"en": "Insult", "vi": "Phỉ báng"}
+{"en": "If you say so", "vi": "Nếu bạn nói vậy"}
+{"en": "Institute Scientist", "vi": "Nhà khoa học Viện"}
+{"en": "No Problem", "vi": "Không sao"}
+{"en": "Baseball Grenade", "vi": "Lựu đạn bóng chày"}
+{"en": "Your Work", "vi": "Công việc của bạn"}
+{"en": "Ichor Sac", "vi": "Túi dịch cơ thể"}
+{"en": "Synth", "vi": "Người tổng hợp"}
+{"en": "How do I get in?", "vi": "Bạn vào thế nào?"}
+{"en": "Why Bother", "vi": "Có gì để làm"}
+{"en": "Abremalin Generator", "vi": "Máy phát Abremalin"}
+{"en": "Collectible Baseball", "vi": "Quả bóng chày sưu tầm được"}
+{"en": "...Security Door Closed", "vi": "...Cửa an ninh đã đóng"}
+{"en": "Have the Courser Chip Analyzed", "vi": "Phân tích chip Courser"}
+{"en": "Looking for Work", "vi": "Tìm việc làm"}
+{"en": "Perfect for me", "vi": "Hoàn hảo cho tôi"}
+{"en": "Draw them out", "vi": "Đưa chúng ra ngoài"}
+{"en": "+<mag> Health", "vi": "+<mag> Sức khỏe"}
+{"en": "Patched Suit", "vi": "Bộ đồ vá tạm"}
+{"en": "Absolutely", "vi": "Chắc chắn rồi"}
+{"en": "Not My Fault", "vi": "Không phải lỗi của tôi"}
+{"en": "Explain it again?", "vi": "Giải thích lại đi?"}
+{"en": "Accept the deal", "vi": "Chấp nhận giao dịch"}
+{"en": "This was easy", "vi": "Việc này dễ dàng quá"}
+{"en": "Left Foot", "vi": "Chân trái"}
+{"en": "[DN151 - Weston Water Treatment Tracking]", "vi": "[DN151 - Theo dõi nhà máy xử lý nước Weston]"}
+{"en": "16. Pity not the wailing of heretics, for their tears shall be dried in the flames", "vi": "16. Đừng than vãn cho những kẻ dị giáo, vì lệ của họ sẽ khô cạn trong ngọn lửa"}
+{"en": "17. And their flesh shall consume away while they stand upon their feet in the division", "vi": "17. Và thịt xác của họ sẽ tiêu tan khi họ đứng trên đôi chân trong sự chia rẽ"}
+{"en": "18. And their eyes shall consume away in their holes to behold the glory of Atom", "vi": "18. Và đôi mắt của chúng sẽ mòn đi trong hốc để chiêm ngưỡng vinh quang của Atom"}
+{"en": "19. And their tongue shall consume away in their mouth to better speak His name", "vi": "19. Và lưỡi của chúng sẽ mòn đi trong miệng để nói danh Ngài tốt hơn"}
+{"en": "20. And so shall you do my works upon the earth", "vi": "20. Và thế là bạn hãy làm những việc của ta trên mặt đất này"}
+{"en": "Hoping for better news", "vi": "Hy vọng có tin tức tốt hơn"}
+{"en": "Greeter", "vi": "Người chào đón"}
+{"en": "Master Password Reset", "vi": "Đặt lại mật khẩu chính"}
+{"en": "Where was it?", "vi": "Nó ở đâu vậy?"}
+{"en": "Welding Helmet", "vi": "Nón hàn"}
+{"en": "Live with it", "vi": "Sống chung với nó đi"}
+{"en": "Ench Recon Scope Equipped", "vi": "Đã trang bị ống nhòm trinh sát Ench"}
+{"en": "Join Minutemen?", "vi": "Tham gia đội Tự vệ?"}
+{"en": "Access", "vi": "Truy cập"}
+{"en": "Slocum's Joe Corporate HQ", "vi": "Trụ sở tập đoàn Slocum's Joe"}
+{"en": "Your store?", "vi": "Cửa hàng của bạn sao?"}
+{"en": "Really a doctor?", "vi": "Thật sự là bác sĩ à?"}
+{"en": "Having A Laugh", "vi": "Đang cười đùa"}
+{"en": "Mainframe Terminal", "vi": "Máy chủ chính"}
+{"en": "Definitely Him", "vi": "Chắc chắn là hắn rồi"}
+{"en": "Pitcher", "vi": "Người ném bóng / Chậu hoa (tùy ngữ cảnh, thường là \"Người ném bóng\" trong thể thao hoặc \"Chậu\" nếu là đồ vật; ở đây dịch theo nghĩa chung nhất là \"Người ném\")"}
+{"en": "Already done", "vi": "Đã xong"}
+{"en": "Cool, delicious, refreshing water", "vi": "Nước mát, ngon và sảng khoái"}
+{"en": "Eugene's Terminal", "vi": "Máy tính của Eugene"}
+{"en": "Bloatfly Maggot", "vi": "Sâu bọ Bloatfly"}
+{"en": "[DN117 - Spectacle Island]", "vi": "[DN117 - Đảo Kính Lúp]"}
+{"en": "Board the Vertibird Gunship", "vi": "Lên tàu trực thăng Vertibird"}
+{"en": "Something like that", "vi": "Giống như vậy"}
+{"en": "Cambridge Police Station", "vi": "Cambridge Phòng cảnh sát"}
+{"en": "Default Dummy", "vi": "Default Dummy"}
+{"en": "Activate Prototype Sequence", "vi": "Kích hoạt trình tự nguyên mẫu"}
+{"en": "Retrieve Paladin Danse's Holotags", "vi": "Thu thập thẻ hologram của Paladin Danse"}
+{"en": "Return to Rowdy", "vi": "Quay về Rowdy"}
+{"en": "Facilities Terminal", "vi": "Facilities Terminal"}
+{"en": "CASE 155-H: Eddie Winter Holotape Logs", "vi": "CASE 155-H: Eddie Winter Holotape Logs"}
+{"en": "HalluciGen, Inc. - Weaponization Research", "vi": "HalluciGen, Inc. - Nghiên cứu vũ khí hóa"}
+{"en": "Travis Miles", "vi": "Travis Miles"}
+{"en": "Weird Stuff?", "vi": "Chuyện lạ à?"}
+{"en": "Can't get you out", "vi": "Không thể đưa cậu ra"}
+{"en": "Just like it was", "vi": "Giống hệt như xưa"}
+{"en": "Misc Objective Pointer", "vi": "Misc Objectiver | Chỉ mục nhiệm vụ phụ"}
+{"en": "Makes Sense", "vi": "Có lý"}
+{"en": "Can't make promises", "vi": "Không thể hứa hẹn gì được"}
+{"en": "Didn't recognize him?", "vi": "Không nhận ra hắn sao?"}
+{"en": "Caravan Main Quest", "vi": "Caravan - Nhiệm vụ chính"}
+{"en": "Report Your Findings to Justin Ayo", "vi": "Báo cáo phát hiện của bạn cho Justin Ayo"}
+{"en": "Need More", "vi": "Cần thêm"}
+{"en": "Talk to Mandy", "vi": "Talk to Mandy"}
+{"en": "Mr. Huntley has aborted five Compound runs due to a fisherman (name unknown) who has stationed himself at the Mystic Pines' Pond. Mr. Huntley reports his new \"favorite fishing hole\" is directly on top of the Compound entrance. The Stockton retrieval team was almost spotted by the outsider. I recommend", "vi": "Mr. Huntley đã hủy 5 lượt đi tới Compound do một người câu cá (tên chưa rõ) đã đóng quân tại hồ Mystic Pines. Ông báo cáo \"ổ câu cá yêu thích mới\" của mình nằm ngay trên cửa vào Compound. Nhóm thu hồi Stockton suýt bị phát hiện bởi kẻ xâm nhập. Tôi đề xuất"}
+{"en": "Pipe Gun Small Bayonet", "vi": "Pipe Gun nhỏ có lưỡi lê"}
+{"en": "Deliverer Hair Trigger Receiver", "vi": "Bộ tiếp nhận Hair Trigger của Deliverer"}
+{"en": "We had a deal!", "vi": "Chúng ta đã có thỏa thuận!"}
+{"en": "Access Memory", "vi": "Access Memory ⇨ Truy cập bộ nhớ"}
+{"en": "Hard To Believe?", "vi": "Khó tin thật chứ?"}
+{"en": "Solve the Freedom Trail markers (<Global=RR101MarksSolved>/<Global=RR101ToBeSolved>)", "vi": "Giải quyết các dấu mốc của Con đường Tự do (<Global=RR101MarksSolved>/<Global=RR101ToBeSolved>)"}
+{"en": "Attack?", "vi": "Tấn công?"}
+{"en": "Toilet Tank Cover", "vi": "Nắp bình cầu vệ sinh"}
+{"en": "What was she like?", "vi": "Cô ấy là người thế nào?"}
+{"en": "Right Wing", "vi": "Phải cánh (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "A sub shop?", "vi": "Một cửa hàng đồ ăn nhanh?"}
+{"en": "Listen to Sergeant Lee's holotape", "vi": "Lắng nghe băng ghi âm của Trung sĩ Lee"}
+{"en": "Alcohol: Fortify Strength", "vi": "Rượu: Tăng cường sức mạnh"}
+{"en": "Letting her go", "vi": "Thả cô ấy đi"}
+{"en": "Armageddon?", "vi": "Armageddon à?"}
+{"en": "Toilet", "vi": "Nhà vệ sinh"}
+{"en": "Why Send You?", "vi": "Sao lại gửi bạn?"}
+{"en": "That a problem?", "vi": "Thế là có vấn đề à?"}
+{"en": "Which jet?", "vi": "Máy bay phản lực nào?"}
+{"en": "Arturo Rodriguez", "vi": "Arturo Rodríguez"}
+{"en": "DN101Hellos", "vi": "DN101Chào hỏi"}
+{"en": "Object02 - guy trying to open hatch", "vi": "Object02 - Kẻ đang cố mở cửa hầm"}
+{"en": "Don't worry", "vi": "Đừng lo lắng"}
+{"en": "Message From \"Bob Stanson, Station 1\"", "vi": "Thông điệp từ \"Bob Stanson, Trạm 1\""}
+{"en": "* Request for new support beams repeatedly denied.", "vi": "* Yêu cầu lắp thêm các dầm đỡ mới bị từ chối liên tục."}
+{"en": "* Thank you for extra padding at Station 1 Terminal.", "vi": "* Cảm ơn bạn đã bổ sung lớp đệm cho trạm 1."}
+{"en": "* Station 1 output highest it's been all year.", "vi": "* Trạm 1 đạt mức đầu ra cao nhất trong cả năm nay."}
+{"en": "* You're doing great work everyone.", "vi": "* Mọi người đang làm việc rất tốt."}
+{"en": "Bob Stanson", "vi": "Bob Stanson"}
+{"en": "Project Manager, Station 1", "vi": "Quản lý dự án, Trạm 1"}
+{"en": "Ready", "vi": "Sẵn sàng"}
+{"en": "That's Not Baseball", "vi": "Đó không phải là bóng chày"}
+{"en": "Arturo's House", "vi": "Nhà Arturo"}
+{"en": "NOTICE: Terminal Shutdown", "vi": "THÔNG BÁO: Đã tắt terminal"}
+{"en": "No, really", "vi": "Không, thật sự là vậy"}
+{"en": "Any Clues?", "vi": "Có manh mối nào không?"}
+{"en": "Emma's Holotape", "vi": "Băng ghi hình của Emma"}
+{"en": "Out in Left Field", "vi": "Sai lệch hoàn toàn"}
+{"en": "Sick people", "vi": "Những người bệnh hoạn"}
+{"en": "ACCESS LOG", "vi": "Nhật ký truy cập"}
+{"en": "Access: Local. Login: Secord.A", "vi": "Truy cập: Tại chỗ. Đăng nhập: Secord.A"}
+{"en": "Operation: Update Courser maintenance records", "vi": "Hoạt động: Cập nhật hồ sơ bảo trì cho Courser"}
+{"en": "Access: Local. Login: Ayo.J", "vi": "Truy cập: Tại chỗ. Đăng nhập: Ayo.J"}
+{"en": "Operation: Entered supply requisition form (small arms ammunition)", "vi": "Hoạt động: Nhập đơn xin cấp vật tư (vũ khí nhỏ và đạn dược)"}
+{"en": "Access: Local. Login: X6-88", "vi": "Truy cập: Tại chỗ. Đăng nhập: X6-88"}
+{"en": "Operation: Update case file 66764-B (Reclamation successful, file closed)", "vi": "Hoạt động: Cập nhật hồ sơ vụ án 66764-B (Thu hồi thành công, hồ sơ đã đóng)"}
+{"en": "Operation: Review and update target tracking database", "vi": "Hoạt động: Xem xét và cập nhật cơ sở dữ liệu theo dõi mục tiêu"}
+{"en": "Operation: Review and approve revised Courser training procedures", "vi": "Hoạt động: Xem xét và phê duyệt các quy trình huấn luyện Courser đã sửa đổi"}
+{"en": "Access: Remote (Maintenance Terminal 6) Login: -----", "vi": "Truy cập: Từ xa (Terminal bảo trì số 6). Đăng nhập: -----"}
+{"en": "Notes:", "vi": "Ghi chú:"}
+{"en": "Spend Tokens", "vi": "Tiêu dùng Token"}
+{"en": "Leave.", "vi": "Thoát."}
+{"en": "Connect Power", "vi": "Kết nối nguồn điện"}
+{"en": "What's buried?", "vi": "Cái gì được chôn ở đây?"}
+{"en": "I Don't Know", "vi": "Tôi không biết"}
+{"en": "CASE 114-GTA: Connelly Grand Theft Auto Logs", "vi": "THƯ VIỆN 114-GTA: Nhật ký trộm cắp của Connelly"}
+{"en": "Wasteland Survival Guide", "vi": "Hướng dẫn sinh tồn vùng hoang vu"}
+{"en": "Send Courser", "vi": "Gửi người đưa tin"}
+{"en": "Right Hand Bones", "vi": "Xương bàn tay phải"}
+{"en": "Legal Musings", "vi": "Những suy nghĩ về pháp luật"}
+{"en": "Saving the Commonwealth of Masachusetts, one underpriviledged citizen at a time...", "vi": "Cứu vớt bang Massachusetts, từng công dân thiếu thốn cơ hội một cách..."}
+{"en": "You seem upset", "vi": "Bạn có vẻ khó chịu"}
+{"en": "Problem?", "vi": "Có chuyện gì vậy?"}
+{"en": "Science Staff", "vi": "Nhân viên khoa học"}
+{"en": "Curio", "vi": "Curio"}
+{"en": "Special Admission Protocols", "vi": "Giao thức nhập học đặc biệt"}
+{"en": "Mysterious Figure", "vi": "The Mysterious Figure | Con người bí ẩn"}
+{"en": "Reward", "vi": "Reward"}
+{"en": "Get back together", "vi": "Quay lại với nhau"}
+{"en": "Accept the job", "vi": "Chấp nhận công việc"}
+{"en": "Sorry for your loss", "vi": "Xin lỗi vì mất mát của bạn"}
+{"en": "Dire consequences", "vi": "Hậu quả nghiêm trọng"}
+{"en": "Revere Beach Station", "vi": "Nhà ga Revere Beach"}
+{"en": "Underwear model from Braintree. Beautiful, intelligent, totally weird. All she's ever wanted is Stimpaks. 10+ per week. My imagination continues to run wild.", "vi": "Mẫu đồ lót từ Braintree. Đẹp, thông minh, kỳ lạ đến mức không thể tin được. Cô ấy chỉ muốn có Stimpaks. Hơn 10 viên mỗi tuần. Trí tưởng tượng của tôi cứ bay bổng mãi."}
+{"en": "DC Guard Heavy Helmet", "vi": "Lọe bảo vệ DC loại nặng"}
+{"en": "T-45e Arm Armor", "vi": "Áo giáp tay T-45e"}
+{"en": "No plan?", "vi": "Không có kế hoạch?"}
+{"en": "Potentially terrifying", "vi": "Có thể đáng sợ"}
+{"en": "Institute Control", "vi": "Kiểm soát Viện"}
+{"en": "My favorite tin foil hat wearing nut job. Good for 7 ampules of Daytripper a week. Guess he's a one-a-day kind of guy. Whatever helps the man groove.", "vi": "Kẻ điên mặc mũ nhôm tôi yêu thích nhất. Tốt cho việc dùng 7 ống thuốc Daytripper mỗi tuần. Có lẽ anh ấy là kiểu người chỉ dùng một viên mỗi ngày. Dù sao cũng giúp anh ta thư giãn."}
+{"en": "Protectron Guardian", "vi": "Bảo vệ Protectron"}
+{"en": "Puncturing", "vi": "Thủng"}
+{"en": "Beer", "vi": "Bia"}
+{"en": "Curie chats with Doctors and Scientist Types", "vi": "Curie trò chuyện với các bác sĩ và nhà khoa học"}
+{"en": "Overseer's Terminal", "vi": "Bàn điều hành của Giám thị"}
+{"en": "Improved Energy Regen", "vi": "Improved Regen Năng Lượng"}
+{"en": "No double cross", "vi": "Đừng phản bội hai bên"}
+{"en": "HEALING", "vi": "HEALING"}
+{"en": "Tired Of You", "vi": "Chán bạn rồi"}
+{"en": "Shaun", "vi": "Shaun"}
+{"en": "\"Saw It\"?", "vi": "\"Đã thấy điều đó rồi\"?(Lưu ý: lần trước dịch không đạt vì: rỗng hoặc không đọc được. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "What woman?", "vi": "Gì thế bà?"}
+{"en": "Synth?", "vi": "Synth?"}
+{"en": "Something against cryo?", "vi": "Bạn có vấn đề gì với việc ngủ đông?"}
+{"en": "Entry 0039", "vi": "Entry 0039"}
+{"en": "I've decided to do a little field work and head out to scrounge for parts. One of the traders I do business with said he saw a \"whole bunch of robot junk\" at the General Atomics Galleria. Anything to get me away from Duff for a few days is certainly fine by me.", "vi": "Tôi đã quyết định đi làm một chút công việc ngoài trời và ra ngoài tìm kiếm linh kiện. Một trong những thương nhân mà tôi thường giao dịch với cho biết anh ấy đã thấy rất nhiều \"vô số rác vụn của robot\" tại Trung tâm General Atomics Galleria. Bất cứ điều gì giúp tôi tránh xa Duff vài ngày thì tôi cũng hoàn toàn đồng ý."}
+{"en": "Bloodbug Blood Spit 1: VFX", "vi": "Bloodbug Blood Spit 1: Hiệu ứng thị giác (VFX)"}
+{"en": "Codsworth?", "vi": "Codsworth?"}
+{"en": "Get it for free", "vi": "Nhận nó miễn phí"}
+{"en": "How injured?", "vi": "Bị thương nặng thế nào?"}
+{"en": "Henry Cooke", "vi": "Henry Cooke"}
+{"en": "Flare Gun", "vi": "Flare Gun (Súng pháo sáng)"}
+{"en": "Malcolm", "vi": "Malcolm"}
+{"en": "Terminals & Holotapes, Oh My.", "vi": "Terminals và Holotapes, Trời ơi."}
+{"en": "[Duty or Dishonor - Postquest]", "vi": "[Duty or Dishonor - Sau khi hoàn thành nhiệm vụ]"}
+{"en": "It's Really You", "vi": "Thật sự là bạn đây"}
+{"en": "HalluciGen, Inc. - Mainframe Access", "vi": "HalluciGen, Inc. - Truy cập máy tính trung tâm"}
+{"en": "Override Lockdown - Test Chamber 2", "vi": "Override Lockdown - Phòng thử nghiệm 2"}
+{"en": "Pipe Gun Calibrated Powerful Receiver", "vi": "Pipe Gun: Bộ tiếp nhận mạnh mẽ đã hiệu chuẩn"}
+{"en": "T-51f Torso Lining", "vi": "T-51f Lớp lót thân trên"}
+{"en": "A bit stingy", "vi": "Có phần keo kiệt"}
+{"en": "The final staff orientation is complete, all but a few of the residents down in Sanctuary Hills have been enrolled, and several from Concord as well. Vault-Tec supervisors came up this week to do a technical review with me. This Vault is ready to open.", "vi": "Hội nghị định hướng cho nhân viên cuối cùng đã hoàn tất, hầu hết cư dân ở Sanctuary Hills đều đã đăng ký tham gia, cộng thêm vài người từ Concord. Các giám đốc của Vault-Tec cũng đã lên đây tuần này để rà soát kỹ thuật với tôi. Kho chứa này đã sẵn sàng mở cửa."}
+{"en": "I can only imagine what wonders our residents will get to witness. The notion of leaping forward in time - I almost wish I could join them and see the promise of our future realized.", "vi": "Tôi chỉ có thể hình dung những kỳ quan mà cư dân của chúng ta sẽ được chứng kiến. Ý tưởng về việc nhảy vọt về tương lai - tôi gần như ước mình có thể cùng họ để tận mắt nhìn thấy hy vọng của tương lai chúng ta trở thành hiện thực."}
+{"en": "Sure About This?", "vi": "Bạn chắc chắn chứ?"}
+{"en": "Business", "vi": "Kinh doanh"}
+{"en": "Sounds good", "vi": "Nghe ổn đấy"}
+{"en": "Won't Change Things", "vi": "Sẽ không thay đổi gì cả"}
+{"en": "Cooking Stove", "vi": "Lò nấu ăn"}
+{"en": "Become the Shroud", "vi": "Trở thành The Shroud"}
+{"en": "I'm not with Paul", "vi": "Tôi không ở bên Paul"}
+{"en": "You're the commander?", "vi": "Bạn là chỉ huy à?"}
+{"en": "Bitch", "vi": "Đồ đĩ"}
+{"en": "Need anything?", "vi": "Cần gì không?"}
+{"en": "Critical Cryo Hit", "vi": "Va chạm cực kỳ nghiêm trọng với hệ thống đông lạnh"}
+{"en": ":::SYSTEM ERROR:::", "vi": ":::LỖI HỆ THỐNG:::"}
+{"en": "Elevator controls have been disabled remotely.", "vi": "Hệ thống điều khiển thang máy đã bị vô hiệu hóa từ xa."}
+{"en": "Please contact system administrator.", "vi": "Vui lòng liên hệ với quản trị viên hệ thống."}
+{"en": "You'll take me back?", "vi": "Bạn sẽ đưa tôi trở lại à?"}
+{"en": "Sabotage toilet", "vi": "Phá hoại nhà vệ sinh"}
+{"en": "Recon Data Logging Terminal", "vi": "Kênh ghi dữ liệu trinh sát"}
+{"en": "Eve is Dead", "vi": "Eve đã chết"}
+{"en": "Gus", "vi": "Gus"}
+{"en": "More details", "vi": "Chi tiết hơn"}
+{"en": "Nursery Capacity Issues", "vi": "Vấn đề về dung lượng ươm nuôi"}
+{"en": "Not ready", "vi": "Chưa sẵn sàng"}
+{"en": "Lost Cause", "vi": "Việc làm vô ích"}
+{"en": "I'm new", "vi": "Tôi mới đến"}
+{"en": "[DN130 - Cambridge Police Station]", "vi": "[DN130 - Trạm cảnh sát Cambridge]"}
+{"en": "Enhanced Targeting Card", "vi": "Thẻ ngắm tăng cường"}
+{"en": "Decipher the plans?", "vi": "Giải mã những bản vẽ?"}
+{"en": "Sunshine Tidings Co-op", "vi": "Sunshine Tidings Hợp tác xã"}
+{"en": "Vault 81 Cure", "vi": "Vault 81 - Phương thuốc"}
+{"en": "Moron got killed", "vi": "Moron bị giết chết"}
+{"en": "Does it matter?", "vi": "Có quan trọng không?"}
+{"en": "Heal Torso", "vi": "Chữa trị phần thân trên"}
+{"en": "Rosa", "vi": "Rosa"}
+{"en": "1) Paul Piccard", "vi": "1) Paul Piccard"}
+{"en": "2) Jason Aikman", "vi": "2) Jason Aikman"}
+{"en": "3) Shelley Deans", "vi": "3) Shelley Deans"}
+{"en": "Owned", "vi": "Sở hữu"}
+{"en": "Periodic damage", "vi": "Tổn thất định kỳ"}
+{"en": "Insomnia", "vi": "Insomnia (Mất ngủ)"}
+{"en": "Murder", "vi": "Murder"}
+{"en": "Brow Forward", "vi": "Brow Forward"}
+{"en": "Hit", "vi": "Hit => Đánh"}
+{"en": "Ash Pile", "vi": "Ash Pile → Đống tro"}
+{"en": "Strike", "vi": "Đánh ↪ Đánh"}
+{"en": "Name", "vi": "Tên ↪ Tên"}
+{"en": "Potion", "vi": "Thuốc ↪ Thuốc"}
+{"en": "Ball", "vi": "Quả bóng ↪ Quả bóng"}
+{"en": "Novice", "vi": "Novice"}
+{"en": "Discovered effects", "vi": "Hiệu ứng đã phát hiện"}
+{"en": "Travel", "vi": "Di chuyển"}
+{"en": "April", "vi": "April"}
+{"en": "Thursday", "vi": "Thứ Năm"}
+{"en": " of ", "vi": "của"}
+{"en": "EBONY", "vi": "EBONY"}
+{"en": "Talk to him", "vi": "Nói chuyện với anh ta"}
+{"en": "Bench", "vi": "Ghế đá"}
+{"en": "Disengage Lock", "vi": "Mở khóa"}
+{"en": "Guns and Bullets", "vi": "Vũ khí và đạn dược"}
+{"en": "Petty theft", "vi": "Trộm cắp nhỏ"}
+{"en": "Pickman's Gift", "vi": "Món quà của Pickman"}
+{"en": "Calendar", "vi": "Lịch"}
+{"en": "Bribe", "vi": "Mối hối lộ"}
+{"en": "Camera", "vi": "Máy ảnh"}
+{"en": "Meeting the Crew", "vi": "Gặp gỡ nhóm"}
+{"en": "Desk", "vi": "Bàn làm việc"}
+{"en": "Ancient Behemoth", "vi": "Ancient Behemoth"}
+{"en": "Electrical Damage", "vi": "Electrical Damage => Tổn thương điện"}
+{"en": "Missile", "vi": "Missile"}
+{"en": "Edna", "vi": "Edna"}
+{"en": "Radiation Cloak", "vi": "Radiation Cloak"}
+{"en": "Grim Reaper's Sprint", "vi": "Chạy như Tử thần Đen"}
+{"en": "Washer", "vi": "Máy giặt"}
+{"en": "Carol", "vi": "Carol"}
+{"en": "Recipes", "vi": "Công thức nấu ăn"}
+{"en": "Reg", "vi": "Reg"}
+{"en": "Disaster", "vi": "Thảm họa"}
+{"en": "Red Leather Trench Coat", "vi": "Áo choàng da đỏ"}
+{"en": "4) Rusty Burton", "vi": "4) Rusty Burton"}
+{"en": "5) Luke Anderson", "vi": "5) Luke Anderson"}
+{"en": "Talk to Marowski about photo", "vi": "Nói chuyện với Marowski về bức ảnh"}
+{"en": "Drinking Party", "vi": "Tiệc uống rượu"}
+{"en": "Tension Trigger", "vi": "Tension Trigger"}
+{"en": "White Plate", "vi": "Đĩa trắng"}
+{"en": "Helmeted Spike Armor", "vi": "Bộ giáp gai có mũ"}
+{"en": "+<mag> Left Arm Condition", "vi": "+<mag> Tình trạng cánh tay trái"}
+{"en": "Regenrate <mag> points of Radiation per second.", "vi": "Tái tạo <mag> điểm bức xạ mỗi giây."}
+{"en": "Gruel's List", "vi": "Danh sách Gruel"}
+{"en": "Repair the radio transmitter", "vi": "Sửa lại bộ phát sóng vô tuyến"}
+{"en": "CASE 731-Tf: Gillespie Trafficking Logs", "vi": "THƯ VIỆN LOG GIAO DỊCH TÀNG HỒI GILLESPIE - THỨ 731-Tf"}
+{"en": "Officer", "vi": "Cảnh sát"}
+{"en": "Hate Newspapers", "vi": "Ghét báo chí"}
+{"en": "Doctor Li", "vi": "Bác sĩ Li"}
+{"en": "Even running with only one retort, this has been working out way better than I could have hoped!", "vi": "Ngay cả khi chỉ chạy với một bình phản ứng duy nhất, thứ này vẫn hoạt động tốt hơn nhiều so với những gì tôi từng hy vọng!"}
+{"en": "That book I found on Marketing really seems to be doing the trick. Only problem now is that the traders can't ever seem to bring me enough meat. I've been having to mix in more and more molerat. Shame, since I've always thought they were kind of cute. I've got to find some other meat to use if I'm going to keep up this level of production...", "vi": "Cuốn sách về tiếp thị tôi tìm thấy quả thực đang phát huy tác dụng. Vấn đề duy nhất hiện nay là những thương nhân dường như chẳng bao giờ có thể cung cấp đủ thịt cho tôi. Tôi buộc phải trộn thêm càng nhiều chuột mole. Thật đáng tiếc, bởi tôi luôn nghĩ chúng khá dễ thương. Nếu muốn duy trì mức sản xuất này, tôi cần tìm nguồn thịt khác để sử dụng..."}
+{"en": "Power Fist", "vi": "Quyền lực quyền trượng"}
+{"en": "...activating Emergency Self-Destruct...", "vi": "...kích hoạt Tự hủy khẩn cấp..."}
+{"en": "...overriding safety protocols...", "vi": "...bỏ qua các giao thức an toàn..."}
+{"en": "...confirming Self-Destruct... done.", "vi": "...xác nhận tự hủy... hoàn tất."}
+{"en": "A five-second countdown has been initiated. Please evacuate the area.", "vi": "Đã bắt đầu đếm ngược 5 giây. Xin vui lòng sơ tán khu vực này."}
+{"en": "Full of life", "vi": "Đầy sức sống"}
+{"en": "Do this later", "vi": "Làm việc này sau"}
+{"en": "Arcjet Systems", "vi": "Arcjet Systems"}
+{"en": "Tricycle", "vi": "Tricycle"}
+{"en": "T-60 Medic Pump", "vi": "T-60 Máy bơm y tế"}
+{"en": "Fortify Energy Resist", "vi": "Tăng sức đề kháng năng lượng"}
+{"en": "Impatient ", "vi": "Không kiên nhẫn"}
+{"en": "Nothing", "vi": "Không có gì"}
+{"en": "Total Hack", "vi": "Tổng cộng là một vụ hack"}
+{"en": "The patrol?", "vi": "Đội tuần tra sao?"}
+{"en": "Become ghouls?", "vi": "Trở thành người chết sống lại sao?"}
+{"en": "Says Who?", "vi": "Ai bảo vậy?"}
+{"en": "Institutionalized", "vi": "Bị nhốt trong viện dưỡng lão"}
+{"en": "Follow Nick Valentine", "vi": "Theo Nick Valentine"}
+{"en": "I've Seen Worse", "vi": "Tôi đã chứng kiến những chuyện tệ hơn rồi"}
+{"en": "Liberty Prime", "vi": "Liberty Prime"}
+{"en": "Run Away", "vi": "Chạy trốn"}
+{"en": "Laser Musket", "vi": "Súng laser"}
+{"en": "Why did you run?", "vi": "Sao lại chạy đi vậy?"}
+{"en": "DN077 Vault 117 Hook- Merchant travelling to restock at Vault 117", "vi": "DN077 Kho 117 Hook - Người bán hàng đang di chuyển để bổ sung hàng tại Kho 117"}
+{"en": "Skinny Malone?", "vi": "Skinny Malone sao?"}
+{"en": "I'd rather not kill you", "vi": "Tôi thực sự không muốn giết bạn."}
+{"en": "Find Information about Shaun", "vi": "Tìm thông tin về Shaun"}
+{"en": "Absorb Radiation", "vi": "Hấp thụ bức xạ"}
+{"en": "No big", "vi": "Không có gì to tát"}
+{"en": "US Citizen", "vi": "Công dân Hoa Kỳ"}
+{"en": "Give me the order", "vi": "Giao lệnh cho tôi"}
+{"en": "T-45e Helmet", "vi": "mũ T-45e"}
+{"en": "Gorilla", "vi": "khỉ đột"}
+{"en": "Professor", "vi": "Giáo sư"}
+{"en": "Alien Blaster Short Scope", "vi": "súng Alien ngắm ngắn"}
+{"en": "Amplified Beam Splitter", "vi": "Bộ tách chùm tia khuếch đại"}
+{"en": "Longneck Lukowski's Cannery", "vi": "Nhà máy đóng hộp của Longneck Lukowski"}
+{"en": "What's New?", "vi": "Có gì mới?"}
+{"en": "Laser Musket Full Stock", "vi": "súng laser nòng dài đầy đủ"}
+{"en": "For Immediate Release:", "vi": "Thông cáo báo chí ngay lập tức:"}
+{"en": "Vault-Tec to Subsidize Enrollment for Malden Families", "vi": "Vault-Tec sẽ cấp trợ cấp cho việc nhập học của các gia đình tại Malden"}
+{"en": "WASHINGTON DC - In response to growing national concern for the safety of our children in the event of a nuclear attack, Vault-Tec officials have cooperated with local government in Malden, Massachusetts to provide subsidized enrollment fees for any families wishing to sign up for residency in Vault 75.  The newly-opened Vault is attached directly to Malden's Elementary School, ensuring a swift evacuation should an attack come during class time.", "vi": "WASHINGTON DC - Nhằm đáp ứng mối lo ngại ngày càng tăng về an toàn của trẻ em trong trường hợp xảy ra vụ tấn công hạt nhân, giới chức Vault-Tec đã phối hợp với chính quyền địa phương tại Malden, Massachusetts để cung cấp học phí trợ giá cho bất kỳ gia đình nào muốn đăng ký cư trú tại Bunker 75. Bunker vừa mới mở được nối trực tiếp với Trường Tiểu học Malden, đảm bảo sơ tán nhanh chóng nếu vụ tấn công xảy ra trong giờ học."}
+{"en": "\"Safeguarding the future has always been our priority.\", said a Vault-Tec Spokesperson, \"The opening of Vault 75 gives us all extra peace of mind, knowing that the children of Malden will be safe, even if the worst comes to pass.\"", "vi": "\"Bảo vệ tương lai luôn là ưu tiên hàng đầu của chúng tôi,\" một phát ngôn viên của Vault-Tec cho biết, \"Việc mở kho chứa Vault 75 mang lại cho tất cả chúng ta thêm sự an tâm, biết rằng những đứa trẻ tại Malden sẽ được bảo vệ, dù điều tồi tệ nhất có xảy ra.\""}
+{"en": "You broke it off", "vi": "Bạn đã chia tay nó."}
+{"en": "Model C", "vi": "Model C"}
+{"en": "Janet Thompson", "vi": "Janet Thompson"}
+{"en": "Know about deathclaws?", "vi": "Biết về Deathclaw chưa?"}
+{"en": "Rude ", "vi": "Xấu tính"}
+{"en": "Go On", "vi": "Go on"}
+{"en": "Sugar Bombs", "vi": "Bánh kẹo đường"}
+{"en": "Standard Torso Lining", "vi": "Lớp lót thân chuẩn"}
+{"en": "It works?", "vi": "Nó hoạt động à?"}
+{"en": "Hardly broke a sweat", "vi": "Hầu như chẳng ra mồ hôi"}
+{"en": "Institute Division Head Coat", "vi": "Viện Division Đầu Coat"}
+{"en": "Penny Fitzgerald", "vi": "Penny Fitzgerald"}
+{"en": "Shadow of Steel", "vi": "Bóng tối của thép"}
+{"en": "Follow", "vi": "Theo"}
+{"en": "ROBOTICS TERMINAL 1B", "vi": "1B | ĐỐI TƯỢNG CƠ KHÍ (Terminal)"}
+{"en": "Weapons Stand", "vi": "Weapons Stand"}
+{"en": "Combat Rifle Hair Trigger Receiver", "vi": "Súng trường chiến đấu | Nòng kích hoạt nhanh | Bộ phận tiếp nhận"}
+{"en": "Someone wants you dead", "vi": "Có người muốn giết bạn"}
+{"en": "Knight Rylan", "vi": "Knight Rylan"}
+{"en": "I Like It", "vi": "Tôi thích nó"}
+{"en": "Battlefield Holotape", "vi": "Bản ghi âm thanh trường chiến"}
+{"en": "TOP SECRET - Switchboard Research - TOP SECRET", "vi": "TOP BÍ MẬT - Switchboard Research - TOP BÍ MẬT"}
+{"en": "Didn't tell me", "vi": "Không nói với tôi"}
+{"en": "Long Recon Scope", "vi": "10mm Nòng dài reconnaissance"}
+{"en": "From the past", "vi": "Từ quá khứ"}
+{"en": "From: Sam Brent, Security Lead", "vi": "Từ: Sam Brent, Trưởng bộ phận bảo vệ"}
+{"en": "To: All Staff", "vi": "Gửi: Toàn thể nhân viên"}
+{"en": "This is your annual reminder that all terminal and mainframe passwords are to be changed on a monthly basis. Failure to do so may result in automated changes, the suspension of network privilages, and/or diciplinary action. Please do your part in keeping ArcJet Systems secure.", "vi": "Đây là lời nhắc nhở hàng năm rằng tất cả mật khẩu của các máy chủ và hệ thống chính đều phải được thay đổi mỗi tháng. Việc không làm như vậy có thể dẫn đến việc thay đổi tự động, tạm ngưng quyền truy cập mạng và/hoặc hành động kỷ luật. Hãy đóng góp phần của mình để giữ cho ArcJet Systems an toàn."}
+{"en": "This Isn't Funny", "vi": "Chuyện này chẳng hề vui chút nào"}
+{"en": "It's complicated", "vi": "Việc này phức tạp lắm"}
+{"en": "Lab Terminal 1", "vi": "Máy chủ phòng thí nghiệm 1"}
+{"en": "Important Global Quest Script Functions", "vi": "Các hàm kịch bản nhiệm vụ toàn cầu quan trọng"}
+{"en": "Light Radiation", "vi": "Bức xạ nhẹ"}
+{"en": "Gabriel", "vi": "Gabriel"}
+{"en": "Serum?", "vi": "Dung dịch?"}
+{"en": "Gen 1 Synth", "vi": "Tổng hợp thế hệ 1"}
+{"en": "Combat Zone", "vi": "Khu vực chiến đấu"}
+{"en": "Reanimate", "vi": "Hồi sinh"}
+{"en": "Curious", "vi": "Lạ lùng"}
+{"en": "Stockton's synth", "vi": "Tổng hợp của Stockton"}
+{"en": "Please Relax", "vi": "Hãy bình tĩnh đi"}
+{"en": "Wouldn't betray trust", "vi": "Sẽ không phản bội niềm tin"}
+{"en": "Not sure", "vi": "Không chắc chắn"}
+{"en": "Start brawl", "vi": "Bắt đầu ẩu đả"}
+{"en": "I guess", "vi": "Có lẽ vậy"}
+{"en": "Holotapes?", "vi": "Băng ghi âm hologram?"}
+{"en": "Shack Floor Supports", "vi": "Khung đỡ sàn nhà kho"}
+{"en": "Pest Control: <Alias=Dungeon>", "vi": "Kiểm soát dịch hại: <Alias=Dungeon>"}
+{"en": "Don't see how", "vi": "Không hiểu sao"}
+{"en": "Henry Cooke?", "vi": "Henry Cooke?"}
+{"en": "Abuse of Technology", "vi": "Lạm dụng công nghệ"}
+{"en": "Deliverer", "vi": "Người mang tin"}
+{"en": "Connie Abernathy", "vi": "Connie Abernathy"}
+{"en": "Angry?", "vi": "Giận dữ?"}
+{"en": "Good To Hear", "vi": "Nghe thật tốt"}
+{"en": "Buy House (<Global=ServiceCostBuyHouse> Caps)", "vi": "Mua nhà (<Global=ServiceCostBuyHouse> nắp chai)"}
+{"en": "Combat Rifle", "vi": "Súng trường chiến đấu"}
+{"en": "Take me to him", "vi": "Đưa tôi đến chỗ hắn"}
+{"en": "I've been ready", "vi": "Tôi đã sẵn sàng"}
+{"en": "Camp - Raiders Attacked by Vicious Dogs", "vi": "Lũ cướp - Bị chó dữ tấn công"}
+{"en": "The Great Division Part 2", "vi": "Sự chia rẽ vĩ đại Phần 2"}
+{"en": "Bad News", "vi": "Tin xấu"}
+{"en": "Change what?", "vi": "Đổi cái gì?"}
+{"en": "No Obligation?", "vi": "Không có nghĩa vụ?"}
+{"en": "Magnolia", "vi": "Magnolia"}
+{"en": "Worker", "vi": "Công nhân"}
+{"en": "Talk to Mayor McDonough", "vi": "Nói chuyện với Thị trưởng McDonough"}
+{"en": "Bone", "vi": "Xương"}
+{"en": "Fort Strong Armory", "vi": "Kho vũ khí pháo đài Strong"}
+{"en": "Shack Wall Corner", "vi": "Góc tường nhà lều"}
+{"en": "Everything Okay?", "vi": "Mọi thứ ổn chứ?"}
+{"en": "Another Time", "vi": "Một lúc khác"}
+{"en": "Lot of trouble", "vi": "Nhiều rắc rối"}
+{"en": "It's done", "vi": "Đã xong rồi"}
+{"en": "Operation Winter's End", "vi": "Chiến dịch Mùa đông kết thúc"}
+{"en": "Left Hand Bones", "vi": "Xương tay trái"}
+{"en": "I'm confused", "vi": "Tôi bối rối"}
+{"en": "Rent Room", "vi": "Phòng thuê"}
+{"en": "Basement", "vi": "Tầng hầm"}
+{"en": "Quick Eject Mag", "vi": "Tháo hộp đạn nhanh"}
+{"en": "Hurt Kent and Die", "vi": "Làm Kent bị thương và chết đi"}
+{"en": "Calibrated Receiver", "vi": "Bộ phận nhận tín hiệu đã hiệu chuẩn"}
+{"en": "Problem with synths?", "vi": "Vấn đề với synth?"}
+{"en": "I'm glad", "vi": "Tôi rất vui"}
+{"en": "Lost my son", "vi": "Mất con trai tôi"}
+{"en": "Standard Sights", "vi": "Tiêu chuẩn Mục tiêu"}
+{"en": "Hate the Commonwealth?", "vi": "Ghét Commonwealth à?"}
+{"en": "Hunting Rifle Heavy Frame Receiver", "vi": "Nòng súng săn khung nặng"}
+{"en": "Evidence Locker", "vi": "Tủ đựng bằng chứng"}
+{"en": "Now I'm a target", "vi": "Bây giờ tôi đã là mục tiêu rồi"}
+{"en": "Let's talk", "vi": "Hãy nói chuyện nhé"}
+{"en": "Hydroponics Control Terminal", "vi": "Hydroponics Control Terminal"}
+{"en": "Precinct 8 Evidence Terminal", "vi": "Precinct 8 Terminal Lưu trữ Bằng chứng"}
+{"en": "Ice Cooler", "vi": "Ice Cooler => Tủ mát"}
+{"en": "East Boston Preparatory School", "vi": "Trường chuẩn bị East Boston"}
+{"en": "Pipe Gun Standard Stock", "vi": "Pipe Gun: Cổ súng tiêu chuẩn"}
+{"en": "Kickball", "vi": "Kickball"}
+{"en": "12. But as with the wyrm, the unbelievers hid below the earth from the Eye of Atom, trapped in their ignorance", "vi": "12. Nhưng giống như con rồng, những kẻ vô tín đã ẩn mình dưới lòng đất để tránh ánh mắt của Con Mắt Nguyên Tử, bị mắc kẹt trong sự ngu muội của họ."}
+{"en": "13. To they He has delivered new prophets and said unto them", "vi": "13. Ngài đã ban cho họ những ngôn sứ mới và phán cùng họ"}
+{"en": "14. I have sent forth thy prisoners out of the pit wherein is no water of the glow", "vi": "14. Tôi đã sai những tù nhân của ngươi ra khỏi hang tối không có nước phát sáng"}
+{"en": "15. And you shall weild the arrow of my judgement upon them", "vi": "15. Và bạn sẽ brando mũi tên của phán quyết tôi xuống họ (Lưu ý: lần trước dịch không đạt vì: rỗng hoặc không đọc được. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "I'll Kill Them", "vi": "Tôi sẽ tiêu diệt chúng"}
+{"en": "Neutral", "vi": "Neutral"}
+{"en": "Search for tech in <Alias=Dungeon>.", "vi": "Tìm kiếm công nghệ trong <Alias=Dungeon>."}
+{"en": "Captain Zao", "vi": "Captain Zao"}
+{"en": "Cancel Security Override", "vi": "Hủy bỏ lệnh truy cập an ninh"}
+{"en": "Becoming you how?", "vi": "Làm sao để trở thành chính bạn vậy?"}
+{"en": "Raider Power Helm", "vi": "mũ bảo hiểm bộ giáp công suất của người đi săn"}
+{"en": "I'm leaving", "vi": "Tôi sẽ rời đi"}
+{"en": "Gun Butt Knockback", "vi": "Va đập nòng súng đẩy lùi"}
+{"en": "She's Here!", "vi": "Cô ấy ở đây!"}
+{"en": "Mahkra Fishpacking", "vi": "Nhà máy đóng gói cá Mahkra"}
+{"en": "Blind", "vi": "Mù lòa"}
+{"en": "NO", "vi": "KHÔNG"}
+{"en": "Combat Shotgun Heavy Frame Receiver", "vi": "Bộ phận khung nặng của khẩu súng trường bắn hơi chiến đấu"}
+{"en": "I'm sorry", "vi": "Xin lỗi"}
+{"en": "Child of Atom  Long Rags", "vi": "Quần áo rách dài của đứa trẻ nguyên tử"}
+{"en": "Processing...", "vi": "Đang xử lý..."}
+{"en": "You Believe Him?", "vi": "Bạn tin anh ta à?"}
+{"en": "Standard Receiver", "vi": "Bộ phận tiếp nhận tiêu chuẩn"}
+{"en": "Here you go", "vi": "Đây rồi"}
+{"en": "A bad time", "vi": "Thời điểm không thích hợp"}
+{"en": "Pain's Gone", "vi": "Đau đớn đã biến mất"}
+{"en": "On Life", "vi": "Đang sống"}
+{"en": "Crafting", "vi": "Chế tạo"}
+{"en": "(Optional) Talk to the Brotherhood", "vi": "(Tùy chọn) Nói chuyện với Các anh em"}
+{"en": "Reactor Housing", "vi": "Nhà máy phản ứng"}
+{"en": "Food and Drink", "vi": "Đồ ăn và đồ uống"}
+{"en": "Laser Beta Wave Tuner", "vi": "Bộ điều chỉnh sóng Beta Laser"}
+{"en": "Making a difference", "vi": "Tạo ra sự khác biệt"}
+{"en": "Change your mind?", "vi": "Bạn đổi ý rồi à?"}
+{"en": "Marowski Heist to bartender?", "vi": "Cướp nhà Marowski hay đi mời rượu?"}
+{"en": "Demand reward", "vi": "Yêu cầu phần thưởng"}
+{"en": "Reflex Sight", "vi": "Kính ngắm phản xạ"}
+{"en": "Patches", "vi": "Patches"}
+{"en": "Ask about synth", "vi": "Hỏi về Synth"}
+{"en": "Home Plate Key", "vi": "Chìa khóa sân nhà"}
+{"en": "You're Going Down", "vi": "Bạn sắp bị hạ gục rồi"}
+{"en": "What About?", "vi": "Còn cái này thì sao?"}
+{"en": "Tattered Field Jacket", "vi": "Áo khoác chiến trường rách nát"}
+{"en": "Make a difference", "vi": "Tạo ra sự khác biệt"}
+{"en": "Launch Status: \"INITIATED...\"", "vi": "Trạng thái phóng: \"Đã khởi động...\""}
+{"en": "All Blast Doors MUST remained closed!", "vi": "Tất cả các cửa nổ PHẢI được giữ đóng!"}
+{"en": "All Elevators are Non-Functional during launch!", "vi": "Tất cả thang máy đều không hoạt động trong quá trình phóng!"}
+{"en": "Anger", "vi": "Sự giận dữ"}
+{"en": "Wilson Atomatoys CorpNET", "vi": "Công ty đồ chơi Wilson Atomatoys CorpNET"}
+{"en": "Blast Doors: Closed", "vi": "Cửa nổ: Đã đóng"}
+{"en": "Sonya", "vi": "Sonya"}
+{"en": "Ice Cold Gwinnett Pilsner", "vi": "Bia Gwinnett Pilsner lạnh giá"}
+{"en": "Best friends", "vi": "Bạn thân"}
+{"en": "Search for caps in <Alias=Dungeon>", "vi": "Tìm kiếm nắp chai trong <Alias=Dungeon>"}
+{"en": "Big deal", "vi": "Chuyện nhỏ"}
+{"en": "Kill the raiders in <Alias=RaiderDungeon>", "vi": "Tiêu diệt các băng đảng cướp trong <Alias=RaiderDungeon>"}
+{"en": "Doctor Sun's House", "vi": "Nhà của bác sĩ Mặt trời"}
+{"en": "Treated Leather", "vi": "Da đã được xử lý"}
+{"en": "Phase Three?", "vi": "Giai đoạn ba?"}
+{"en": "Feeding the Troops", "vi": "Cất dưỡng quân đội"}
+{"en": "Kill me?", "vi": "Giết tôi đi?"}
+{"en": "Even more money", "vi": "Thêm nhiều tiền hơn nữa"}
+{"en": "I'll do it", "vi": "Tôi sẽ làm"}
+{"en": "I'm in charge!", "vi": "Tôi là người đứng đầu!"}
+{"en": "That's Weakness", "vi": "Đó chính là điểm yếu"}
+{"en": "Case# 3464608y", "vi": "Thùng số 3464608y"}
+{"en": "Locksmith", "vi": "Locksmith (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Rabid Radstag", "vi": "Khỉ đột điên"}
+{"en": "Accessing Maglocks...", "vi": "Đang truy cập khóa từ từ tính..."}
+{"en": "Make it quick", "vi": "Nhanh lên đi"}
+{"en": "Let's say 200", "vi": "Giả sử là 200"}
+{"en": "Raider faction to allow player to get closer to scenes", "vi": "Phân khúc Raiders cho phép người chơi tiếp cận gần hơn với các cảnh tượng"}
+{"en": "This standard pay?", "vi": "Mức lương tiêu chuẩn này sao?"}
+{"en": "Swashbuckler", "vi": "Kẻ phiêu lưu mạo hiểm"}
+{"en": "Loading Dock Terminal", "vi": "Terminal bến bốc dỡ hàng"}
+{"en": "All systems are operating normally.", "vi": "Tất cả hệ thống đều hoạt động bình thường."}
+{"en": "Founded the Railroad?", "vi": "Đã thành lập đường sắt ngầm chưa?"}
+{"en": "Razorgrain", "vi": "Razorgrain"}
+{"en": "Honest", "vi": "Honest (Trung thực)"}
+{"en": "Laser Gun", "vi": "Súng laser"}
+{"en": "Four Leaf Security Password", "vi": "Mật mã bảo mật Four Leaf"}
+{"en": "T-51f Arm Armor", "vi": "Bộ giáp tay T-51f"}
+{"en": "One Courser?", "vi": "Một con Courser sao?"}
+{"en": "Daily lives", "vi": "Cuộc sống thường nhật"}
+{"en": "Let's get started", "vi": "Bắt đầu thôi"}
+{"en": "Cop. Longtime Buffout customer. Running into supply problems. We've had a good thing for years, I'd hate to end it now. And I don't exactly want to risk him getting all noble and law-abiding if he can't get what he wants. That would end VERY badly for me.", "vi": "Cớm. Khách hàng Buffout lâu năm rồi. Đang gặp vấn đề về nguồn cung. Chúng tôi đã có một món hời này mấy năm nay, tôi không muốn kết thúc nó bây giờ. Và tôi cũng chẳng muốn mạo hiểm để anh ta trở thành kẻ cao quý và tuân thủ pháp luật nếu như anh ta không được những gì mình muốn. Điều đó sẽ kết thúc RẤT tệ hại cho tôi."}
+{"en": "The right thing", "vi": "Việc đúng đắn"}
+{"en": "Stealth Field", "vi": "Lưới tàng hình"}
+{"en": "Brotherhood handiwork?", "vi": "Công việc của Brotherhood?"}
+{"en": "It's Not Much", "vi": "Không phải là nhiều đâu"}
+{"en": "Fake Terminal", "vi": "Fake Terminal"}
+{"en": "Saving you", "vi": "Đang cứu bạn"}
+{"en": "Hidden Compartment", "vi": "Hidden Compartment => Khe chứa bí mật"}
+{"en": "Just muscle", "vi": "Just cơ bắp"}
+{"en": "Deezer", "vi": "Deezer"}
+{"en": "Activate Barney's Turrets (<Global=DN083_TurretX>/<Global=DN083_TurretY>)", "vi": "Kích hoạt tháp pháo của Barney (<Global=DN083_TurretX>/<Global=DN083_TurretY>)"}
+{"en": "Intercom", "vi": "Intercom"}
+{"en": "Sliding Door", "vi": "Sliding Door (Cửa trượt)"}
+{"en": "Glad to have backup", "vi": "Hân hạnh khi có thêm đồng đội."}
+{"en": "You broke a bobby pin.", "vi": "Bạn đã làm gãy một chiếc ghim bấm tóc."}
+{"en": "Automated Password Change Notice", "vi": "Thông báo thay đổi mật khẩu tự động"}
+{"en": "According to our records, your terminal password has not been changed in three (3) months. For security purposes, your password will now be reset.", "vi": "Theo hồ sơ của chúng tôi, mật khẩu của bạn trên terminal chưa được thay đổi trong ba (3) tháng qua. Vì mục đích bảo mật, mật khẩu của bạn sẽ được đặt lại ngay bây giờ."}
+{"en": "Your new password is: 9YB3N.", "vi": "Mật khẩu mới của bạn là: 9YB3N."}
+{"en": "This is an automated message. Please do not reply.", "vi": "Đây là tin nhắn tự động. Vui lòng không trả lời."}
+{"en": "This was wrong", "vi": "Điều này là sai trái"}
+{"en": "Want the Job?", "vi": "Muốn nhận việc này?"}
+{"en": "Writer's Terminal", "vi": "Writer's Terminal (Máy tính để bàn của tác giả)"}
+{"en": "Find Agent Blackbird", "vi": "Tìm tác nhân Blackbird"}
+{"en": "Hunting Rifle Marksman's Stock", "vi": "Sáp gỗ súng săn bắn tỉa"}
+{"en": "Late Edition Newspaper", "vi": "Báo chí tối muộn"}
+{"en": "Brother James", "vi": "Brother James"}
+{"en": "Hancock shouldn't care", "vi": "Hancock lẽ ra không nên quan tâm"}
+{"en": "Solomon's House", "vi": "Nhà Solomon"}
+{"en": "Looking for Something", "vi": "Đang tìm kiếm thứ gì đó"}
+{"en": "+<mag> Regeneration", "vi": "+<mag> Tái sinh"}
+{"en": "Announcer", "vi": "Announcer"}
+{"en": "Handmade Gun", "vi": "súng chế thủ công"}
+{"en": "Radiation Max Health", "vi": "Radiation Sức khỏe tối đa"}
+{"en": "Road Leathers", "vi": "Road Leather"}
+{"en": "I'll be better", "vi": "Tôi sẽ tốt hơn"}
+{"en": "Laser Musket Short Barrel", "vi": "Laser Musket Nòng ngắn"}
+{"en": "Pipe Bolt-Action", "vi": "Pipe Bòlt-Action"}
+{"en": "Did my part", "vi": "Đã làm phần việc của mình"}
+{"en": "You're wrong", "vi": "Bạn đang sai"}
+{"en": "Non-committal", "vi": "Không rõ thái độ"}
+{"en": "You're a machine", "vi": "Bạn là một cỗ máy"}
+{"en": "Assaultron", "vi": "Assaultron"}
+{"en": "Your escape?", "vi": "Cuối cùng cũng thoát rồi?"}
+{"en": "Security situation?", "vi": "Tình hình an ninh thế nào?"}
+{"en": "Return to Alana Secord", "vi": "Quay lại với Alana Secord"}
+{"en": "Investigate the Surgery Cellar", "vi": "Thăm dò nhà kho phẫu thuật"}
+{"en": "Cork", "vi": "Cork"}
+{"en": "W¤lcom¤ ¤o R¤¤Co Industries (¤¤) T¤¤ml¤nk", "vi": "X¥ch ¥n R¤¤Co Industries (¤¤) T¤¤ml¤nk"}
+{"en": "Military Frequency AF95", "vi": "Tần số quân đội AF95"}
+{"en": "Bedford Station - Stationmaster's Terminal", "vi": "Bedford Station - Máy tính của trưởng ga"}
+{"en": "Gold Plated Flip Lighter", "vi": "Bật lửa vàng mạ"}
+{"en": "You sound handy", "vi": "Giọng bạn nghe rất tiện tay"}
+{"en": "DN151Radio", "vi": "DN151Radio"}
+{"en": "What do you want?", "vi": "Bạn muốn gì vậy?"}
+{"en": "Elevator Panel", "vi": "Số 1|Panel thang máy"}
+{"en": "ERROR", "vi": "ERROR"}
+{"en": "Alpha Wild Mongrel", "vi": "Alpha chó hoang"}
+{"en": "Catcher.", "vi": "Catcher."}
+{"en": "If she's a Synth?", "vi": "Nếu cô ấy là một người máy tổng hợp?"}
+{"en": "Jalbert Brothers Disposal", "vi": "Jalbert Brothers Xử lý rác thải"}
+{"en": "Is important?", "vi": "Quan trọng không?"}
+{"en": "Life's story?", "vi": "Câu chuyện cuộc đời?"}
+{"en": "Build defenses", "vi": "Xây dựng phòng thủ"}
+{"en": "You should run", "vi": "Bạn nên chạy thôi"}
+{"en": "Offended again", "vi": "Bị xúc phạm lần nữa"}
+{"en": "No news", "vi": "Không tin tức gì cả"}
+{"en": "Meet Old Man Stockton", "vi": "Gặp ông lão Stockton"}
+{"en": "Generator - Medium", "vi": "Bộ phát điện - Trung bình"}
+{"en": "No questions", "vi": "Không có câu hỏi nào"}
+{"en": "So long", "vi": "Tạm biệt"}
+{"en": "Letter from Superintendent Marcello", "vi": "Thư của Giám thị Marcello"}
+{"en": "More info?", "vi": "Thêm thông tin?"}
+{"en": "Not Surprised", "vi": "Không ngạc nhiên"}
+{"en": "Brandis attacked me", "vi": "Brandis đã tấn công tôi"}
+{"en": "Backup?", "vi": "Dự phòng?"}
+{"en": "Stopping Communists", "vi": "Dừng lại những kẻ cộng sản"}
+{"en": "What was he up to?", "vi": "Hắn đang âm mưu gì?"}
+{"en": "Job", "vi": "Công việc"}
+{"en": "Painted Metal Arm Mod", "vi": "Tay kim loại sơn màu"}
+{"en": "Find Virgil in the Glowing Sea", "vi": "Tìm Virgil ở Biển phát sáng"}
+{"en": "Don't Be Stupid", "vi": "Đừng ngốc nghếch"}
+{"en": "Find Shaun", "vi": "Tìm Shaun"}
+{"en": "Cage", "vi": "(Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.) | Cũi"}
+{"en": "female", "vi": "female"}
+{"en": "Forehead Color", "vi": "Forehead Color"}
+{"en": "Public Terminal", "vi": "Terminal công cộng"}
+{"en": "Food Supply", "vi": "Food Supply"}
+{"en": "Root Cellar", "vi": "Root Cellar => Căn phòng kho chứa thực phẩm dưới tầng hầm"}
+{"en": "X-01 Mk.IV Torso Lining", "vi": "X-01 Mk.IV lớp lót thân trên"}
+{"en": "Caravan Guard", "vi": "Caravan Guard"}
+{"en": "Walden Pond", "vi": "Walden Pond"}
+{"en": "Good to know", "vi": "Tốt biết vậy"}
+{"en": "Threaten", "vi": "Đe dọa"}
+{"en": "Not a problem", "vi": "Không sao cả"}
+{"en": "Pipe Gun Automatic Receiver", "vi": "Bộ phận tiếp nhận súng ống tự động"}
+{"en": "\"Wouldn't that cause a parabolic destabilization?\"", "vi": "\"Liệu điều đó có gây ra sự mất ổn định hình parabol không?\""}
+{"en": "Install the Poseidon Radar Transmitter", "vi": "Lắp đặt bộ phát radar Poseidon"}
+{"en": "Start Manager's Sale", "vi": "Bắt đầu đợt bán hàng của quản lý"}
+{"en": "Nowhere", "vi": "Không đâu cả"}
+{"en": "Anything could happen", "vi": "Mọi thứ đều có thể xảy ra"}
+{"en": "Not scared of you", "vi": "Không sợ bạn đâu"}
+{"en": "Alana Secord", "vi": "Alana Secord"}
+{"en": "Missing any reward?", "vi": "Thiếu phần thưởng nào không?"}
+{"en": "Low rank", "vi": "Cấp thấp"}
+{"en": "Had no choice", "vi": "Không còn lựa chọn nào khác"}
+{"en": "What's Wrong?", "vi": "Có chuyện gì vậy?"}
+{"en": "Just tell me", "vi": "Chỉ cần nói cho tôi biết"}
+{"en": "Later", "vi": "Sau đó"}
+{"en": "Freedom Trail Marker", "vi": "Dấu mốc Con đường Tự do"}
+{"en": "Live by yourself", "vi": "Sống một mình"}
+{"en": "Studded Leather Leg Mod", "vi": "Bộ phận chân da lộn đính đinh"}
+{"en": "Why so worried?", "vi": "Sao lại lo lắng thế?"}
+{"en": "Please stay", "vi": "Xin hãy ở lại"}
+{"en": "Good idea", "vi": "Ý kiến hay đấy"}
+{"en": "Spoke to clothes?", "vi": "Nói chuyện với bộ quần áo à?"}
+{"en": "Emergency Frequency RJ1138", "vi": "Tần số khẩn cấp RJ1138"}
+{"en": "Defend <Alias=ActualLocation>", "vi": "Bảo vệ <Alias=ActualLocation>"}
+{"en": "Vertibird Front Right Cannon", "vi": "Vertibird khẩu thần công phía trước bên phải"}
+{"en": "MS03 Temp Hydroponics Message", "vi": "MS03 Thông báo nhà kính thủy canh tạm thời"}
+{"en": "Welcome to the Book Return Reward Machine.", "vi": "Chào mừng bạn đến với Máy trả thưởng cho việc trả sách."}
+{"en": "Journal Entry:2/10/78", "vi": "Nhật ký: 2/10/78"}
+{"en": "Rather not say", "vi": "Không muốn nói gì cả"}
+{"en": "Sunshine Tidings Terminal", "vi": "Sunshine Tidings Terminal"}
+{"en": "Speak to Elder Maxson", "vi": "Nói chuyện với Giáo chủ Maxson"}
+{"en": "No suicide", "vi": "Không tự sát"}
+{"en": "Used Oil Can", "vi": "Used Oil Can → Dầu nhờn đã sử dụng"}
+{"en": "Stay with Bobbi", "vi": "Ở lại với Bobbi"}
+{"en": "Activate Demo Mode", "vi": "Bật chế độ thử nghiệm"}
+{"en": "Railway Rifle Reflex Sight", "vi": "Railway Rifle: Kính ngắm phản xạ"}
+{"en": "Mass Fusion Balcony", "vi": "Ban công Mass Fusion"}
+{"en": "Resident Admittance", "vi": "Người ở trong nhà được phép vào"}
+{"en": "Pipe Bolt-Action Recoil Compensating Stock", "vi": "Cò nòng Pipe có bộ phận bù giật"}
+{"en": "What's the plan?", "vi": "Kế hoạch là gì?"}
+{"en": "Saved those people", "vi": "Cứu những người đó rồi"}
+{"en": "Get out of my face", "vi": "Ra khỏi mặt tôi đi."}
+{"en": "Rotten Landfill", "vi": "Bãi rác mục ruỗng"}
+{"en": "No More Violence", "vi": "Không còn bạo lực nữa"}
+{"en": "Remove artifact?", "vi": "Xóa vật phẩm cổ?"}
+{"en": "Got it", "vi": "Hiểu rồi"}
+{"en": "Order them to stop", "vi": "Ra lệnh cho chúng dừng lại"}
+{"en": "Short Scope", "vi": "Short Scope"}
+{"en": "Turret Activated", "vi": "Turret đã kích hoạt"}
+{"en": "Scene03B - dog you helped helps you", "vi": "Scene03B - con chó mà bạn giúp đỡ giờ đã giúp bạn"}
+{"en": "Bold statement", "vi": "Tuyên bố mạnh mẽ"}
+{"en": "Still in business?", "vi": "Vẫn còn hoạt động đấy?"}
+{"en": "Tumblers Today", "vi": "Các chốt khóa ngày nay"}
+{"en": "Game Pipboy", "vi": "Game Pip-Boy"}
+{"en": "Hmm", "vi": "Ừm..."}
+{"en": "No End To This", "vi": "Không có hồi kết cho điều này"}
+{"en": "Boston", "vi": "Boston"}
+{"en": "Mysterious Stranger", "vi": "Người lạ bí ẩn"}
+{"en": "INACCESSIBLE", "vi": "KHÔNG THỂ TIẾP CẬN"}
+{"en": "Restore auxiliary power to Engine Core", "vi": "Khôi phục nguồn điện phụ cho lõi động cơ"}
+{"en": "(Optional) Search military sites for a Circuit Board", "vi": "(Tùy chọn) Tìm kiếm các địa điểm quân sự để lấy bảng mạch"}
+{"en": "What Do I Do?", "vi": "Mình phải làm gì đây?"}
+{"en": "Glowing Mole Rat", "vi": "Chuột chũi phát sáng"}
+{"en": "prisoner set free (used for package conditions)", "vi": "tù nhân được thả ra (dùng cho điều kiện gói quà)"}
+{"en": "Legs", "vi": "Cánh tay"}
+{"en": "Doctor Duff", "vi": "Bác sĩ Duff"}
+{"en": "Point me to it", "vi": "Chỉ đường đến đó đi"}
+{"en": "Why assume?", "vi": "Sao lại đoán vậy?"}
+{"en": "Investigation", "vi": "Điều tra"}
+{"en": "Install a new Poseidon Radar Transmitter.", "vi": "Lắp đặt bộ phát radar Poseidon mới."}
+{"en": "The Devourer", "vi": "Kẻ ăn tươi nuốt sống"}
+{"en": "Fortify Endurance", "vi": "Tăng cường sức chịu đựng của Endurance"}
+{"en": "Confirm Emergency Shutdown", "vi": "Xác nhận tắt khẩn cấp"}
+{"en": "Granting admin rights.", "vi": "Đang cấp quyền quản trị."}
+{"en": "Root", "vi": "Gốc"}
+{"en": "Short Period of Time", "vi": "Một khoảng thời gian ngắn"}
+{"en": "They're always so hungry, my little Murkies. I have to remember to throw their food away from myself, they almost pinched me again the other day. They don't know what they're doing, the poor things.", "vi": "Chúng nó lúc nào cũng đói bụng lắm, lũ bé Murky của tôi. Tôi phải nhớ bỏ đồ ăn của chúng nó ra khỏi người mình, hôm kia suýt nữa chúng lại cắn vào tay tôi rồi. Chúng không biết làm gì cả, lũ tội nghiệp."}
+{"en": "Concord Speakeasy", "vi": "Câu lạc bộ Concord"}
+{"en": "It's No Use", "vi": "Vô ích thôi"}
+{"en": "Not My Problem", "vi": "Không phải chuyện của tôi"}
+{"en": "T-45e Leg Armor", "vi": "T-45e Áo giáp chân"}
+{"en": "Retrieve the Blueprints", "vi": "Lấy bản thiết kế"}
+{"en": "Are you upset?", "vi": "Bạn có đang bực bội không?"}
+{"en": "Sad to hear that", "vi": "Nghe tin này thật buồn"}
+{"en": "MiniNuke Beryllium Cap", "vi": "MiniNuke: Nút Be-90"}
+{"en": "Vadim Bobrov", "vi": "Vadim Bobrov"}
+{"en": "Guess it worked", "vi": "Có vẻ như nó đã hoạt động rồi."}
+{"en": "Blood Storage Refrigerator", "vi": "Tủ lạnh lưu trữ máu"}
+{"en": "Talk to Preston Garvey", "vi": "Nói chuyện với Preston Garvey"}
+{"en": "CASE 972-Su: Black Suicide Logs", "vi": "CASE 972-Su: Nhật ký tự sát của Black"}
+{"en": "EVIDENCE LOG ENTRY: CaBl-00", "vi": "BẰNG CHỨNG NHẬP LỰC: CaBl-00"}
+{"en": "OBJECT: 1x 10mm pistol, recovered from Mr. Black", "vi": "OBJECT: 1 khẩu súng lục 10mm, thu hồi từ ông Black"}
+{"en": "STATUS: Transferred to warehouse, R03-K01-CaBl.", "vi": "TRẠNG THÁI: Đã chuyển đến kho, R03-K01-CaBl."}
+{"en": "EVIDENCE LOG ENTRY: CaBl-01", "vi": "BẰNG CHỨNG NHẬP LƯU: CaBl-01"}
+{"en": "OBJECT: 1x 10mm bullet, recovered from Black during autopsy", "vi": "VẬT PHẨM: 1 viên đạn 10mm, thu hồi từ Black trong lúc khám nghiệm tử thi"}
+{"en": "EVIDENCE LOG ENTRY: CaBl-02", "vi": "BẰNG CHỨNG NHẬP LƯU: CaBl-02"}
+{"en": "OBJECT: 5x 10mm bullet, recovered from walls of apartment", "vi": "ĐỐI TƯỢNG: 5 viên đạn 10mm, thu hồi từ tường căn hộ"}
+{"en": "SynthHeadGen1-5", "vi": "SynthHeadGen1-5"}
+{"en": "Railroad Agent", "vi": "Đại diện đường sắt"}
+{"en": "Mass Fusion Elevator", "vi": "Thang máy Mass Fusion"}
+{"en": "What happened?", "vi": "Chuyện gì đã xảy ra?"}
+{"en": "The mission", "vi": "Nhiệm vụ"}
+{"en": "Model E", "vi": "Mẫu E"}
+{"en": "Know about them", "vi": "Biết về bọn chúng"}
+{"en": "MS09 post quest - Jack & Edward heading home", "vi": "Sau nhiệm vụ MS09 - Jack và Edward đang về nhà"}
+{"en": "Activating...", "vi": "Đang kích hoạt..."}
+{"en": "Any News?", "vi": "Có tin tức gì không?"}
+{"en": "I'll get back to you", "vi": "Tôi sẽ liên hệ lại với bạn"}
+{"en": "Boiled Leather", "vi": "Da luộc"}
+{"en": "Laser Pistol", "vi": "Súng laser"}
+{"en": "Bill's Letter", "vi": "Thư của Bill"}
+{"en": "Have Some Faith", "vi": "Hãy tin tưởng một chút"}
+{"en": "Syringer Tactical Grip", "vi": "Tay cầm chiến thuật Syringer"}
+{"en": "Don't know what you mean", "vi": "Không hiểu ý bạn nói gì"}
+{"en": "Glory is dead", "vi": "Vinh quang đã chết"}
+{"en": "Switch", "vi": "Chuyển đổi"}
+{"en": "Welcome, User", "vi": "Chào mừng, người dùng"}
+{"en": "Please make selection below", "vi": "Vui lòng chọn bên dưới"}
+{"en": "People Curie will scan for medical information", "vi": "Người Curie sẽ quét thông tin y tế"}
+{"en": "Angry at reception", "vi": "Gắt lên ở quầy tiếp tân"}
+{"en": "Assault Rifle Hair Trigger Receiver", "vi": "Nòng súng trường tấn công kích hoạt nhanh"}
+{"en": "You're lying", "vi": "Bạn đang nói dối"}
+{"en": "Scene - FEV Hound vs Yao Guai", "vi": "Cảnh: Chó FEV đối đầu với quái vật Yao Guai"}
+{"en": "Give serum", "vi": "Cho thuốc huyết thanh"}
+{"en": "What do I do?", "vi": "Tôi phải làm gì đây?"}
+{"en": "Just passing through", "vi": "Chỉ đi ngang qua"}
+{"en": "Perfectly", "vi": "Hoàn hảo"}
+{"en": "Protectron Head Laser", "vi": "Đầu máy Protectron tia laser"}
+{"en": "Fight against us?", "vi": "Đấu với chúng tôi sao?"}
+{"en": "Studio Control Terminal", "vi": "Bàn điều khiển phòng thu"}
+{"en": "Chem: Fortify Action Points", "vi": "Hóa chất: Tăng điểm hành động"}
+{"en": "Nothing left", "vi": "Không còn gì nữa"}
+{"en": "Airport Facilities Key", "vi": "Chìa khóa cơ sở sân bay"}
+{"en": "Test Results", "vi": "Kết quả xét nghiệm"}
+{"en": "Product: Dispersant", "vi": "Sản phẩm: Chất phân tán"}
+{"en": "Date: 10/18", "vi": "Ngày: 18/10"}
+{"en": "Subject survived test, failed to recover from treatment. Ran screaming at sight of own child in waiting room. Police still in pursuit.", "vi": "Chủ thể sống sót qua thử nghiệm nhưng không phục hồi sau điều trị. Chạy thét lên khi nhìn thấy con của chính mình trong phòng chờ. Cảnh sát vẫn đang truy nã."}
+{"en": "Update: 10/20: Apprehended. Subject institutionalized.", "vi": "Cập nhật: 10/20: Đã bắt giữ. Đối tượng đã bị đưa vào cơ sở điều trị."}
+{"en": "DM: Dispersant is supposed to *stop* riots, not start them. This entire line of research is a joke. I'm transferring the project to Karyn. Send her your files and destroy your samples. Then clean out your desk.", "vi": "DM: Dispersant vốn dĩ là để *dập* bạo động, chứ không phải khởi xướng chúng. Toàn bộ dòng nghiên cứu này thật là trò cười. Tôi sẽ chuyển dự án cho Karyn. Hãy gửi tài liệu của bạn cho cô ấy và tiêu hủy mẫu vật của bạn. Sau đó dọn dẹp bàn làm việc của bạn đi."}
+{"en": "Surprised I'm alive?", "vi": "Bạn ngạc nhiên là tôi vẫn còn sống sao?"}
+{"en": "Actual rules", "vi": "Quy tắc thực tế"}
+{"en": "Recap", "vi": "Recap"}
+{"en": "Lead on", "vi": "Dẫn đầu đi"}
+{"en": "Deathclaw", "vi": "Deathclaw"}
+{"en": "Preston tolerates you.", "vi": "Preston chịu đựng sự hiện diện của bạn."}
+{"en": "Simon", "vi": "Simon"}
+{"en": "Murderer", "vi": "Murderer"}
+{"en": "Aluminum Oil Can", "vi": "Aluminum Can dầu"}
+{"en": "Griswold's Terminal", "vi": "Griswold's Terminal"}
+{"en": "Forget it", "vi": "Thôi đi"}
+{"en": "SCYTHE Status Report", "vi": "SCYTHE Báo cáo tình trạng"}
+{"en": "Lucia's Personal Key", "vi": "Lucia's Personal Key"}
+{"en": "Confront Mayor McDonough", "vi": "Đối đầu với Thị trưởng McDonough"}
+{"en": "10mm Light Frame Receiver", "vi": "10mm Khung nhẹ Bộ nhận"}
+{"en": "Vault 95", "vi": "Lũng 95"}
+{"en": "Ashtray", "vi": "Đùi thuốc"}
+{"en": "Vault-Tec Lab Coat", "vi": "Áo blouse phòng thí nghiệm Vault-Tec"}
+{"en": "How much trouble?", "vi": "Bạn gặp rắc rối cỡ nào rồi?"}
+{"en": "Rabid Yao Guai", "vi": "Con quái vật Yao Guai điên cuồng"}
+{"en": "Newton Oberly", "vi": "Newton Oberly"}
+{"en": "Yeah", "vi": "Vâng"}
+{"en": "Sheila's Holotape", "vi": "Dải băng dữ liệu của Sheila"}
+{"en": "You're welcome", "vi": "Không có gì"}
+{"en": "You need allies", "vi": "Bạn cần những người đồng minh"}
+{"en": "T-60d Torso Lining", "vi": "Lớp lót thân T-60d"}
+{"en": "Pipe talks up her paper with random person", "vi": "Pipe nói chuyện với một người lạ về tờ giấy của cô ấy"}
+{"en": "Replace his blood pressure medication with sugar pills.", "vi": "Thay thuốc hạ huyết áp của hắn bằng viên đường giả."}
+{"en": "Powering Up", "vi": "Bật nguồn"}
+{"en": "Silver Bar", "vi": "Silver Bar (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "Soldier", "vi": "Soldier (Lưu ý: lần trước dịch không đạt vì: giống hệt bản gốc. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "No mercy", "vi": "Không thương tiếc"}
+{"en": "Trash Bin", "vi": "Trash Bin => Thùng rác"}
+{"en": "Commonwealth needs us", "vi": "Cộng hòa cần chúng ta"}
+{"en": "Security Office - Terminal 2", "vi": "Văn phòng an ninh - Máy chủ 2"}
+{"en": "What is it?", "vi": "Chuyện gì vậy?"}
+{"en": "Get Mel Out of Jail", "vi": "Giải thoát Mel khỏi tù"}
+{"en": "ID: 10905-2331", "vi": "Mã số: 10905-2331"}
+{"en": "Name: Martine, Alexis J.", "vi": "Họ tên: Martine, Alexis J."}
+{"en": "Procedure: Paternity (Prenatal)", "vi": "Thủ tục: Xác định cha con (Trước sinh)"}
+{"en": "Results: PCR analysis closely matched patient 2498 (90%). Patient reassured of confidentiality.", "vi": "Kết quả: Phân tích PCR khớp gần như hoàn toàn với bệnh nhân 2498 (90%). Bệnh nhân đã được trấn an về tính bảo mật."}
+{"en": "Note: Results reported to CO per standing orders.", "vi": "Ghi chú: Kết quả đã được báo cáo cho Bộ chỉ huy theo quy định hiện hành."}
+{"en": "Maxson", "vi": "Maxson"}
+{"en": "Wattz Electronics", "vi": "Công ty điện tử Wattz"}
+{"en": "Get a Fusion Core", "vi": "Lấy lõi phản ứng hợp hạch"}
+{"en": "Painting the Town", "vi": "Phun sơn khắp thành phố"}
+{"en": "Leather Left Leg", "vi": "Da bò chân trái"}
+{"en": "\"It's been working\"?", "vi": "\"Nó vẫn hoạt động\"?"}
+{"en": "Fork", "vi": "Cào cào"}
+{"en": "Hell of a Cost", "vi": "Giá cả đắt đỏ kinh khủng"}
+{"en": "Waste of time", "vi": "Thôi phí thời gian"}
+{"en": "Subject: Dearing and Kennedy", "vi": "Chủ đề: Dearing và Kennedy"}
+{"en": "Umbrella Stand", "vi": "Giá ô"}
+{"en": "Not ready yet", "vi": "Chưa sẵn sàng"}
+{"en": "Possibilities?", "vi": "Khả năng?"}
+{"en": "No promises", "vi": "Không có lời hứa gì cả"}
+{"en": "Not this again", "vi": "Lại chuyện này nữa à"}
+{"en": "Coffee Pot", "vi": "Nồi cà phê"}
+{"en": "Combat Rifle Long Light Barrel", "vi": "Súng trường chiến đấu, nòng nhẹ dài"}
+{"en": "I Have Ways", "vi": "Tôi có cách riêng"}
+{"en": "Structures", "vi": "Công trình"}
+{"en": "Message Sent June 23, 2077", "vi": "Thông điệp gửi ngày 23 tháng 6 năm 2077"}
+{"en": "Good news! We were able to secure a contract with two local boats who agreed to supply us with half of their Bluefish. While 100% would've been great, at least we're making a dent in our competitor's  inventory. With the Bluefish in full migration up north at this time, this will help keep our inventory steady.", "vi": "Tin tốt! Chúng tôi đã ký được hợp đồng với hai chiếc thuyền địa phương đồng ý cung cấp cho chúng tôi một nửa số cá ngừ xanh của họ. Dù 100% thì tuyệt vời hơn, nhưng ít nhất chúng tôi cũng đang làm giảm lượng hàng tồn kho của đối thủ cạnh tranh. Vì lúc này cá ngừ xanh đang di cư lên phía bắc, việc này sẽ giúp ổn định nguồn hàng của chúng tôi."}
+{"en": "What happened to package?", "vi": "Gói hàng kia sao rồi?"}
+{"en": "Weapons Workbench", "vi": "Bàn làm vũ khí"}
+{"en": "You all right?", "vi": "Bạn ổn chứ?"}
+{"en": "Left Legs", "vi": "Cẳng chân trái"}
+{"en": "Bloatfly Gland", "vi": "Tuyến tuyến của loài ruồi phình bụng"}
+{"en": "In control", "vi": "Đang kiểm soát"}
+{"en": "Leave her", "vi": "Để cô ấy lại đi"}
+{"en": "Shooting synths", "vi": "Súng giết synth"}
+{"en": "Why ashamed?", "vi": "Sao phải xấu hổ thế?"}
+{"en": "Couldn't Agree More", "vi": "Không thể đồng ý hơn được nữa"}
+{"en": "Trust him? Right", "vi": "Tin hắn à? Đúng rồi"}
+{"en": "No casualties", "vi": "Không có thương vong"}
+{"en": "Deadly Radiation", "vi": "Bức xạ chết người"}
+{"en": "Get the shot", "vi": "Chụp ảnh đi"}
+{"en": "I'm Not Bullshitting", "vi": "Tôi không nói bậy đâu"}
+{"en": "Reinforced Combat Armor Leg Mod", "vi": "Bộ phận chân áo giáp chiến đấu gia cố"}
+{"en": "Submachine Gun Medium Magazine", "vi": "Submachine Gun Magi-zin trung bình"}
+{"en": "Go to Valentine's Detective Agency", "vi": "Đến văn phòng thám tử Valentine"}
+{"en": "Anybody Home?", "vi": "Có ai nhà không?"}
+{"en": "Sure thing", "vi": "Vâng vâng!"}
+{"en": "T-51 Right Leg", "vi": "T-51 Cẳng chân phải"}
+{"en": "Rock Steady", "vi": "Rock Steady"}
+{"en": "Why not leave?", "vi": "Sao không đi?"}
+{"en": "Karma got you", "vi": "Karma đã tìm thấy bạn"}
+{"en": "Message From \"Management\"", "vi": "Tin nhắn từ \"Ban quản lý\""}
+{"en": "Message To \"_ProjectManagersAll\" - Received", "vi": "Tin nhắn gửi đến \"_ProjectManagersAll\" - Đã nhận"}
+{"en": "Much like our support beams, railings cost money. We've placed them where we deemed appropriate. However, we've had several incidents involving workers falling to their deaths, especially near Station 2. Please take the time to remind workers to be conscious of their surroundings and not lean on the railings. Some of them have rusted out and may no longer be stable. Every six months we inspect the railings, so if you find one that's no longer sturdy, it's probably on the back log and will be taken care of shortly. No need to log another complaint.", "vi": "Giống như các dầm đỡ của chúng tôi, lan can cũng tốn kém tiền bạc. Chúng tôi đã lắp đặt chúng ở những vị trí mà chúng tôi cho là thích hợp. Tuy nhiên, đã xảy ra một số vụ việc liên quan đến công nhân ngã xuống tử vong, đặc biệt là gần Trạm 2. Xin hãy dành thời gian nhắc nhở các công nhân chú ý đến môi trường xung quanh và không tựa vào lan can. Một số trong số chúng đã bị gỉ sét và có thể không còn vững chắc nữa. Chúng tôi kiểm tra lan can mỗi sáu tháng, vì vậy nếu bạn phát hiện ra một cái không còn chắc chắn, nó có lẽ đang nằm trong danh sách chờ xử lý và sẽ được khắc phục sớm thôi. Không cần phải ghi lại thêm một khiếu nại nào cả."}
+{"en": "Management", "vi": "Quản lý"}
+{"en": "Convince Scarlett to meet Travis", "vi": "Thuyết phục Scarlett gặp Travis"}
+{"en": "Focus", "vi": "Tập trung"}
+{"en": "MALDEN POLICE EVIDENCE TERMINAL", "vi": "BẢNG CHỨNG TỪ CẢM MALDEN"}
+{"en": "Appreciate trust", "vi": "Trân trọng sự tin tưởng"}
+{"en": "Kitchen Table", "vi": "Bàn ăn trong bếp"}
+{"en": "Dear Detective 3", "vi": "Kính gửi Thám tử số 3"}
+{"en": "Commando", "vi": "Bộ đội đặc nhiệm"}
+{"en": "You're crazy", "vi": "Bạn điên rồi"}
+{"en": "Use Code", "vi": "Sử dụng mã"}
+{"en": "U.S. Covert Operations Manual", "vi": "Sổ tay các hoạt động bí mật của Hoa Kỳ"}
+{"en": "Doing fine without you", "vi": "Vẫn ổn mà không có bạn"}
+{"en": "Want to kill", "vi": "Muốn giết"}
+{"en": "Restore <mag> points of Health.", "vi": "Tái tạo <mag> điểm Sức khỏe."}
+{"en": "Do what you have to do", "vi": "Làm những gì bạn phải làm"}
+{"en": "Reduce Strength", "vi": "Giảm sức mạnh"}
+{"en": "Initiate Specimen Release", "vi": "Khởi động giải phóng mẫu vật"}
+{"en": "If I Can't?", "vi": "Nếu tôi không thể?"}
+{"en": "Just the job", "vi": "Chỉ đúng việc"}
+{"en": "EVIDENCE LOG ENTRY: WiGi-00", "vi": "NHẬP LỤC BẺ CỦA CHỨ CỨNG: WiGi-00"}
+{"en": "OBJECT: 158x bottles, Buffout", "vi": "OBJECT: 158 chai lọ, Buffout"}
+{"en": "STATUS: In BADTFL evidence lock-up, R14-G05-WiGi.", "vi": "TRẠNG THÁI: Đang bị giam giữ tại kho chứng cứ BADTFL, ô R14-G05-WiGi."}
+{"en": "EVIDENCE LOG ENTRY: WiGi-01", "vi": "BẰNG CHỨNG NHẬP LỰC: WiGi-01"}
+{"en": "OBJECT: 68x cartons, Grey Tortoise Cigarettes", "vi": "OBJECT: 68 hộp, thuốc lá Grey Tortoise"}
+{"en": "STATUS: In BADTFL evidence lock-up, R14-G06-WiGi.", "vi": "TRẠNG THÁI: Đang bị giam giữ trong kho chứng cứ BADTFL, ô R14-G06-WiGi."}
+{"en": "EVIDENCE LOG ENTRY: WiGi-02", "vi": "BẰNG CHỨNG NHẬP LỰC: WiGi-02"}
+{"en": "OBJECT: 1x tactical nuclear launcher w/ ammo", "vi": "OBJECT: 1x tên lửa hạt nhân chiến thuật kèm đạn (Lưu ý: lần trước dịch không đạt vì: rỗng hoặc không đọc được. Hãy dịch lại, chỉ dùng tiếng Việt.)"}
+{"en": "STATUS: In lock-up. Awaiting collection by Sgt. Groves, US Army", "vi": "TRẠNG THÁI: Đang bị giam giữ. Đợi Trung úy Groves, Quân đội Hoa Kỳ đến nhận."}
+{"en": "Don't compare me to them", "vi": "Đừng so sánh tôi với bọn chúng"}
+{"en": "You've Got Plunder?", "vi": "Bạn đã có của cải cướp bóc?"}
+{"en": "Long Scope", "vi": "Long Scope"}
+{"en": "Polite", "vi": "Lịch sự"}
+{"en": "Reach Institute Reactor", "vi": "Reach Institute Nhà máy điện"}
+{"en": "I'll help", "vi": "Tôi sẽ giúp bạn."}
+{"en": "Thank You", "vi": "Cảm ơn bạn"}
+{"en": "(Optional) Issue Evacuation Order", "vi": "(Tùy chọn) Ra lệnh sơ tán"}
+{"en": "Locket Recovered", "vi": "Vòng cổ đã được tìm lại"}
+{"en": "Brandis?", "vi": "Brandis à?"}
+{"en": "Can't leave witnesses", "vi": "Không thể để lại chứng nhân"}
+{"en": "Shut up", "vi": "Đứng im đi."}
+{"en": "Environment Events Parent", "vi": "Sự kiện môi trường cha mẹ"}
+{"en": "Took care of him", "vi": "Đã lo cho anh ấy rồi"}
+{"en": "Don't Need Details", "vi": "Không cần chi tiết"}
+{"en": ">Optical Sensor Control", "vi": ">Điều khiển cảm biến quang học"}
+{"en": "Your Solution?", "vi": "Giải pháp của bạn là gì?"}
+{"en": "Gourd", "vi": "Quả bầu"}
+{"en": "Treasures had all of three visitors today. Surprised there were that many-- figured the security screenings would keep them all away. The Mayor tried to put a good face on it for the council, but the city's wasted so much money on this boondoggle, I'd be amazed if we don't impeach the lot of them.", "vi": "Hôm nay chỉ có ba vị khách đến thăm kho báu. Tôi thật ngạc nhiên là lại đông đến vậy—dù tôi từng nghĩ những cuộc kiểm tra an ninh sẽ khiến họ tất cả đều tránh xa. Thị trưởng cố gắng giữ vẻ mặt vui vẻ trước hội đồng, nhưng thành phố đã lãng phí quá nhiều tiền cho dự án ngớ ngẩn này, tôi chẳng lạ gì nếu chúng ta sẽ phế truất toàn bộ bọn họ."}
+{"en": "For now, I'll just try to keep the pipes patched up and the tourists out of my office.", "vi": "Hiện tại, tôi chỉ cố gắng vá ống dẫn và giữ du khách ra khỏi văn phòng của mình."}
+{"en": "Valentine Detective Agency", "vi": "Văn phòng thám tử Valentine"}
+{"en": "Super Mutant Warlord", "vi": "Chiến binh biến dạng thống lĩnh"}
+{"en": "Property of the United States Army", "vi": "Sở hữu của Quân đội Hoa Kỳ"}
+{"en": "Ruined Skyscraper", "vi": "Tòa nhà chọc trời đổ nát"}
+{"en": "Book Return Token", "vi": "Thẻ hoàn trả sách"}
+{"en": "Gwinnett Pale", "vi": "Gwinnett nhạt"}
+{"en": "Ms. Rosa", "vi": "Ms. Rosa"}
+{"en": "What now?", "vi": "Bây giờ thì sao?"}
+{"en": "Give Me a Chance?", "vi": "Cho tôi một cơ hội?"}
+{"en": "Get the dampening rods", "vi": "Lấy thanh giảm chấn"}
+{"en": "Feral ghouls?", "vi": "Quái vật hoang dã?"}
+{"en": "Polished Metal Arm Mod", "vi": "Mô-đun cánh tay kim loại đánh bóng"}
+{"en": "Crocker killed Earl", "vi": "Crocker đã giết Earl"}
+{"en": "T-45 Military Paint", "vi": "Sơn quân đội T-45"}
+{"en": "Wiseman", "vi": "Người khôn ngoan"}
+{"en": "Talk to <Alias=FactionNPCEnd>", "vi": "Nói chuyện với <Alias=FactionNPCEnd>"}
+{"en": "Mysterious Serum", "vi": "Chất lỏng bí ẩn"}
+{"en": "Where do I come in?", "vi": "Tôi ở đâu trong chuyện này?"}
+{"en": "Give Serum", "vi": "Đưa huyết thanh"}
+{"en": "And the fuel?", "vi": "Và nhiên liệu thì sao?"}
+{"en": "Faculty Terminal", "vi": "Faculty Terminal"}
+{"en": "Welcome, Clarke. Please select an entry.", "vi": "Chào mừng bạn, Clarke. Vui lòng chọn một mục."}
+{"en": "Proceed to Cambridge Police Station", "vi": "Tiến tới Trạm cảnh sát Cambridge"}
+{"en": "Kill Doctor Carrington", "vi": "Tiêu diệt bác sĩ Carrington"}
+{"en": "\"It's Time\"", "vi": "Đã đến lúc"}
+{"en": "Is it that bad?", "vi": "Đó có tệ đến mức đó không?"}
+{"en": "Combat Lines, Reaction Lines, Etc", "vi": "Combat Lines, Reaction Lines, v.v."}
+{"en": "Iron Maiden", "vi": "Iron Maiden"}
+{"en": "Others want revenge?", "vi": "Những người khác muốn trả thù sao?"}
+{"en": "Do Nothing", "vi": "Không làm gì cả"}
+{"en": "Overseer's Log", "vi": "Nhật ký của Giám thị"}
+{"en": "Polymer Coating Applicator", "vi": "Dụng cụ phủ lớp polymer"}
+{"en": "Polished Metal", "vi": "Kim loại đánh bóng"}
+{"en": "Mirror", "vi": "Gương"}
+{"en": "Extra baggage", "vi": "Hành lý quá mức"}
+{"en": "Wedding Ring", "vi": "Wedding Ring (Vòng cưới)"}
+{"en": "Got to pick a good moment to present it. Special time? After he gets the job? After his speech? BEFORE his speech? Just when we're out having fun as a family? Super dad deserves super appreciation!", "vi": "Cần chọn thời điểm thích hợp để tặng quà này. Phải là lúc đặc biệt sao? Sau khi anh ấy nhận việc? Sau bài phát biểu của anh ấy? HAY TRƯỚC KHI BÀI PHÁT BIỂU? Ngay lúc cả gia đình mình đang vui vẻ bên nhau? Siêu bố xứng đáng với sự biết ơn tuyệt vời!"}
+{"en": "Footlocker", "vi": "Footlocker"}
+{"en": "Who are you?", "vi": "Bạn là ai?"}
+{"en": "Activate Sentry Bot", "vi": "Kích hoạt robot tuần tra"}
+{"en": "Change the power wattage of his razor so he'll get a shock.", "vi": "Thay đổi công suất của chiếc dao cạo râu để anh ấy bị giật điện."}
+{"en": "Entrance Question 8", "vi": "Câu hỏi đầu vào 8"}
+{"en": "Tell Me Now", "vi": "Kể tôi nghe ngay đi"}
+{"en": "T-60e Torso Lining", "vi": "T-60e Lớp lót thân trên"}
+{"en": "They Mean Well", "vi": "Họ có thiện tâm"}
+{"en": "Beta Wave Tuner", "vi": "Bộ điều chỉnh sóng Beta"}
+{"en": "Can't right now", "vi": "Không thể lúc này"}
+{"en": "Spot", "vi": "Spot"}

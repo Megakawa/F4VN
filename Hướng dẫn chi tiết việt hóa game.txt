@@ -1,0 +1,118 @@
+HƯỚNG DẪN VIỆT HÓA FALLOUT 4 (bản cập nhật)
+==========================================
+Nhiệm vụ: dịch các chuỗi tiếng Anh trong Fallout4_en.STRINGS / .DLSTRINGS / .ILSTRINGS sang tiếng Việt.
+Đính kèm: Fallout4_VN_Glossary.txt (luôn nạp cùng file này; khi mâu thuẫn, GLOSSARY thắng).
+
+YÊU CẦU TỔNG QUÁT
+-----------------
+1. Định dạng và cấu trúc: Giữ nguyên mọi thẻ code, biến số, khoảng trắng và ký hiệu đặc biệt của bản gốc (chi tiết ở mục 1 bên dưới).
+2. Ngữ pháp tiếng Việt chuẩn: Dùng từ ngữ, cú pháp và cách diễn đạt đúng chuẩn mực tiếng Việt, tự nhiên như người Việt nói.
+3. Giọng điệu và tính cách nhân vật: Phân tích ngữ cảnh để giọng đối thoại hợp với từng nhân vật (xem bảng xưng hô ở mục E trong Glossary).
+4. Thuật ngữ giữ nguyên: Tên riêng, tên phe phái, địa danh, thuật ngữ game (Synth, Mr. Handy, Minutemen, Plasma Auto Rifle, Power Armor, Pip-Boy, VATS...) giữ nguyên tiếng Anh, dịch phần còn lại của câu cho tự nhiên và không mất nghĩa. Danh sách đầy đủ nằm ở Glossary mục B.
+5. Phù hợp văn hóa: Điều chỉnh để hợp văn hóa và lối sống người Việt (ví dụ: yếu tố tôn giáo, phong tục, thán từ liên quan đến Chúa), nhưng không làm đổi cốt truyện hay tên riêng.
+6. Độ chính xác: Sau khi dịch, rà lại lỗi chính tả, ngữ pháp, tag bị mất hoặc sai, và số dòng.
+7. Nhất quán: Cùng một thuật ngữ phải luôn được dịch cùng một cách (tra Glossary mục C). Nếu gặp thuật ngữ mới chưa có trong Glossary, chọn một cách dịch và ghi vào danh sách "THUẬT NGỮ MỚI" ở cuối lượt trả lời để bổ sung sau.
+8. Độ dài: Với tên vật phẩm, menu, nút bấm, ưu tiên bản dịch ngắn gọn, không dài hơn khoảng 1,3 lần bản gốc, vì giao diện game bị tràn chữ khi quá dài.
+
+
+ĐỊNH DẠNG ĐẦU VÀO / ĐẦU RA (quan trọng khi dịch hàng loạt)
+------------------------------------------------------------
+- Mỗi lượt gửi 200-300 dòng, mỗi dòng có dạng:  ID<TAB>văn bản
+  (ký tự xuống dòng thật trong chuỗi được viết thành \n; giữ nguyên \n đó)
+- Trả về đúng số dòng, đúng thứ tự, đúng ID, đúng dạng:  ID<TAB>bản dịch
+- Chỉ dịch phần văn bản sau TAB. Không đổi ID, không thêm/bớt dòng, không giải thích, không đánh số lại, không bọc trong code block.
+- Chuỗi không cần dịch (mục A của Glossary) thì chép lại y nguyên.
+- Cuối lượt, nếu có thuật ngữ mới, thêm một khối riêng sau dòng "### THUẬT NGỮ MỚI".
+
+
+PROMPT CHI TIẾT CHO TỪNG PHẦN TRONG FILE _en
+--------------------------------------------
+
+1. ĐỐI THOẠI VÀ KỊCH BẢN (chủ yếu trong ILSTRINGS, khoảng 75.000 dòng)
+Ngữ cảnh phân tích: Xác định rõ ai đang nói với ai, tình huống diễn ra thế nào. Nhiều dòng rất ngắn ("Hey.", "Well?", "Go on.") thì dịch ngắn, tự nhiên như khẩu ngữ.
+Giọng điệu nhân vật: Tùy tính cách (lạnh lùng, hài hước, khiêu khích, thô tục...) mà chỉnh giọng. Dùng đúng cặp xưng hô ở Glossary mục E.
+Thuật ngữ đặc biệt: Nếu có thuật ngữ cần giữ nguyên, dịch phần còn lại để câu hoàn chỉnh và tự nhiên.
+Tag cảm xúc/âm thanh như <cough>, <zot>, <bzzzzt>, <sob>, <sigh>, <Growl>: giữ nguyên tag, chỉ dịch chữ xung quanh. Với lời nói bị ngắt quãng vì lỗi robot ("Ha! That was... never... <bzzzzt> going... to happen..."), giữ nhịp ngắt và dấu "..." tương ứng.
+Ví dụ:
+  Nguồn (en): "I can't claim to understand how you feel, but... if the boy's presence somehow helps, I hope you'll keep an open mind."
+  Dịch: "Tôi không dám khẳng định rằng mình đã hiểu hoàn toàn cảm giác của bạn, nhưng nếu sự hiện diện của cậu ấy có thể giúp đỡ, tôi hy vọng bạn sẽ giữ tinh thần cởi mở."
+
+  Nguồn (en): "<cough> So... this is... the end... <cough> All I wanted... was a better... life..."
+  Dịch: "<cough> Vậy là... đây là... hồi kết... <cough> Tất cả những gì tôi muốn... chỉ là một cuộc sống... tốt đẹp hơn..."
+
+2. NGỮ CẢNH VÀ NỘI DUNG KỸ THUẬT (mô tả vật phẩm, perk, mod vũ khí, trong STRINGS và DLSTRINGS)
+Giữ nguyên thuật ngữ công nghệ: Tên chuyên ngành hoặc tên kỹ thuật có thương hiệu (ví dụ "Plasma Auto Rifle", "Mr. Handy", "Fusion Core") giữ nguyên.
+Bộ phận mod (Barrel, Receiver, Grip, Scope...) và tính từ chất lượng (Standard, Improved, Superior...) dịch theo Glossary mục C để đồng bộ toàn bộ danh sách mod.
+Điều chỉnh câu hoàn chỉnh: Dịch phần còn lại sao cho phù hợp và tự nhiên trong tiếng Việt.
+Ví dụ:
+  Nguồn (en): "The teleportation device you're building is a feat of engineering."
+  Dịch: "Cỗ máy dịch chuyển mà bạn đang xây dựng quả là một kỳ công kỹ thuật."
+
+  Nguồn (en): "10mm Long Barrel"          -> "Nòng dài 10mm"
+  Nguồn (en): ".44 Standard Grip"         -> "Báng cầm tiêu chuẩn .44"
+  Nguồn (en): "Take +20% DMG"             -> "Nhận thêm +20% sát thương"
+
+3. ĐỐI THOẠI VÀ CÁC BIẾN SỐ TRONG GAME
+Biến số / ID: Chuỗi một từ liền dạng CamelCase hoặc có gạch dưới (PlayerActivateDoorChainedSameSide, HC_DrinkWaterEffect, AudioCategoryAMB, GreenTintDark...) là ID của engine, TUYỆT ĐỐI giữ nguyên toàn bộ.
+Biến chèn trong câu (<Alias=Player>, <Global=...>, <Token...>, %d, %s) giữ nguyên đúng ký tự và vị trí hợp lý trong câu tiếng Việt; có thể dời vị trí cho đúng ngữ pháp nhưng không được sửa, bỏ hay dịch tên biến.
+Phần còn lại của câu: dịch tự nhiên và phù hợp ngữ cảnh.
+Ví dụ:
+  Nguồn (en): "Strong hates that."
+  Dịch: "Strong không thích điều đó."
+
+  Nguồn (en): "Cost: %d caps"
+  Dịch: "Giá: %d nắp chai"
+
+  Nguồn (en): "Talk to <Alias=Player>"
+  Dịch: "Nói chuyện với <Alias=Player>"
+
+4. CẢNH BÁO HỆ THỐNG VÀ THÔNG TIN MENU / TERMINAL
+Giữ nguyên định dạng: Giữ nguyên các dòng cảnh báo, ký tự trang trí (==== , ****, >>, ::, ----), xuống dòng và khoảng trắng đầu dòng dùng để căn lề.
+Tối ưu dịch phần còn lại cho hợp ngữ cảnh. Chuỗi hiển thị trên màn hình terminal nên dùng văn phong kỹ thuật, ngắn gọn.
+Ví dụ:
+  Nguồn (en): "DANGER: Unauthorized software detected! The following programs are no longer functional:
+  -- Read-only settings
+  -- Politeness filter
+  -- Profanity blocker
+  -- Anti-gaming software"
+
+  Dịch: "NGUY HIỂM: Hệ thống đã phát hiện phần mềm không hợp lệ! Dưới đây là các chương trình bị vô hiệu hóa:
+  -- Cài đặt chỉ đọc
+  -- Bộ lọc lịch sự
+  -- Bộ chặn thô tục
+  -- Phần mềm chống chơi game"
+
+
+5. QUY TẮC GIỮ NGUYÊN THẺ / BIẾN (liệt kê từ dữ liệu thật của file)
+Giữ y nguyên từng ký tự, kể cả chữ hoa/thường:
+  - Biến động: <Alias=Player> <Alias.Pronoun=Player> <Alias=ActualLocation> <Alias=myLocation> <Alias=Dungeon>
+    <Global=...> <Token.Name=...> <Token.Title=...> và tag tên riêng dạng <K.Collins> <O.Olivette>
+  - Hiệu ứng số: <mag> <dur>
+  - HTML mini: <br> <p align="left|center"> </p> <font face='...' size='..'> </font> <i> </i>
+  - Phím điều khiển: [Click] [Accept] [Activate] [Cancel] [LeftStick] [RightStick] [XButton] [YButton] [LShoulder]
+    [RShoulder] [LTrigger] [RTrigger] [Up] [Down] [Left] [Right] [PipBoy] [Pipboy] [VATS] [Melee] [ReadyWeapon]
+    [PrimaryAttack] [SecondaryAttack] [pagebreak] ...
+  - Định dạng số: %d %s %% %AP và mọi chuỗi bắt đầu bằng %
+  - Ký tự xuống dòng \n (trong định dạng gửi/nhận ở trên)
+  - Tag cảm xúc: <cough> <zot> <bzzzzt> <sob> <sigh> <Growl> <ERROR> <sinister laugh>
+Chỉ dịch chữ nằm giữa các tag. Ví dụ: "<font size='18'>Warning</font>" -> "<font size='18'>Cảnh báo</font>".
+Số lượng tag trong bản dịch phải bằng đúng số lượng tag của bản gốc.
+
+
+6. DANH SÁCH KIỂM TRA TRƯỚC KHI TRẢ KẾT QUẢ
+  [ ] Số dòng đầu ra = số dòng đầu vào, ID khớp từng dòng.
+  [ ] Mọi tag/biến/phím còn đủ, đúng chính tả, đúng số lượng.
+  [ ] Chuỗi ID engine, chuỗi rỗng, chuỗi chỉ dấu cách đã được giữ nguyên.
+  [ ] Tên riêng, phe phái, địa danh đã giữ nguyên theo Glossary mục B.
+  [ ] Thuật ngữ chung dịch đúng theo Glossary mục C, xưng hô đúng mục E.
+  [ ] Không còn chữ Trung Quốc hoặc dòng tiếng Anh bị bỏ sót (trừ phần được phép giữ).
+  [ ] Chính tả, dấu câu, viết hoa đầu câu đúng chuẩn tiếng Việt.
+  [ ] Không dùng ký tự lạ ngoài bộ chữ font đã sửa hỗ trợ (nếu font fonts_en.swf thiếu chữ, báo lại danh sách chữ bị thiếu).
+
+
+GỢI Ý QUY TRÌNH ĐỂ TIẾT KIỆM RATE LIMIT
+---------------------------------------
+- Lọc trước khi dịch: bỏ chuỗi ID engine, chuỗi rỗng và chuỗi chỉ có ký hiệu (khoảng 2.000 chuỗi ở STRINGS).
+- Loại trùng: STRINGS còn khoảng 23.000 chuỗi duy nhất trên 44.000, DLSTRINGS còn khoảng 2.900 trên 4.800. Dịch một lần rồi map ngược về theo nội dung.
+- ILSTRINGS (thoại) gần như không trùng (68.000 duy nhất trên 75.000), dịch từng đoạn theo thứ tự ID để giữ mạch hội thoại.
+- Mỗi lượt dùng context mới, kèm Glossary và hướng dẫn này, tránh một phiên dài làm context phình.
